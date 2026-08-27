@@ -1,0 +1,429 @@
+original_value,detected_type,reason,scan_count
+9100246117413009009752608071,OTHER_NUMERIC,unusual length (28 digits) — needs manual triage,2
+http://myproduct.info/0xYq,URL,"QR/URL code, not a product barcode",3
+(90)MD318509040019(91)280803,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,4
+https://www.facebook.com/BentoSquid.Official/,URL,"QR/URL code, not a product barcode",5
+https://lin.ee/aHF8o0l,URL,"QR/URL code, not a product barcode",2
+02402226,EAN8,failed GS1 check-digit validation — likely a scan error,1
+214525,OTHER_NUMERIC,unusual length (6 digits) — needs manual triage,3
+(90)MD120867000100206,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,3
+420047841,OTHER_NUMERIC,unusual length (9 digits) — needs manual triage,1
+SF5118961388297,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+94005662,EAN8,failed GS1 check-digit validation — likely a scan error,1
+http://www.alnasirexports.com/,URL,"QR/URL code, not a product barcode",1
+https://nes.tl/q/SGSustainability,URL,"QR/URL code, not a product barcode",2
+E2;076806D7E3D5;1000556,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,3
+http://weixin.qq.com/r/Ah0bAyrEpnfZrW5g90gQ,URL,"QR/URL code, not a product barcode",2
+https://calb.ee/tanken,URL,"QR/URL code, not a product barcode",1
+010933968745793939220037893103000743152608091096728489,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,6
+19556705005621,OTHER_NUMERIC,unusual length (14 digits) — needs manual triage,1
+18850487037179,OTHER_NUMERIC,unusual length (14 digits) — needs manual triage,1
+http://www.maepranom.com/redirect/redirect-009.php,URL,"QR/URL code, not a product barcode",1
+083312806080859182,OTHER_NUMERIC,unusual length (18 digits) — needs manual triage,3
+AMZ-B03-0002-01,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+130567000020,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+https://qr.kinder.com/web/r/country09,URL,"QR/URL code, not a product barcode",2
+http://shanfoods.com,URL,"QR/URL code, not a product barcode",3
+137723,OTHER_NUMERIC,unusual length (6 digits) — needs manual triage,2
+https://fleurymichon.link/recvg,URL,"QR/URL code, not a product barcode",3
+6552656,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+65465465456,OTHER_NUMERIC,unusual length (11 digits) — needs manual triage,1
+https://sucreyshopping.jp/neufneuf,URL,"QR/URL code, not a product barcode",2
+www.fuchs-cereals.com,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+https://qr1.be/1WLG,URL,"QR/URL code, not a product barcode",1
+03082026,EAN8,failed GS1 check-digit validation — likely a scan error,1
+https://itrace.siammakro.co.th/itrace/traceinfo.aspx?MAKRO.FRESH026970P117819.MAKRO1596,URL,"QR/URL code, not a product barcode",2
+8801039,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+(90)MD266613014275(91)260415,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,2
+https://twitter.com/oreojpn,URL,"QR/URL code, not a product barcode",1
+64308193,EAN8,failed GS1 check-digit validation — likely a scan error,1
+C245-19,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,5
+8010339004914,EAN13,failed GS1 check-digit validation — likely a scan error,1
+http://myproduct.info/tbbc,URL,"QR/URL code, not a product barcode",2
+https://www.dettolhygieneacademy.com/,URL,"QR/URL code, not a product barcode",3
+17727121,EAN8,failed GS1 check-digit validation — likely a scan error,1
+https://graal.pl/obszary-polowow,URL,"QR/URL code, not a product barcode",1
+242833003000432,OTHER_NUMERIC,unusual length (15 digits) — needs manual triage,1
+32110000476980422,OTHER_NUMERIC,unusual length (17 digits) — needs manual triage,1
+(90)MD242833003000432,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+S101461,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,3
+490117002112200000000000880000001,OTHER_NUMERIC,unusual length (33 digits) — needs manual triage,1
+PX78860B/A,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+https://www.kracie.co.jp/foods/okashi/chiiku/,URL,"QR/URL code, not a product barcode",2
+03348580056162296197,OTHER_NUMERIC,unusual length (20 digits) — needs manual triage,1
+168KTU,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+167KTU,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+332KTU,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,2
+(90)MD272913002503(91)260905,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+00410000261721121,OTHER_NUMERIC,unusual length (17 digits) — needs manual triage,1
+(90)NA11261700008,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,2
+(90)NA18251700262,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,3
+https://uqr.to/icemountain,URL,"QR/URL code, not a product barcode",1
+8978227,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,2
+https://jubjubnoodle.com/en/enhome/,URL,"QR/URL code, not a product barcode",1
+21260869,EAN8,failed GS1 check-digit validation — likely a scan error,5
+https://evion.in/,URL,"QR/URL code, not a product barcode",1
+w-mt.co/q/30kJybZ0vsY41D-KJ05,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+w-mt.co/q/30d8ySf0vsY41D-KMN4,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+w-mt.co/q/30bMfft0vsY41D-KKW8,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,2
+w-mt.co/q/30d8ySg0vsY41D-KKEG,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+https://www.lafourneedoree.fr/nos-produits/,URL,"QR/URL code, not a product barcode",1
+20210472999991,OTHER_NUMERIC,unusual length (14 digits) — needs manual triage,1
+http://myproduct.info/2EAGWR,URL,"QR/URL code, not a product barcode",17
+X54N6H,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+https://apicolacostache.ro/,URL,"QR/URL code, not a product barcode",3
+https://fantaurl.com/q/Dv1QPF,URL,"QR/URL code, not a product barcode",2
+4811200200000155,OTHER_NUMERIC,unusual length (16 digits) — needs manual triage,1
+2002002002002002002002002002001000000155,OTHER_NUMERIC,unusual length (40 digits) — needs manual triage,2
+0200200200200200200200200200200100000155,OTHER_NUMERIC,unusual length (40 digits) — needs manual triage,1
+48112002001000000155,OTHER_NUMERIC,unusual length (20 digits) — needs manual triage,1
+37763002001000000355,OTHER_NUMERIC,unusual length (20 digits) — needs manual triage,5
+300200,OTHER_NUMERIC,unusual length (6 digits) — needs manual triage,1
+00000355,EAN8,failed GS1 check-digit validation — likely a scan error,1
+http://qr.ruf.eu/rezept-cm,URL,"QR/URL code, not a product barcode",2
+http://pepsico.info/QSg97V,URL,"QR/URL code, not a product barcode",1
+http://www.marabou.se/countryselector,URL,"QR/URL code, not a product barcode",2
+https://www.facebook.com/pHBalancer,URL,"QR/URL code, not a product barcode",1
+https://www.bourbon.co.jp/alfort/recipe/index.html,URL,"QR/URL code, not a product barcode",4
+https://qrco.de/bdfu1I,URL,"QR/URL code, not a product barcode",2
+https://qr.page/g/3eUDvTvkfPN,URL,"QR/URL code, not a product barcode",1
+https://bit.ly/3oOnRWy,URL,"QR/URL code, not a product barcode",5
+http://bit.ly/3JeA8Od,URL,"QR/URL code, not a product barcode",1
+(90)MD222867000101622,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+(90)MD255313002119(91)270509,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+(90)ML255609076037(91)221127,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+(90)MD043771001600440,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+https://www.facebook.com/GreenmateKelly/,URL,"QR/URL code, not a product barcode",2
+01953915091970621526080231030020301026300274B,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,2
+(90)ML220935004100756,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+www.sig-smartchoice.com,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,8
+https://www.stqr.ru/75379-1-467,URL,"QR/URL code, not a product barcode",1
+(90)MD802813136007(91)260614,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,2
+44389054,EAN8,failed GS1 check-digit validation — likely a scan error,1
+https://transparencia.aldi.es/codes/ALL049704005882,URL,"QR/URL code, not a product barcode",2
+(90)MD243771002100168,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+(90)MD123771000800512,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+http://weixin.qq.com/r/Xi2OlvTEyqm1rbD193hM,URL,"QR/URL code, not a product barcode",1
+https://wk­uchnizwedl­em.wedel.p­l/,URL,"QR/URL code, not a product barcode",3
+http://weixin.qq.com/r/ADtNVRDEgk39rVQ2924S,URL,"QR/URL code, not a product barcode",4
+http://m.site.naver.com/0YiMS,URL,"QR/URL code, not a product barcode",2
+201550087,OTHER_NUMERIC,unusual length (9 digits) — needs manual triage,1
+104529330,OTHER_NUMERIC,unusual length (9 digits) — needs manual triage,1
+161751,OTHER_NUMERIC,unusual length (6 digits) — needs manual triage,1
+203138028,OTHER_NUMERIC,unusual length (9 digits) — needs manual triage,1
+15002009,EAN8,failed GS1 check-digit validation — likely a scan error,1
+https://qrs.ly/yaceb05,URL,"QR/URL code, not a product barcode",1
+00410000128040721,OTHER_NUMERIC,unusual length (17 digits) — needs manual triage,2
+https://qr.gfgl.nl/hDWeXJAtYW,URL,"QR/URL code, not a product barcode",1
+894643434645464,OTHER_NUMERIC,unusual length (15 digits) — needs manual triage,1
+04014300061652609202610208,OTHER_NUMERIC,unusual length (26 digits) — needs manual triage,1
+0100313668429909215T134FNWNG11H721727083110BGS4M081,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+https://www.wasabi.uk.com/,URL,"QR/URL code, not a product barcode",3
+https://qr.lkk.com/p/3300662159,URL,"QR/URL code, not a product barcode",1
+http://www.ch-fw315.cn,URL,"QR/URL code, not a product barcode",3
+(90)NA18220603091(91)251009,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,32
+https://recycle1.moenv.gov.tw/sys/Business/Carton.aspx?c=ODkyMDk5OTQ=,URL,"QR/URL code, not a product barcode",3
+http://www.cherrygrandpa.com.tw/,URL,"QR/URL code, not a product barcode",6
+A247385W,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+https://qrco.de/bdBxoV,URL,"QR/URL code, not a product barcode",2
+1565565,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+779766222,OTHER_NUMERIC,unusual length (9 digits) — needs manual triage,1
+3683201400,OTHER_NUMERIC,unusual length (10 digits) — needs manual triage,1
+http://facebook.com/profile.php?id=100023754555076,URL,"QR/URL code, not a product barcode",2
+152689291,OTHER_NUMERIC,unusual length (9 digits) — needs manual triage,1
+0460761,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+9215327655065484100000000712,OTHER_NUMERIC,unusual length (28 digits) — needs manual triage,1
+http://2d.kenvue.com/01/03574661853161,URL,"QR/URL code, not a product barcode",1
+6223105,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+1473876,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+https://linktr.ee/unoplus,URL,"QR/URL code, not a product barcode",1
+44417194,EAN8,failed GS1 check-digit validation — likely a scan error,1
+710998481645,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+http://www.kuhneheitz.com/brands/geko/,URL,"QR/URL code, not a product barcode",1
+http://pepsico.info/490thw,URL,"QR/URL code, not a product barcode",4
+94288002001000000255,OTHER_NUMERIC,unusual length (20 digits) — needs manual triage,1
+www.fruitandfun.com,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,2
+X001FKMHBH,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,3
+X001AME4TN,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,2
+https://wa.me/message/EKKXPE6EVVVJM1?src=qr,URL,"QR/URL code, not a product barcode",2
+560075720087,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+1345143/E,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+https://scnv.io/Q1lc?qr=1,URL,"QR/URL code, not a product barcode",1
+(90)ML072933032800014,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+GC0008,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,12
+https://cokesocial.ca/FantaXK,URL,"QR/URL code, not a product barcode",2
+243182003300019,OTHER_NUMERIC,unusual length (15 digits) — needs manual triage,1
+http://myproduct.info/w5yQ,URL,"QR/URL code, not a product barcode",4
+700000140237,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+700000140234,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+BK,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+https://www.nitinen.com,URL,"QR/URL code, not a product barcode",3
+3226337,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+http://www.stepbystep.com.my/,URL,"QR/URL code, not a product barcode",1
+(90)ML072871008100026,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,2
+https://www.sbfoods-worldwide.com/curry/?utm_source=pkg&utm_medium=qr&utm_campaign=g1,URL,"QR/URL code, not a product barcode",1
+(90)MD241146009000282,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+(90)MD243146009200091,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+737492821167,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+35804029,EAN8,failed GS1 check-digit validation — likely a scan error,1
+414757480205,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+887502302229,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+http://www.bbgrashel.com,URL,"QR/URL code, not a product barcode",1
+65656565,EAN8,failed GS1 check-digit validation — likely a scan error,1
+8859007685746,EAN13,failed GS1 check-digit validation — likely a scan error,1
+H681100,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+0077085,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,2
+X001ATUW9T,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,3
+64979145,EAN8,failed GS1 check-digit validation — likely a scan error,2
+https://www.knorr.com/us/en/ar/pastaalfredo.html,URL,"QR/URL code, not a product barcode",1
+https://www.rollingpinsnacks.com/pages/snack-qr-landing-page,URL,"QR/URL code, not a product barcode",1
+690624,OTHER_NUMERIC,unusual length (6 digits) — needs manual triage,1
+https://qrco.de/bdy2fc,URL,"QR/URL code, not a product barcode",1
+558852,OTHER_NUMERIC,unusual length (6 digits) — needs manual triage,1
+https://mx.oaqr.io/01/03600551124803,URL,"QR/URL code, not a product barcode",1
+https://l.ead.me/bchegW,URL,"QR/URL code, not a product barcode",6
+03129726,EAN8,failed GS1 check-digit validation — likely a scan error,1
+https://www.smart174.ru/actions/,URL,"QR/URL code, not a product barcode",1
+11782115,EAN8,failed GS1 check-digit validation — likely a scan error,1
+2989102023,OTHER_NUMERIC,unusual length (10 digits) — needs manual triage,1
+880028196991940414,OTHER_NUMERIC,unusual length (18 digits) — needs manual triage,1
+281827,OTHER_NUMERIC,unusual length (6 digits) — needs manual triage,1
+858588,OTHER_NUMERIC,unusual length (6 digits) — needs manual triage,1
+bohetang-1,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,4
+https://qr-i.io/bniq1usb,URL,"QR/URL code, not a product barcode",1
+http://eliciousforyou.com/,URL,"QR/URL code, not a product barcode",1
+100048552,OTHER_NUMERIC,unusual length (9 digits) — needs manual triage,1
+SP000049,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+308701,OTHER_NUMERIC,unusual length (6 digits) — needs manual triage,1
+https://m.site.naver.com/1IwYE,URL,"QR/URL code, not a product barcode",5
+https://nes.tl/q/buitoni_focaccia,URL,"QR/URL code, not a product barcode",1
+https://www.facebook.com/DurraEgypt,URL,"QR/URL code, not a product barcode",1
+64396127,EAN8,failed GS1 check-digit validation — likely a scan error,2
+65491356/65493208,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+K241889000,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+"SU Tools
+M Umer
+03007429952",NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+http://madeeasy.com.pk,URL,"QR/URL code, not a product barcode",1
+https://www.fontaneda.es,URL,"QR/URL code, not a product barcode",2
+955635200161,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+https://q.me-qr.com/rl6crceu,URL,"QR/URL code, not a product barcode",1
+https://champ.dsqc.io/v/ChampProductKnowledge.mp4,URL,"QR/URL code, not a product barcode",1
+(90)MD273146000600253,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+http://www.tunnock.co.uk,URL,"QR/URL code, not a product barcode",6
+https://www.cadbury.co.uk/about/impact/sustainability/recycling,URL,"QR/URL code, not a product barcode",1
+https://delivr.com/2dph6-qr,URL,"QR/URL code, not a product barcode",4
+http://ptindonesiabakeryfamily.com/,URL,"QR/URL code, not a product barcode",2
+http://goo.gl/LqSdQ,URL,"QR/URL code, not a product barcode",1
+(90)MD020835000100231,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,3
+(90)ML272933011500014,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+https://recipe.yamazakipan.co.jp/,URL,"QR/URL code, not a product barcode",3
+https://mx.oaqr.io/01/03600551183992,URL,"QR/URL code, not a product barcode",3
+680003747993618,OTHER_NUMERIC,unusual length (15 digits) — needs manual triage,1
+https://qrco.de/bba6Ka,URL,"QR/URL code, not a product barcode",1
+(90)MD243188006000147,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+173302,OTHER_NUMERIC,unusual length (6 digits) — needs manual triage,4
+https://qrfy.io/8TgI55ZRYe,URL,"QR/URL code, not a product barcode",3
+206638001000000682608028,OTHER_NUMERIC,unusual length (24 digits) — needs manual triage,2
+https://qrco.de/befEES,URL,"QR/URL code, not a product barcode",2
+p8,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,3
+2351E93z-eqmW..e4S0108416500003052800826021107,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+794053,OTHER_NUMERIC,unusual length (6 digits) — needs manual triage,1
+00074865794053,OTHER_NUMERIC,unusual length (14 digits) — needs manual triage,1
+1014766,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+1091708,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,2
+https://transparenz.aldi.de,URL,"QR/URL code, not a product barcode",3
+010430652814421617260807,OTHER_NUMERIC,unusual length (24 digits) — needs manual triage,2
+https://chips.kellys.at,URL,"QR/URL code, not a product barcode",4
+949678846549584,OTHER_NUMERIC,unusual length (15 digits) — needs manual triage,1
+010697183395247470032610092359101011126071000008008260710000000914M321000092,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+https://www.trenn-hinweis.de/gelbe-tonne/,URL,"QR/URL code, not a product barcode",4
+64847347,EAN8,failed GS1 check-digit validation — likely a scan error,1
+01930267350093923103001000172608091020922,OTHER_NUMERIC,unusual length (41 digits) — needs manual triage,1
+8120118465000599,OTHER_NUMERIC,unusual length (16 digits) — needs manual triage,1
+145136007870,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+100058768,OTHER_NUMERIC,unusual length (9 digits) — needs manual triage,2
+https://q.me-qr.com/mod2rm5d,URL,"QR/URL code, not a product barcode",1
+https://qrco.de/bbCeXB,URL,"QR/URL code, not a product barcode",1
+9350031066,OTHER_NUMERIC,unusual length (10 digits) — needs manual triage,1
+https://transparenz.aldi.de/codes/WIE0444947435,URL,"QR/URL code, not a product barcode",1
+(90)MD272811001200440,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+(90)HT122600301(91)221103,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+(90)MD273728061009(91)251214,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,5
+(90)MD123456123456(91)230312,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,2
+http://qr09.patatastorres.com,URL,"QR/URL code, not a product barcode",3
+VG0430126,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+https://qrco.de/beUzdr,URL,"QR/URL code, not a product barcode",2
+SPXID067651438415,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+(90)ML224509031921(91)250908,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,2
+270003887832621402,OTHER_NUMERIC,unusual length (18 digits) — needs manual triage,1
+F,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+15001045122010,OTHER_NUMERIC,unusual length (14 digits) — needs manual triage,1
+(90)MD043139000500609,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+9069298,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+346666666666,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+(90)MD222888000301122,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+https://me-qr.com/zwLUIY,URL,"QR/URL code, not a product barcode",1
+https://www.meiji.co.jp/products/brand/familia/?link=famp20090801,URL,"QR/URL code, not a product barcode",1
+(90)MD240282007900033,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+191034245639,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+6974496749744,EAN13,failed GS1 check-digit validation — likely a scan error,1
+69980911,EAN8,failed GS1 check-digit validation — likely a scan error,2
+(90)NA18251701008,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
++b?,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+https://www.facebook.com/share/1B2Ha552zb/,URL,"QR/URL code, not a product barcode",1
+6281033,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+1014400929355,EAN13,failed GS1 check-digit validation — likely a scan error,1
+https://nes.tl/q/IAP-home,URL,"QR/URL code, not a product barcode",2
+1101634,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+https://qrto.org/kCdeTT,URL,"QR/URL code, not a product barcode",3
+https://scnv.io/cyp5?qr=1,URL,"QR/URL code, not a product barcode",1
+70101622,EAN8,failed GS1 check-digit validation — likely a scan error,1
+https://qrco.de/bcjbym,URL,"QR/URL code, not a product barcode",2
+8217470,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+https://myqrcode.mobi/e1e66815,URL,"QR/URL code, not a product barcode",1
+72876002001000000155,OTHER_NUMERIC,unusual length (20 digits) — needs manual triage,1
+42876002001000000155,OTHER_NUMERIC,unusual length (20 digits) — needs manual triage,3
+https://well.weilongmeiwei.com/4.html,URL,"QR/URL code, not a product barcode",2
+981021,OTHER_NUMERIC,unusual length (6 digits) — needs manual triage,1
+98102115436,OTHER_NUMERIC,unusual length (11 digits) — needs manual triage,1
+(90)MD201511026465(91)231227,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+08999999211455,OTHER_NUMERIC,unusual length (14 digits) — needs manual triage,1
+84176725955989096341,OTHER_NUMERIC,unusual length (20 digits) — needs manual triage,3
+(90)NC16240700004,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+(90)ML835609655008(91)220313,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+8214146,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+49018204193231000203,OTHER_NUMERIC,unusual length (20 digits) — needs manual triage,1
+857126019360,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+https://www.royce.com/?utm_source=qrcode&utm_medium=package&utm_campaign=qr_inflow&utm_content=qr,URL,"QR/URL code, not a product barcode",4
+http://myproduct.info/9iDc,URL,"QR/URL code, not a product barcode",3
+NYMZ000011,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+074000,OTHER_NUMERIC,unusual length (6 digits) — needs manual triage,1
+FCN6LD6FU6:16%C6O60MY1IS0BS,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,2
+(90)ML240988003400246,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+29431698293_237610994673,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+(90)MD242871002500546,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,3
+109609102009,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+(90)MD235611315020(91)261104,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+https://line.me/R/ti/p/%40538rpcfu,URL,"QR/URL code, not a product barcode",1
+https://trustlabel.id/SCTF2WFPC,URL,"QR/URL code, not a product barcode",1
+http://www.boxworld.com.my,URL,"QR/URL code, not a product barcode",1
+(90)MD268813074040(91)270913,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+00000,INVALID,too short to be a valid barcode,1
+272358385,OTHER_NUMERIC,unusual length (9 digits) — needs manual triage,1
+https://l.ead.me/vrtl24,URL,"QR/URL code, not a product barcode",1
+https://gcc-campaign.suntop.com.sa,URL,"QR/URL code, not a product barcode",2
+https://linktr.ee/exacosmatices?utm_source=qr_code,URL,"QR/URL code, not a product barcode",3
+(90)ML635509645060(91)250907,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+0<,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+http://www.nestlecocoaplan.com,URL,"QR/URL code, not a product barcode",3
+https://bit.ly/turnipstiktok?r=qr,URL,"QR/URL code, not a product barcode",2
+http://pepsico.info/490oqq,URL,"QR/URL code, not a product barcode",1
+http://pepsico.info/490nsc,URL,"QR/URL code, not a product barcode",4
+https://www.pesoforma.com/calcolo-bmi/,URL,"QR/URL code, not a product barcode",1
+550000000001041,OTHER_NUMERIC,unusual length (15 digits) — needs manual triage,2
+https://lczd.me/energy,URL,"QR/URL code, not a product barcode",2
+433561902751,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+801117693909,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+https://mama.sahapat.com/cup/seafoodextreme,URL,"QR/URL code, not a product barcode",1
+12765205,EAN8,failed GS1 check-digit validation — likely a scan error,1
+FRE6YKQM,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,2
+https://qr.nestle.com/01/08445292562485,URL,"QR/URL code, not a product barcode",3
+https://www.7andi.com/sustainability/,URL,"QR/URL code, not a product barcode",7
+000000,OTHER_NUMERIC,unusual length (6 digits) — needs manual triage,2
+12734205,EAN8,failed GS1 check-digit validation — likely a scan error,1
+https://qrco.de/bcScLP,URL,"QR/URL code, not a product barcode",1
+12110066182370526,OTHER_NUMERIC,unusual length (17 digits) — needs manual triage,3
+1210066182370526,OTHER_NUMERIC,unusual length (16 digits) — needs manual triage,1
+124100772968640526,OTHER_NUMERIC,unusual length (18 digits) — needs manual triage,1
+12441107,EAN8,failed GS1 check-digit validation — likely a scan error,2
+1115693007,OTHER_NUMERIC,unusual length (10 digits) — needs manual triage,2
+2215452,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+600528364408,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+0176286573,OTHER_NUMERIC,unusual length (10 digits) — needs manual triage,1
+https://belproduct.bgp.by/,URL,"QR/URL code, not a product barcode",1
+71940300654,OTHER_NUMERIC,unusual length (11 digits) — needs manual triage,1
+071940300654,UPC_A,failed GS1 check-digit validation — likely a scan error,2
+https://SpriteURL.com/q/ONEXP-IC-TH,URL,"QR/URL code, not a product barcode",3
+10070131,EAN8,failed GS1 check-digit validation — likely a scan error,3
+(90)NA18250612951,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+(90)SD101639431,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+027620505724002,OTHER_NUMERIC,unusual length (15 digits) — needs manual triage,1
+027620505376001,OTHER_NUMERIC,unusual length (15 digits) — needs manual triage,1
+8219213,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,2
+060006203213,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+19556439889252,OTHER_NUMERIC,unusual length (14 digits) — needs manual triage,3
+N-O +252615861283,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,2
+8996001,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+547,INVALID,too short to be a valid barcode,2
+059,INVALID,too short to be a valid barcode,4
+http://x.bxys.cc/9c7REkex2ylGDz,URL,"QR/URL code, not a product barcode",1
+0579868669,OTHER_NUMERIC,unusual length (10 digits) — needs manual triage,2
+064924394,OTHER_NUMERIC,unusual length (9 digits) — needs manual triage,1
+https://www.miamofoods.com/sardine/,URL,"QR/URL code, not a product barcode",3
+https://youtube.com/qr/zNu7f_FWFpysfhrM5lpYGf,URL,"QR/URL code, not a product barcode",1
+https://qrco.de/bgOe0B,URL,"QR/URL code, not a product barcode",1
+https://zko.jp/u65bcz,URL,"QR/URL code, not a product barcode",1
+http://onelink.to/app-famila,URL,"QR/URL code, not a product barcode",3
+qr.ferrerofoodservice.com,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+4055509055040;0.79;;1100;31213302,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+https://qrco.de/bfSsmq,URL,"QR/URL code, not a product barcode",2
+http://weixin.qq.com/r/Cy4DG6LEnP-jreZ493sZ,URL,"QR/URL code, not a product barcode",1
+https://l66.co/a/35067431295214120687445131976304552,URL,"QR/URL code, not a product barcode",1
+111195187,OTHER_NUMERIC,unusual length (9 digits) — needs manual triage,1
+1075497,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+https://bit.ly/3E461Zm,URL,"QR/URL code, not a product barcode",2
+(90)ML240933048500001,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,3
+https://zko.jp/f68d29,URL,"QR/URL code, not a product barcode",4
+0104673721478289215cG3=qn1tDKkt938yJ9,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+http://www.bingotukemono.jp/blog/594.html,URL,"QR/URL code, not a product barcode",1
+https://bstiqrcode.gov.bd/qr-code/1taQEC737QG8vA9h_dzBuWbC2C47Qg5KeFqzDBf26J0,URL,"QR/URL code, not a product barcode",2
+0055810,OTHER_NUMERIC,unusual length (7 digits) — needs manual triage,1
+8999099913739,EAN13,failed GS1 check-digit validation — likely a scan error,1
+http://www.retina-ltd.com/,URL,"QR/URL code, not a product barcode",1
+https://www.mihaohao.vn/?code=009,URL,"QR/URL code, not a product barcode",2
+(90)MD655613256019(91)271216,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+193918,OTHER_NUMERIC,unusual length (6 digits) — needs manual triage,1
+https://eqrco.de/a/9rVl2K,URL,"QR/URL code, not a product barcode",4
+http://weixin.qq.com/r/bUS9pT7EkGPvrXrG9xF-,URL,"QR/URL code, not a product barcode",4
+http://zsl.sfood.zjamr.zj.gov.cn/gtin/06951451810028,URL,"QR/URL code, not a product barcode",1
+18090400,EAN8,failed GS1 check-digit validation — likely a scan error,1
+https://www.merchant-gourmet.com/pages/packaging,URL,"QR/URL code, not a product barcode",2
+https://www.merchant-gourmet.com/blogs/recipes/tagged/rice,URL,"QR/URL code, not a product barcode",1
+13433902,EAN8,failed GS1 check-digit validation — likely a scan error,3
+https://www.eldan-recycling.com/,URL,"QR/URL code, not a product barcode",1
+https://tracciabilitamalto.peroni.it/Peroni66cl,URL,"QR/URL code, not a product barcode",2
+833990031268,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+3990031268,OTHER_NUMERIC,unusual length (10 digits) — needs manual triage,1
+http://www.yumyumfoods.com/,URL,"QR/URL code, not a product barcode",5
+0104607156604678215Bld9mNOrli+N93s9Y0,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,4
+0838991102380805,OTHER_NUMERIC,unusual length (16 digits) — needs manual triage,1
+8120118504000599,OTHER_NUMERIC,unusual length (16 digits) — needs manual triage,2
+0104690388122577215zNZ&;>S4ncnC93S35I,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+718090442,OTHER_NUMERIC,unusual length (9 digits) — needs manual triage,1
+1916191619161916191619161916121001000149,OTHER_NUMERIC,unusual length (40 digits) — needs manual triage,1
+https://nes.tl/myws_rsc,URL,"QR/URL code, not a product barcode",1
+622210659408,UPC_A,failed GS1 check-digit validation — likely a scan error,1
+(90)MD242811003400677,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+(90)MD242835003000396,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,3
+0108806718056221,OTHER_NUMERIC,unusual length (16 digits) — needs manual triage,1
+XUANDI,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+971505796734208270005632,OTHER_NUMERIC,unusual length (24 digits) — needs manual triage,1
+010340093031787721133E5Y117AXX021728063010A1A5512A2,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,1
+https://zs.yishutec.com/01/06952037103824,URL,"QR/URL code, not a product barcode",1
+(90)MD242839004600652,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+75752800527,OTHER_NUMERIC,unusual length (11 digits) — needs manual triage,1
+75752805017,OTHER_NUMERIC,unusual length (11 digits) — needs manual triage,1
+https://qr.generatorqr.com/4gyg3m7bc,URL,"QR/URL code, not a product barcode",1
+https://www.toyobo.co.jp/seihin/film/package/genpla.html,URL,"QR/URL code, not a product barcode",3
+0104690388121068215s.k%Utca%GGU93bEeX,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,2
+9600006016644122,OTHER_NUMERIC,unusual length (16 digits) — needs manual triage,1
+08999999,EAN8,failed GS1 check-digit validation — likely a scan error,1
+www.sunrisewater.vn,NON_NUMERIC,contains non-digit characters — likely internal SKU/RFID,4
+(90)ML835609645008(91)270306,GS1_DATAMATRIX,GS1 Application Identifier code (pharma/cosmetic) — route to separate queue,1
+01062641260,OTHER_NUMERIC,unusual length (11 digits) — needs manual triage,1
+https://safi.com.my/hijab-scalp-microbiome-technology/,URL,"QR/URL code, not a product barcode",3
+90995112337,OTHER_NUMERIC,unusual length (11 digits) — needs manual triage,1
+https://com.continente.pt/uxLQft,URL,"QR/URL code, not a product barcode",4
+https://www.sanbenedetto.es/es/default.asp,URL,"QR/URL code, not a product barcode",1
+https://cowandgate.club/c800,URL,"QR/URL code, not a product barcode",1

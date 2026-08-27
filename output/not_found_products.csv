@@ -1,0 +1,1491 @@
+barcode,barcode_type,gs1_country,sources_attempted,scan_count
+4903110111009,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",2
+8410376486773,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",1
+440456017113,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",1
+4902410527497,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",1
+4973350280582,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",1
+8006876100280,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",1
+8997021871295,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",1
+4903333252725,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",1
+4607109845677,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",2
+6001224708318,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",4
+8964002634750,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",1
+8946000016004,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",3
+278089038706,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",3
+4901340099845,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",2
+0282660902188,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",1
+4549414696639,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",1
+4582451702987,UNKNOWN,,"[""error: 'int' object has no attribute 'decode'""]",1
+4610063180951,EAN13,Russia,"[""searxng:4610063180951"", ""https://www.google.com/search?q=4610063180951"", ""https://www.google.com/search?q=4610063180951"", ""https://www.google.com/search?q=4610063180951""]",2
+4933602456226,EAN13,Japan,"[""searxng:4933602456226"", ""https://shop.aeon.com/netsuper/01050000006580/010500000065804933602456226.html""]",1
+8993099990357,EAN13,Indonesia,"[""https://www.tokopedia.com/search?st=product&q=8993099990357"", ""https://shopee.co.id/search?keyword=8993099990357"", ""https://cekbpom.pom.go.id/"", ""https://www.google.com/search?q=8993099990357"", ""https://shopee.co.id/search?keyword=8993099990357"", ""https://www.google.com/search?q=8993099990357"", ""https://www.google.com/search?q=8993099990357""]",1
+4056489025078,EAN13,Germany,"[""searxng:4056489025078"", ""https://www.google.com/search?q=4056489025078"", ""https://www.google.com/search?q=4056489025078"", ""https://www.google.com/search?q=4056489025078""]",2
+6901668941497,EAN13,China,"[""searxng:6901668941497"", ""https://search.jd.com/Search?keyword=6901668941497"", ""https://s.taobao.com/search?q=6901668941497"", ""https://www.google.com/search?q=6901668941497"", ""https://search.jd.com/Search?keyword=6901668941497"", ""https://search.jd.com/Search?keyword=6901668941497#none"", ""https://storage.360buyimg.com/retail-mall/mall-common-component/prod/1.0.26/css/index.84048d60.css"", ""https://help.jd.com/user/issue/list-29.html"", ""https://help.jd.com/user/issue/list-151.html"", ""https://help.jd.com/user/issue/list-297.html"", ""https://www.google.com/search?q=6901668941497"", ""https://www.google.com/search?q=6901668941497""]",2
+9555678901162,EAN13,Malaysia,"[""searxng:9555678901162"", ""https://www.scribd.com/document/860019492/1""]",1
+6453855800006,EAN13,Finland,"[""searxng:6453855800006""]",1
+8904035418903,EAN13,India,"[""searxng:8904035418903"", ""https://www.scribd.com/document/974106768/G-Fresh-Mart-Item-List-Updated-23-24-Xlsx""]",1
+4901117435098,EAN13,Japan,"[""searxng:4901117435098"", ""https://shop.pxgo.com.tw/hourArrive/goods/1266065-36040168-4901117435098""]",4
+2041909201448,EAN13,,"[""searxng:2041909201448""]",1
+8997033731983,EAN13,Indonesia,"[""searxng:8997033731983"", ""https://www.tokopedia.com/search?st=product&q=8997033731983"", ""https://shopee.co.id/search?keyword=8997033731983"", ""https://cekbpom.pom.go.id/"", ""https://shopee.co.id/search?keyword=8997033731983""]",1
+2043836100542,EAN13,,"[""searxng:2043836100542""]",2
+2041910201444,EAN13,,"[""searxng:2041910201444""]",2
+0233716052494,EAN13,United States / Canada,"[""searxng:0233716052494""]",2
+4792098498222,EAN13,,"[""searxng:4792098498222"", ""https://globalfoodcity.com/product/md-strawberry-jam-with-whole-strawberries-500g/""]",4
+9327776011025,EAN13,Australia,"[""searxng:9327776011025"", ""https://g10.nc/alimentaire/17023-aftershock-bonbon-petillant-15g-bte12-9327776011025.html""]",1
+5023274060667,EAN13,United Kingdom,"[""searxng:5023274060667"", ""https://www.tesco.com/groceries/en-GB/search?query=5023274060667"", ""https://www.tesco.com/groceries/en-GB/search?query=5023274060667""]",3
+8852528004419,EAN13,Thailand,"[""https://shopee.co.th/search?keyword=8852528004419"", ""https://www.lazada.co.th/catalog/?q=8852528004419"", ""https://shopee.co.th/search?keyword=8852528004419""]",1
+8852528004464,EAN13,Thailand,"[""searxng:8852528004464"", ""https://shopee.co.th/search?keyword=8852528004464"", ""https://www.lazada.co.th/catalog/?q=8852528004464"", ""https://shopee.co.th/search?keyword=8852528004464""]",2
+1013224060667,EAN13,United States / Canada,"[""searxng:1013224060667""]",1
+9400569013182,EAN13,New Zealand,"[""searxng:9400569013182""]",2
+9331615012906,EAN13,Australia,"[""searxng:9331615012906""]",2
+2303868100133,EAN13,,"[""searxng:2303868100133""]",3
+8721161604075,EAN13,Netherlands,"[""searxng:8721161604075""]",1
+4071800067407,EAN13,Germany,"[""searxng:4071800067407""]",2
+031604008352,UPC_A,United States / Canada,"[""searxng:0031604008352""]",3
+7804623700964,EAN13,Chile,"[""searxng:7804623700964""]",3
+259006021063,UPC_A,United States / Canada,"[""searxng:0259006021063""]",1
+4780118970155,EAN13,,"[""searxng:4780118970155""]",1
+9556714200027,EAN13,Malaysia,"[""searxng:9556714200027"", ""https://shopee.com.my/search?keyword=9556714200027"", ""https://www.lazada.com.my/catalog/?q=9556714200027"", ""https://shopee.com.my/search?keyword=9556714200027""]",2
+9555437600091,EAN13,Malaysia,"[""searxng:9555437600091"", ""https://shopee.com.my/search?keyword=9555437600091"", ""https://www.lazada.com.my/catalog/?q=9555437600091"", ""https://shopee.com.my/search?keyword=9555437600091""]",2
+4780118970117,EAN13,,"[""searxng:4780118970117""]",1
+7622202333477,EAN13,Switzerland / Liechtenstein,"[""https://www.google.com/search?q=7622202333477""]",1
+4894926353977,EAN13,Hong Kong,"[""https://www.google.com/search?q=4894926353977""]",1
+6072046020230,EAN13,,"[""https://www.google.com/search?q=6072046020230""]",1
+8961014018202,EAN13,Pakistan,"[""https://www.google.com/search?q=8961014018202""]",2
+4549737018996,EAN13,Japan,"[""searxng:4549737018996"", ""https://www.amazon.co.jp/s?k=4549737018996#skippedLink"", ""https://www.amazon.co.jp/s?k=4549737018996#s-refinements &gt; div.a-section &gt; div:first-child"", ""https://www.amazon.co.jp/s?k=4549737018996"", ""https://www.amazon.co.jp/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2Fs%2F%3F_encoding%3DUTF8%26k%3D4549737018996%26ref_%3Dnav_ya_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"", ""https://www.amazon.co.jp/s?k=4549737018996#s-skipLinkTargetForFilterOptions""]",1
+2316813617174,EAN13,,"[""searxng:2316813617174""]",1
+4031446400921,EAN13,Germany,"[""searxng:4031446400921""]",1
+209639052484,UPC_A,United States / Canada,"[""searxng:0209639052484"", ""https://www.target.com/s/0209639052484"", ""https://www.target.com/s?searchTerm=0209639052484#content"", ""https://www.target.com/s?searchTerm=0209639052484#footerHeader""]",1
+3571320030123,EAN13,France,"[""searxng:3571320030123""]",7
+5060639603183,EAN13,United Kingdom,"[""searxng:5060639603183""]",2
+6920734704576,EAN13,China,"[""searxng:6920734704576"", ""https://icheck.vn/sitemap/products/products-753.xml"", ""https://search.jd.com/Search?keyword=6920734704576#none"", ""https://storage.360buyimg.com/retail-mall/mall-common-component/prod/1.0.26/css/index.84048d60.css"", ""https://help.jd.com/user/issue/list-29.html"", ""https://help.jd.com/user/issue/list-151.html"", ""https://help.jd.com/user/issue/list-297.html"", ""https://s.taobao.com/search?q=6920734704576"", ""https://login.taobao.com/member/login.jhtml?f=top&amp;redirectURL=https%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3D6920734704576"", ""https://market.m.taobao.com/app/tbhome/feedback/index.html?from=https%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3D6920734704576"", ""https://market.m.taobao.com/app/im/chat/index.html""]",2
+8021230192015,EAN13,Italy,"[""searxng:8021230192015"", ""https://italiancompaniesforlargescaledistribution.digital.ice.it/wp-content/uploads/2023/05/EXPORT-PRODUCT-LIST-2023-LOSITO-E-GUARINI.pdf"", ""https://aax-eu-zaz.amazon.it/x/c/JO63sgPUGKYoHDIUc6ufREwAAAGgHnyjdgoAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICDXtYSY/clv1c_ek-wBYHXKsTW7neqsFLFvou-M7kGGNIkGonY-uJzj2Hz0SqRFcON61vwuR9aYT4gx3sebyFLl_PEI0roKI8RJ9iGok5p9jOmSEu8rg3SHQ0-6p36eDB5vg8T6-hOZhJwUv7nSMOdrXRh26CTaE7YGIqfujUclVPCsgTB73QqybI5SVt9XINo9cilOPHUIwPNrwEKyaIOU4TG1PKpb3zoMqoreAZqRAzxw3_CKZgHCwKvCFhUsm8iD6ySbH_MKxJBm2C6wZtHpE_HLpxJWHn-m5FXHarTYD1gJTSPZbYWWr7E6vBLXnBU1gVdEHS8hOZ4RZHm1IC8ixs179808Rcfh9WfoJfwUGrhisU-ifmkELCLklMHX-06r_L5hEDW8zsFoWvL-AFaFlozunPtLcA0gg-K32d50I5UzwT6wMqH5qQkWWFYcAAoD6kN3t2mWatFZJGJBJAEENSiphm9KY8qPy56rgGBXzOr1OdNANVifpAyp2mgQs7D4BOpXlLUlz-G8JAMfjK6q0UxsklWZFkzxHSxjW0vHVTXaDP9XeYlV7NWK7f5eQ70BvPQ3rgBoog0nNYVbO7arvgUMZAlDIFp3HQrMb5rdgrK_I5Tg-v-P2v_yE_iIVbO53Egr0Rjy8zzGQm_JhR6ueYQa8Q0uaBC9k8hF3hnLnUHvvwQW8YKwE30RHbRgYKGsj4Ah8jxqDytztU9e3Yt1uEoLZVLrwl42bw4CL3S9IjEiwqmG2Mt8mOhXnmOegsfpD2haVWd6kJj23vKacPMHwSENdmFw17LxtIhFYzLWXSfOYMgP1JoJcX6h7H7adSoMxEGzVaYbDpGtscGN6nYXi8QL4BkZTV92PAVZw2B0dyq2t2vZVvKLLmf1IDzy5CPLeum4JzCI-Aa3OGoBfTrw6PrubrrdNf0yDAgfF9zEVwA7ZKAPCI4Sah3WMwquEg0fIRAN4vtr62iLYUSZkN2n1rP3_qdRB_d9v0sxX-1-zSBJdK_498eY19Ruz14U1zxOnQVTMsmBro6VSktj5ZabrJZGiSmCQ3OGSVEtpKRrf0YKhrmDbBAAQ9YabHTrmuxMxUn5jayOEkL5DAgulJNuJysJiaOFugftOItjTp5-TXaX0S3Ery3eOUhTdczNUdEkdvKxxPeGpDMuUIYlfwIYygEO_ATrKngUHRTh1K55D4oxpz7JJTnP2JjMF47F6A9C8fxZPwpW2emys0mPVQz6x5hcFVHoOMd36umI6emdNzwjKXwWaXmfyFW_9fFOil_lq2Zf7pfXaRDgc95le4wK-PaMt9LV5gHyHIq2UivUhhseFBRMjGonRjUcHLZ-1zlelDS8vbPzfPOpN_CGiA6XBd26rfm3o7ajo2kWJnn6BeA42yahxtCuzeO2J5GSxXL9j0VtUThSExiqKKvUnR0qrhzbb0KRBErMYLYxcJmAU-3j2j62Yq4b3RVaHVYhyutlV2CoTVMm-36jenUWe08WN5JDX9Btf1cRhbAyEIxQVXleao_GeWVcYDyAnJozPiUIxaqBDNBv37RLU_FknzN4nyf25iTWZ_DqaAgbUdNK012rw85_fvoSx5P9l1FJP6zzWTWtkDKHQ/https://www.amazon.it/Upgrade4cars-Bagagliaio-Universale-Impermeabile-Antiscivolo/dp/B0FGQP6CXH/ref=sxbs_sbv_search_btf?aref=hri6ARAJQu&amp;content-id=amzn1.sym.055e93ed-3c14-497e-8946-e8c5020c027c%3Aamzn1.sym.055e93ed-3c14-497e-8946-e8c5020c027c&amp;cv_ct_cx=8021230192015&amp;keywords=8021230192015&amp;pd_rd_i=B0FGQP6CXH&amp;pd_rd_r=52d5b4eb-8add-4b97-939c-ce7330fdb65f&amp;pd_rd_w=AYOBA&amp;pd_rd_wg=1RIkC&amp;pf_rd_p=055e93ed-3c14-497e-8946-e8c5020c027c&amp;pf_rd_r=P999Y953H0WE2WNA9158&amp;qid=1787217879&amp;sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&amp;sr=1-1-f1821008-9dea-4812-b2b6-4a6e4a4f2d55"", ""https://aax-eu-zaz.amazon.it/x/c/JO63sgPUGKYoHDIUc6ufREwAAAGgHnyjdgoAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICDXtYSY/clv1c_ek-wBYHXKsTW7neqsFLFvou-M7kGGNIkGonY-uJzj2Hz0SqRFcON61vwuR9aYT4gx3sebyFLl_PEI0roKI8RJ9iGok5p9jOmSEu8rg3SHQ0-6p36eDB5vg8T6-hOZhJwUv7nSMOdrXRh26CTaE7YGIqfujUclVPCsgTB73QqybI5SVt9XINo9cilOPHUIwPNrwEKyaIOU4TG1PKpb3zoMqoreAZqRAzxw3_CKZgHCwKvCFhUsm8iD6ySbH_MKxJBm2C6wZtHpE_HLpxJWHn-m5FXHarTYD1gJTSPZbYWWr7E6vBLXnBU1gVdEHS8hOZ4RZHm1IC8ixs179808Rcfh9WfoJfwUGrhisU-ifmkELCLklMHX-06r_L5hEDW8zsFoWvL-AFaFlozunPtLcA0gg-K32d50I5UzwT6wMqH5qQkWWFYcAAoD6kN3t2mWatFZJGJBJAEENSiphm9KY8qPy56rgGBXzOr1OdNANVifpAyp2mgQs7D4BOpXlLUlz-G8JAMfjK6q0UxsklWZFkzxHSxjW0vHVTXaDP9XeYlV7NWK7f5eQ70BvPQ3rgBoog0nNYVbO7arvgUMZAlDIFp3HQrMb5rdgrK_I5Tg-v-P2v_yE_iIVbO53Egr0Rjy8zzGQm_JhR6ueYQa8Q0uaBC9k8hF3hnLnUHvvwQW8YKwE30RHbRgYKGsj4Ah8jxqDytztU9e3Yt1uEoLZVLrwl42bw4CL3S9IjEiwqmG2Mt8mOhXnmOegsfpD2haVWd6kJj23vKacPMHwSENdmFw17LxtIhFYzLWXSfOYMgP1JoJcX6h7H7adSoMxEGzVaYbDpGtscGN6nYXi8QL4BkZTV92PAVZw2B0dyq2t2vZVvKLLmf1IDzy5CPLeum4JzCI-Aa3OGoBfTrw6PrubrrdNf0yDAgfF9zEVwA7ZKAPCI4Sah3WMwquEg0fIRAN4vtr62iLYUSZkN2n1rP3_qdRB_d9v0sxX-1-zSBJdK_498eY19Ruz14U1zxOnQVTMsmBro6VSktj5ZabrJZGiSmCQ3OGSVEtpKRrf0YKhrmDbBAAQ9YabHTrmuxMxUn5jayOEkL5DAgulJNuJysJiaOFugftOItjTp5-TXaX0S3Ery3eOUhTdczNUdEkdvKxxPeGpDMuUIYlfwIYygEO_ATrKngUHRTh1K55D4oxpz7JJTnP2JjMF47F6A9C8fxZPwpW2emys0mPVQz6x5hcFVHoOMd36umI6emdNzwjKXwWaXmfyFW_9fFOil_lq2Zf7pfXaRDgc95le4wK-PaMt9LV5gHyHIq2UivUhhseFBRMjGonRjUcHLZ-1zlelDS8vbPzfPOpN_CGiA6XBd26rfm3o7ajo2kWJnn6BeA42yahxtCuzeO2J5GSxXL9j0VtUThSExiqKKvUnR0qrhzbb0KRBErMYLYxcJmAU-3j2j62Yq4b3RVaHVYhyutlV2CoTVMm-36jenUWe08WN5JDX9Btf1cRhbAyEIxQVXleao_GeWVcYDyAnJozPiUIxaqBDNBv37RLU_FknzN4nyf25iTWZ_DqaAgbUdNK012rw85_fvoSx5P9l1FJP6zzWTWtkDKHQ/https://www.amazon.it/Upgrade4cars-Bagagliaio-Universale-Impermeabile-Antiscivolo/dp/B0FGQP6CXH/ref=sxbs_sbv_search_btf?aref=hri6ARAJQu&amp;content-id=amzn1.sym.055e93ed-3c14-497e-8946-e8c5020c027c%3Aamzn1.sym.055e93ed-3c14-497e-8946-e8c5020c027c&amp;cv_ct_cx=8021230192015&amp;keywords=8021230192015&amp;pd_rd_i=B0FGQP6CXH&amp;pd_rd_r=52d5b4eb-8add-4b97-939c-ce7330fdb65f&amp;pd_rd_w=AYOBA&amp;pd_rd_wg=1RIkC&amp;pf_rd_p=055e93ed-3c14-497e-8946-e8c5020c027c&amp;pf_rd_r=P999Y953H0WE2WNA9158&amp;qid=1787217879&amp;sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&amp;sr=1-1-f1821008-9dea-4812-b2b6-4a6e4a4f2d55#customerReviews"", ""https://www.amazon.it/s?k=8021230192015#skippedLink"", ""https://www.amazon.it/s?k=8021230192015#s-refinements &gt; div.a-section &gt; div:first-child"", ""https://www.amazon.it/s?k=8021230192015""]",2
+6971749403435,EAN13,China,"[""searxng:6971749403435"", ""https://search.jd.com/Search?keyword=6971749403435#none"", ""https://storage.360buyimg.com/retail-mall/mall-common-component/prod/1.0.26/css/index.84048d60.css"", ""https://help.jd.com/user/issue/list-29.html"", ""https://help.jd.com/user/issue/list-151.html"", ""https://help.jd.com/user/issue/list-297.html"", ""https://s.taobao.com/search?q=6971749403435"", ""https://login.taobao.com/member/login.jhtml?f=top&amp;redirectURL=https%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3D6971749403435"", ""https://market.m.taobao.com/app/tbhome/feedback/index.html?from=https%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3D6971749403435"", ""https://market.m.taobao.com/app/im/chat/index.html""]",1
+6921524177815,EAN13,China,"[""searxng:6921524177815"", ""https://www.lamartfood.co.uk/cn/products/-hotpot-selection/390g-bibigo-korean-stir-fried-rice-cake-68512e9f5c516018e7c8a809/"", ""https://www.chinamarkethaiyen.it/product-category/all/congelati-all/frutta-e-verdura-all-con/"", ""https://zh-cn.hiyou.co/products/cj-bibigo-korean-fried-rice-cake-classic-390g"", ""https://search.jd.com/Search?keyword=6921524177815#none"", ""https://storage.360buyimg.com/retail-mall/mall-common-component/prod/1.0.26/css/index.84048d60.css"", ""https://help.jd.com/user/issue/list-29.html"", ""https://help.jd.com/user/issue/list-151.html"", ""https://help.jd.com/user/issue/list-297.html"", ""https://s.taobao.com/search?q=6921524177815"", ""https://login.taobao.com/member/login.jhtml?f=top&amp;redirectURL=https%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3D6921524177815"", ""https://market.m.taobao.com/app/tbhome/feedback/index.html?from=https%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3D6921524177815"", ""https://market.m.taobao.com/app/im/chat/index.html""]",2
+6921524177884,EAN13,China,"[""searxng:6921524177884"", ""https://search.jd.com/Search?keyword=6921524177884#none"", ""https://storage.360buyimg.com/retail-mall/mall-common-component/prod/1.0.26/css/index.84048d60.css"", ""https://help.jd.com/user/issue/list-29.html"", ""https://help.jd.com/user/issue/list-151.html"", ""https://help.jd.com/user/issue/list-297.html"", ""https://s.taobao.com/search?q=6921524177884"", ""https://login.taobao.com/member/login.jhtml?f=top&amp;redirectURL=https%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3D6921524177884"", ""https://market.m.taobao.com/app/tbhome/feedback/index.html?from=https%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3D6921524177884"", ""https://market.m.taobao.com/app/im/chat/index.html""]",1
+9002279074356,EAN13,Austria,"[""searxng:9002279074356""]",1
+6901668934154,EAN13,China,"[""searxng:6901668934154"", ""https://www.chocolateworld.co.il/product/%D7%A6%D7%99%D7%A4%D7%A1-%D7%90%D7%94%D7%95%D7%99-%D7%9E%D7%99%D7%A0%D7%99-%D7%9E%D7%99%D7%A0%D7%99-%D7%91%D7%99%D7%99%D7%98%D7%A1-41-%D7%92%D7%A8-%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93"", ""https://www.scribd.com/document/920857660/20240422%E5%95%86%E5%93%81%E4%B8%BB%E6%A1%A3""]",1
+6975984400181,EAN13,China,"[""searxng:6975984400181""]",1
+6942506204855,EAN13,China,"[""searxng:6942506204855""]",1
+3258565461287,EAN13,France,"[""searxng:3258565461287""]",3
+8006837003735,EAN13,Italy,"[""searxng:8006837003735"", ""https://www.calameo.com/books/006674737531b6db3f3fc"", ""https://aax-eu-zaz.amazon.it/x/c/JLbEeOdz-m4_LYQZFJ72p0UAAAGgHn-rQgoAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICBM8neW/clv1c_ek-ABfHXKrTW7iAp90PHusHh5BKeKtkNZmw7OvPpliq39ObtLVjl5NBTT1AVutPgc0d5HTZWNAmpLkDlUEwo6c13W1uy-v5OeCoHbwBrrfxwg3B36up-Dju3Ksl0oWUro2cf6LMH9CfRqMc53kLpzftbpcEMFlTrsM7i68cqiYEFf0f1vLT8hOwUFGNeLy3zm7FXtCRJHBWwBYQuFkrPIXjeRF0qERuQvIDcTCtqZtDaCqu7mUeP93xq4HhJ2UUXI4KWwLrpZEUfko1ICh6luw7mzDTmkr5hclmqbpDEYr-Sr8OolqBKk03R27Fh6zWNqg9gm4QpHN4pjpAIiouSpx1CkO9Fi54Ya9vSOMs1EMptc8XYjQ0Sxmt2KTI3hKUyjjnTAvAsbxIGAayAw-6oYjfr_EgpL-ag2d6eM62vEgR_p3qFuhtTFudLCwX9GtiFdaGz2bK8Gmjmjkm5Q_Ve4gLNXU0sB1moqUDje-4tKaz3ILr4xW743aN7vdXdWMGa1yjMxDZb5fMasHcCcTw6JTtrr16YVsy3A2yUkpuSZ4gEjHwDm0YkG5NsdFI_BDwiMWFSLG6E78b0HzMjSDGJZUqJry00mmC6qkFcUdrujSq_yK9I6UgHO_tXH8RvbtL-MoK2ooelDiTcHPDrk4KmPCaMWtZRmPu_wAKLkSQNl9JCGYRANWlkBvytVlJbJK6mvcgEv_hbbqvzmiMK605MzF_5nua2bk5Zxj1Bs03NZaptjVsHt7xPHuf5h34t6qqOOwc7tflnu1YbtFfti3KYqu3aHnbjf6nPxKjBg_GqWSlccDx0wCwlD-fx8YNxgcMvg23o8eAvUQZLeLtRgPAnZgut4mAZqy3RexzzRuqL6FNcSk4eHpKm6u5zjKEXqsQVuHoPMx3mfQ6eNfZaNsLsQc4n62fJpQ6GCAgS_AILTlpRlFVJtZt5stMe32KRvPZMiAMkgMvfejfsGWqsOrkq9MEcGFPszIxb6YYXvwvmpl3UnhJYeVsDfKjVWlSB2adtOQfvCQX14KXK9cn-bJzLnKOInyiFBCL8ZGbo1uhzj-kD-I36tXHU7FXK4ykgR10LN9X1ge3yBcLmgG0YlSQt0quGjaZva9G4kD-k0_0MC10RycCw47ZR9AixQ3aVpewsWnvxkCcTMjHdh6VyQbu49nrtL2FnJ96HxBLMHd53DJYg44rRKFr_rsqS7GmAhig_kxeO0nLaS-sZti2kIfCouATjXKsPTVz4W8URD71icY86z1JsY2zy8tprX84nkheSvgPnxIpo_6yTmIkuZmsRHRlEZp8YEUL4g0rCN40ckQVJs2RD8hTSJQh2WTzLtxPqCUYOKOkqH0QBozuR-jEFSbpjWnIhcgTWsq6ydH_zFteu2PYoJqT0arLF0yOBrC1ezcAmAiEmblpeDS0IwQdBKVi7vhSLIiu0B2W8hQNui2TBR_BbMLwD5MbRGjrAyIbjUxkUE8dC8CqNR8hG1NbA5o4I17pDvUJjUB6zaZsfyaxjevlpp_K6XNMD_uv9Aowiu0ilwqrZkCQpQ12cl5MKEoXEMkR5zyUXUVrjc4joDaVyaxfZoCV2ffcCeGTy/https://www.amazon.it/OZONO-Dentifricio-Naturale-Senza-Fluoro/dp/B08CCX3N5X/ref=sxbs_sbv_search_btf?aref=pQdSHZyohA&amp;content-id=amzn1.sym.055e93ed-3c14-497e-8946-e8c5020c027c%3Aamzn1.sym.055e93ed-3c14-497e-8946-e8c5020c027c&amp;cv_ct_cx=8006837003735&amp;keywords=8006837003735&amp;pd_rd_i=B08CCX3N5X&amp;pd_rd_r=83e64110-75d4-499b-b1a5-4ca25810347b&amp;pd_rd_w=M93QT&amp;pd_rd_wg=mdHrG&amp;pf_rd_p=055e93ed-3c14-497e-8946-e8c5020c027c&amp;pf_rd_r=VATTPKR6T9RFPH526BWB&amp;qid=1787218078&amp;sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&amp;sr=1-1-f1821008-9dea-4812-b2b6-4a6e4a4f2d55"", ""https://aax-eu-zaz.amazon.it/x/c/JLbEeOdz-m4_LYQZFJ72p0UAAAGgHn-rQgoAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICBM8neW/clv1c_ek-ABfHXKrTW7iAp90PHusHh5BKeKtkNZmw7OvPpliq39ObtLVjl5NBTT1AVutPgc0d5HTZWNAmpLkDlUEwo6c13W1uy-v5OeCoHbwBrrfxwg3B36up-Dju3Ksl0oWUro2cf6LMH9CfRqMc53kLpzftbpcEMFlTrsM7i68cqiYEFf0f1vLT8hOwUFGNeLy3zm7FXtCRJHBWwBYQuFkrPIXjeRF0qERuQvIDcTCtqZtDaCqu7mUeP93xq4HhJ2UUXI4KWwLrpZEUfko1ICh6luw7mzDTmkr5hclmqbpDEYr-Sr8OolqBKk03R27Fh6zWNqg9gm4QpHN4pjpAIiouSpx1CkO9Fi54Ya9vSOMs1EMptc8XYjQ0Sxmt2KTI3hKUyjjnTAvAsbxIGAayAw-6oYjfr_EgpL-ag2d6eM62vEgR_p3qFuhtTFudLCwX9GtiFdaGz2bK8Gmjmjkm5Q_Ve4gLNXU0sB1moqUDje-4tKaz3ILr4xW743aN7vdXdWMGa1yjMxDZb5fMasHcCcTw6JTtrr16YVsy3A2yUkpuSZ4gEjHwDm0YkG5NsdFI_BDwiMWFSLG6E78b0HzMjSDGJZUqJry00mmC6qkFcUdrujSq_yK9I6UgHO_tXH8RvbtL-MoK2ooelDiTcHPDrk4KmPCaMWtZRmPu_wAKLkSQNl9JCGYRANWlkBvytVlJbJK6mvcgEv_hbbqvzmiMK605MzF_5nua2bk5Zxj1Bs03NZaptjVsHt7xPHuf5h34t6qqOOwc7tflnu1YbtFfti3KYqu3aHnbjf6nPxKjBg_GqWSlccDx0wCwlD-fx8YNxgcMvg23o8eAvUQZLeLtRgPAnZgut4mAZqy3RexzzRuqL6FNcSk4eHpKm6u5zjKEXqsQVuHoPMx3mfQ6eNfZaNsLsQc4n62fJpQ6GCAgS_AILTlpRlFVJtZt5stMe32KRvPZMiAMkgMvfejfsGWqsOrkq9MEcGFPszIxb6YYXvwvmpl3UnhJYeVsDfKjVWlSB2adtOQfvCQX14KXK9cn-bJzLnKOInyiFBCL8ZGbo1uhzj-kD-I36tXHU7FXK4ykgR10LN9X1ge3yBcLmgG0YlSQt0quGjaZva9G4kD-k0_0MC10RycCw47ZR9AixQ3aVpewsWnvxkCcTMjHdh6VyQbu49nrtL2FnJ96HxBLMHd53DJYg44rRKFr_rsqS7GmAhig_kxeO0nLaS-sZti2kIfCouATjXKsPTVz4W8URD71icY86z1JsY2zy8tprX84nkheSvgPnxIpo_6yTmIkuZmsRHRlEZp8YEUL4g0rCN40ckQVJs2RD8hTSJQh2WTzLtxPqCUYOKOkqH0QBozuR-jEFSbpjWnIhcgTWsq6ydH_zFteu2PYoJqT0arLF0yOBrC1ezcAmAiEmblpeDS0IwQdBKVi7vhSLIiu0B2W8hQNui2TBR_BbMLwD5MbRGjrAyIbjUxkUE8dC8CqNR8hG1NbA5o4I17pDvUJjUB6zaZsfyaxjevlpp_K6XNMD_uv9Aowiu0ilwqrZkCQpQ12cl5MKEoXEMkR5zyUXUVrjc4joDaVyaxfZoCV2ffcCeGTy/https://www.amazon.it/OZONO-Dentifricio-Naturale-Senza-Fluoro/dp/B08CCX3N5X/ref=sxbs_sbv_search_btf?aref=pQdSHZyohA&amp;content-id=amzn1.sym.055e93ed-3c14-497e-8946-e8c5020c027c%3Aamzn1.sym.055e93ed-3c14-497e-8946-e8c5020c027c&amp;cv_ct_cx=8006837003735&amp;keywords=8006837003735&amp;pd_rd_i=B08CCX3N5X&amp;pd_rd_r=83e64110-75d4-499b-b1a5-4ca25810347b&amp;pd_rd_w=M93QT&amp;pd_rd_wg=mdHrG&amp;pf_rd_p=055e93ed-3c14-497e-8946-e8c5020c027c&amp;pf_rd_r=VATTPKR6T9RFPH526BWB&amp;qid=1787218078&amp;sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&amp;sr=1-1-f1821008-9dea-4812-b2b6-4a6e4a4f2d55#customerReviews"", ""https://www.amazon.it/s?k=8006837003735#skippedLink"", ""https://www.amazon.it/s?k=8006837003735#s-refinements &gt; div.a-section &gt; div:first-child"", ""https://www.amazon.it/s?k=8006837003735""]",3
+5999139400261,EAN13,Hungary,"[""searxng:5999139400261""]",2
+8480024768407,EAN13,Spain,"[""searxng:8480024768407"", ""https://tienda.hiperber.com/es/p/snack-cocktail-250g/72230"", ""https://aax-eu-zaz.amazon.es/x/c/JIUCUOw-P1MGfB0GMnGiEPoAAAGgHoBQfAoAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICC6luLC/clv1c_ek-YBYf3bcbaRkYRH_nOBxjUmU2nsIB5HvkDc-lsi84rxjMOecDO80h0pXnM8WUgJ6AwXEr68LMsje2FnlreNMxAG-Ban3xWPQLAFiCQENS1kyLjqBix2qhM6fN45rK10UVlCw_n8W2CyxGAH5T3Dz_5K32dkGHO0uXBXxcoyZI1uVt8X3c_8ouOltD_Hqr2HcunSQMx1zfoV-HwgUXqwlq2VA1bFBeakSl8xOCaKwag6q8TGGuoPEcHThPd6eZ6ICrJ2-Q-WMEyBWgwLjTPreRme8n81ww-tZt4cy3EOBftXcsjMRVEOXJ3ukDOTU2kW4k4lTPUgdk8mQkEj0BlVEWIYNP1e-SRxWLtES60WVwtUd9RqYrggoyfSnBZXny0CyB38y551SMRbYsOPrQWMBNvVpkrIlHCORgp0gCdSUrfXvQIZ0O5ZuFBknVhZ3VCV8q53BAkZKyMtpGWno2_wJNoEKoIkBmDdtZQjG7TnGbIgsQZcEHUTM4bygsgmPXsQsgzDwWzTSu-f2BdORLDyuXd6xheAqRUF5QEEhcK12aLt9xkQYydvdNbuo-yLm8W_pH4q47VAmRg6ENelRSpxb_JDRa7lUnHt2H319JCtTaq_W5CF0xwxkY92HXH2dznoCzY4bkBafGw9cBgOJ0-sP5X3gQPE0AQfuX4J88e7Hc2BwWHrMPNJ293h2pehtCNhffxeoVRHYXeBcoFP8Bh8lHduTpvCTx2ZZaroukcqppBF9vyvy-bT-64TnFf7kWIVDj4sJGOkwhlyNoFE7FcCggtrM_jP580n1wroAsxEiXK4toJBz5mrsUmv5DD1ZBhOpXPzWhFsI6Wcf6jEuLR9NPYAbCKreQpLpqAdZd4jii8BgVj07VVyOYv23P2MOkB4qcYCY8x42kBfbhjuQ4B9KoJ-1C4UvdqW9KfOEzVURHwts7xr5OnzsYc-t6XtFVa4TM7Adv98BIydjfqs63E7C_fR120FmBmVNjDj5fmx-qAiXFufzsRprrP36Ew57sc9SdC4fcCVx4IIxZyhZzN_5BPWrBUPXNj1cwW_4Od1LtXlaUydIvXDVP0J03FjNXbyinx1-tO8TRaf2PW-wAIZnSXImJAapWl980_2WxG4vItenl56veuhQjMSwTfPj_D2gUCCNY5l0AfuS4bP9CWviCKHoHTdT6kuTCHJB6OIL0xmi3vgCUSfgC1mZmjN7DQUO8wpUaoCWl1QpN0RexrlYerQZhwQPH8vqgkStiyDxTrwsyCceJXcfoVUwdJ9SQEyN8kiVIokRBJlGBUEU7uB3mIU6Wk6IqdjAAdh9K2Lre0DQvyMbi6mr3VKeEGbC2bgTs3UGJ8I0gfHZS0LVtshg2DnbnMOyj2H6RbOrHcUbqITjNvBoue3tXKnZuwIbAtIHMTRlYM5BXMzgSB7XD9uCaXrWLHpkBNA8QpFgqD7a-DSgo7UriJqSJw3zjwxHYDCfuWfyK9m6PS0hgNVGsZArstL5jJnUy7fF_vO_KDCazhd31JJtuUFgpjJuerK9AtvVt3oRTd1kxhJugWMKAMmPifaXZBE7UVUKVWcuq8KdmyDaheyDXzQk9AEAQk/https://www.amazon.es/sue%C3%B1o-Louis-Vuitton-Maria-Bast/dp/8412999436/ref=sxbs_sbv_search_btf?aref=8XWH1bBvQd&amp;content-id=amzn1.sym.c75d54d3-640d-4b50-a1dd-9429a8826571%3Aamzn1.sym.c75d54d3-640d-4b50-a1dd-9429a8826571&amp;cv_ct_cx=8480024768407&amp;keywords=8480024768407&amp;pd_rd_i=8412999436&amp;pd_rd_r=84fdcc0d-9570-439f-967b-3a3b28ddf5f4&amp;pd_rd_w=mtL5W&amp;pd_rd_wg=CjIBV&amp;pf_rd_p=c75d54d3-640d-4b50-a1dd-9429a8826571&amp;pf_rd_r=M8WQQE8RNKN0PNSXBEAF&amp;qid=1787218120&amp;sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&amp;sr=1-1-f1821008-9dea-4812-b2b6-4a6e4a4f2d55"", ""https://aax-eu-zaz.amazon.es/x/c/JIUCUOw-P1MGfB0GMnGiEPoAAAGgHoBQfAoAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICC6luLC/clv1c_ek-YBYf3bcbaRkYRH_nOBxjUmU2nsIB5HvkDc-lsi84rxjMOecDO80h0pXnM8WUgJ6AwXEr68LMsje2FnlreNMxAG-Ban3xWPQLAFiCQENS1kyLjqBix2qhM6fN45rK10UVlCw_n8W2CyxGAH5T3Dz_5K32dkGHO0uXBXxcoyZI1uVt8X3c_8ouOltD_Hqr2HcunSQMx1zfoV-HwgUXqwlq2VA1bFBeakSl8xOCaKwag6q8TGGuoPEcHThPd6eZ6ICrJ2-Q-WMEyBWgwLjTPreRme8n81ww-tZt4cy3EOBftXcsjMRVEOXJ3ukDOTU2kW4k4lTPUgdk8mQkEj0BlVEWIYNP1e-SRxWLtES60WVwtUd9RqYrggoyfSnBZXny0CyB38y551SMRbYsOPrQWMBNvVpkrIlHCORgp0gCdSUrfXvQIZ0O5ZuFBknVhZ3VCV8q53BAkZKyMtpGWno2_wJNoEKoIkBmDdtZQjG7TnGbIgsQZcEHUTM4bygsgmPXsQsgzDwWzTSu-f2BdORLDyuXd6xheAqRUF5QEEhcK12aLt9xkQYydvdNbuo-yLm8W_pH4q47VAmRg6ENelRSpxb_JDRa7lUnHt2H319JCtTaq_W5CF0xwxkY92HXH2dznoCzY4bkBafGw9cBgOJ0-sP5X3gQPE0AQfuX4J88e7Hc2BwWHrMPNJ293h2pehtCNhffxeoVRHYXeBcoFP8Bh8lHduTpvCTx2ZZaroukcqppBF9vyvy-bT-64TnFf7kWIVDj4sJGOkwhlyNoFE7FcCggtrM_jP580n1wroAsxEiXK4toJBz5mrsUmv5DD1ZBhOpXPzWhFsI6Wcf6jEuLR9NPYAbCKreQpLpqAdZd4jii8BgVj07VVyOYv23P2MOkB4qcYCY8x42kBfbhjuQ4B9KoJ-1C4UvdqW9KfOEzVURHwts7xr5OnzsYc-t6XtFVa4TM7Adv98BIydjfqs63E7C_fR120FmBmVNjDj5fmx-qAiXFufzsRprrP36Ew57sc9SdC4fcCVx4IIxZyhZzN_5BPWrBUPXNj1cwW_4Od1LtXlaUydIvXDVP0J03FjNXbyinx1-tO8TRaf2PW-wAIZnSXImJAapWl980_2WxG4vItenl56veuhQjMSwTfPj_D2gUCCNY5l0AfuS4bP9CWviCKHoHTdT6kuTCHJB6OIL0xmi3vgCUSfgC1mZmjN7DQUO8wpUaoCWl1QpN0RexrlYerQZhwQPH8vqgkStiyDxTrwsyCceJXcfoVUwdJ9SQEyN8kiVIokRBJlGBUEU7uB3mIU6Wk6IqdjAAdh9K2Lre0DQvyMbi6mr3VKeEGbC2bgTs3UGJ8I0gfHZS0LVtshg2DnbnMOyj2H6RbOrHcUbqITjNvBoue3tXKnZuwIbAtIHMTRlYM5BXMzgSB7XD9uCaXrWLHpkBNA8QpFgqD7a-DSgo7UriJqSJw3zjwxHYDCfuWfyK9m6PS0hgNVGsZArstL5jJnUy7fF_vO_KDCazhd31JJtuUFgpjJuerK9AtvVt3oRTd1kxhJugWMKAMmPifaXZBE7UVUKVWcuq8KdmyDaheyDXzQk9AEAQk/https://www.amazon.es/sue%C3%B1o-Louis-Vuitton-Maria-Bast/dp/8412999436/ref=sxbs_sbv_search_btf?aref=8XWH1bBvQd&amp;content-id=amzn1.sym.c75d54d3-640d-4b50-a1dd-9429a8826571%3Aamzn1.sym.c75d54d3-640d-4b50-a1dd-9429a8826571&amp;cv_ct_cx=8480024768407&amp;keywords=8480024768407&amp;pd_rd_i=8412999436&amp;pd_rd_r=84fdcc0d-9570-439f-967b-3a3b28ddf5f4&amp;pd_rd_w=mtL5W&amp;pd_rd_wg=CjIBV&amp;pf_rd_p=c75d54d3-640d-4b50-a1dd-9429a8826571&amp;pf_rd_r=M8WQQE8RNKN0PNSXBEAF&amp;qid=1787218120&amp;sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&amp;sr=1-1-f1821008-9dea-4812-b2b6-4a6e4a4f2d55#customerReviews"", ""https://www.amazon.es/s?k=8480024768407"", ""https://www.amazon.es/s?k=8480024768407#skippedLink"", ""https://www.amazon.es/s?k=8480024768407#s-refinements &gt; div.a-section &gt; div:first-child""]",1
+5036763637387,EAN13,United Kingdom,"[""searxng:5036763637387""]",4
+9920087013803,EAN13,,"[""searxng:9920087013803""]",1
+22470249,EAN8,United States / Canada,"[""searxng:0000022470249"", ""https://www.target.com/s/0000022470249"", ""https://www.target.com/s?searchTerm=0000022470249#content"", ""https://www.target.com/s?searchTerm=0000022470249#footerHeader""]",2
+3683080352008,EAN13,France,"[""searxng:3683080352008""]",1
+8806371309771,EAN13,South Korea,"[""searxng:8806371309771"", ""https://www.highwaymart.co.kr/Mall/Goods/~2147456467"", ""https://www.coupang.com/np/search?q=8806371309771"", ""https://login.coupang.com/login/login.pang?rtnUrl=https%3A%2F%2Fwww.coupang.com%2Fnp%2Fpost%2Flogin%3Fr%3Dhttp%253A%252F%252Fwww.coupang.com%252Fnp%252Fsearch%253Fq%253D8806371309771"", ""https://pages.coupang.com/p/136938"", ""https://pages.coupang.com/p/54908"", ""https://pages.coupang.com/p/63240"", ""https://global.oliveyoung.com/display/search?query=8806371309771"", ""https://global.oliveyoung.com/display/search?query=8806371309771#openMobileMenu""]",1
+9555046500225,EAN13,Malaysia,"[""searxng:9555046500225"", ""https://www.lazada.com.my/catalog/?q=9555046500225"", ""android-app://com.lazada.android/lazada/my/page?url_key=%2Fcatalog%2F%3Fq%3D9555046500225&amp;utm_campaign=%2Fcatalog%2F%3Fq%3D9555046500225&amp;utm_medium=organic&amp;utm_source=google_app_indexing&amp;utm_from=search"", ""https://www.lazada.com.my/catalog/?page=2&amp;q=9555046500225""]",6
+221892012432,UPC_A,United States / Canada,"[""searxng:0221892012432""]",1
+8991904101523,EAN13,Indonesia,"[""searxng:8991904101523"", ""https://www.scribd.com/document/887906655/Gudangkirimkbgd25050009unit-Inka-Belakang"", ""https://www.scribd.com/document/867473424/Master-Nov"", ""https://www.scribd.com/document/714322141/ROKOK1"", ""https://www.scribd.com/document/863193039/KATAGORI-SUBKATAGORI"", ""https://www.scribd.com/document/897905304/DATA-STOK-BARANG-2357449-2025-07-07-21-11-15"", ""https://www.scribd.com/document/696954772/DATA-SKU-BARANG-1595060-2023-11-23-11-58-39"", ""https://www.scribd.com/document/852867860/Data-Item-Level-Harga"", ""https://www.scribd.com/document/924435483/SAHABAT-99""]",4
+226871004958,UPC_A,United States / Canada,"[""searxng:0226871004958""]",2
+993745600546,UPC_A,United States / Canada,"[""searxng:0993745600546""]",1
+4901477788834,EAN13,Japan,"[""searxng:4901477788834""]",1
+4901411142234,EAN13,Japan,"[""searxng:4901411142234""]",1
+4904230030867,EAN13,Japan,"[""searxng:4904230030867""]",3
+4901004066534,EAN13,Japan,"[""searxng:4901004066534""]",1
+4901004066091,EAN13,Japan,"[""searxng:4901004066091""]",2
+4547894660652,EAN13,Japan,"[""searxng:4547894660652""]",1
+8809288634974,EAN13,South Korea,"[""searxng:8809288634974"", ""https://global.oliveyoung.com/display/search?query=8809288634974"", ""https://global.oliveyoung.com/display/search?query=8809288634974#openMobileMenu""]",1
+4600829003112,EAN13,Russia,"[""searxng:4600829003112""]",2
+8855199632172,EAN13,Thailand,"[""searxng:8855199632172"", ""https://www.lazada.co.th/catalog/?q=8855199632172"", ""android-app://com.lazada.android/lazada/th/page?url_key=%2Fcatalog%2F%3Fq%3D8855199632172&amp;utm_campaign=%2Fcatalog%2F%3Fq%3D8855199632172&amp;utm_medium=organic&amp;utm_source=google_app_indexing&amp;utm_from=search"", ""https://www.lazada.co.th/catalog/?page=2&amp;q=8855199632172""]",2
+6972240150675,EAN13,China,"[""searxng:6972240150675""]",1
+4063367167836,EAN13,Germany,"[""searxng:4063367167836""]",2
+8850653432213,EAN13,Thailand,"[""searxng:8850653432213"", ""https://www.lazada.co.th/catalog/?q=8850653432213"", ""android-app://com.lazada.android/lazada/th/page?url_key=%2Fcatalog%2F%3Fq%3D8850653432213&amp;utm_campaign=%2Fcatalog%2F%3Fq%3D8850653432213&amp;utm_medium=organic&amp;utm_source=google_app_indexing&amp;utm_from=search"", ""https://www.lazada.co.th/catalog/?page=2&amp;q=8850653432213""]",5
+3574661911908,EAN13,France,"[""searxng:3574661911908""]",3
+2255276005039,EAN13,,"[""searxng:2255276005039""]",1
+6976006570882,EAN13,China,"[""searxng:6976006570882""]",1
+444141026152,UPC_A,United States / Canada,"[""searxng:0444141026152""]",1
+580426805033,UPC_A,United States / Canada,"[""searxng:0580426805033""]",1
+5719798081300,EAN13,Denmark,"[""searxng:5719798081300""]",1
+4942355265603,EAN13,Japan,"[""searxng:4942355265603""]",1
+4066447967425,EAN13,Germany,"[""searxng:4066447967425""]",1
+025081001067,UPC_A,United States / Canada,"[""searxng:0025081001067""]",2
+8710532477998,EAN13,Netherlands,"[""searxng:8710532477998""]",2
+9555192504788,EAN13,Malaysia,"[""searxng:9555192504788"", ""https://www.lazada.com.my/catalog/?q=9555192504788"", ""android-app://com.lazada.android/lazada/my/page?url_key=%2Fcatalog%2F%3Fq%3D9555192504788&amp;utm_campaign=%2Fcatalog%2F%3Fq%3D9555192504788&amp;utm_medium=organic&amp;utm_source=google_app_indexing&amp;utm_from=search"", ""https://www.lazada.com.my/catalog/?page=2&amp;q=9555192504788""]",1
+8850309228832,EAN13,Thailand,"[""searxng:8850309228832""]",2
+4262518320124,EAN13,Germany,"[""searxng:4262518320124""]",2
+2823659022685,EAN13,,"[""searxng:2823659022685""]",2
+9310123010161,EAN13,Australia,"[""searxng:9310123010161""]",3
+771111983161,UPC_A,United States / Canada,"[""searxng:0771111983161""]",1
+9118979204334,EAN13,Austria,"[""searxng:9118979204334""]",1
+8888101634575,EAN13,Singapore,"[""searxng:8888101634575""]",2
+808541634575,UPC_A,United States / Canada,"[""searxng:0808541634575""]",1
+4901762326062,EAN13,Japan,"[""searxng:4901762326062""]",3
+840205716142,UPC_A,United States / Canada,"[""searxng:0840205716142""]",3
+933301312476,UPC_A,United States / Canada,"[""searxng:0933301312476""]",1
+8997215750030,EAN13,Indonesia,"[""searxng:8997215750030""]",4
+4650190502158,EAN13,Russia,"[""searxng:4650190502158""]",2
+5214000334651,EAN13,Greece,"[""searxng:5214000334651""]",1
+8906065168933,EAN13,India,"[""searxng:8906065168933"", ""https://aax-eu-zaz.amazon.in/x/c/JK5zcFmKjhP19xQRotOI32AAAAGgHoZZOAoAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICAHU7mU/clv1c_ek-wBPXSFcbarkmeeIdxX9r7Zr2HJIi5SZsEqnp2_dID-Z3c0_t7plRWI8WQX0bvfaqKYnNmiDgdKJGqJ-jqLNksFYa8iHAfZy9j-s-C1I4-kj2n_pFR-Oj0_9lEBzByf00fIsHSlkkRySgFw058H8TFtH28lFPaAqjY31erRowXVfPNFjo-Yc0cI8ZDOmTawie993dtaw94dSabNUT4_nEUSkrfVB7iFmg2Pbwf-Coqldi9ui_wtMxlnseV1hjHwwpwDKucF-Nbh66mKWhVdsHlUpbHJLBRPA80oyI-r9sfEdmDGQXCCHSXOKhgukiQBJs6HFOKLXfplS6JPadd3HixsDabX8Lcj_2gMKMjJIOGYL6F8wjfXFaO9zmQPHEloKvPCUtfaMH17JlBOG7HcrFyXEReYns_oENBI_o1i2lcz1FxT_kQpkxoq8ymWX50_hkhsz4PekGreRx7l7EjqHM30XW3H5ywWedzjB9NiSVf1a5yHGE0el7nB-PWhcRwRFZJ0sYlDqVDFAFQrtGrmOKcmTSwlwQLJs7nYYwOGxUwX2R_-W4jwcBADmy7ddyUO-qjbrPRJh0iBtmgD5tE9NQmWYHRix_OAA1Vm62ELRHfd_YpCuNwG11uNLzYgqoht-GgJbAdys8DCO0VfeHvBNvbrzAw16anuRSOYEwO2DN6gYtQy6dVZ1QIS-8q1OnTcMIE22Y4XyT1i19RUzjVy7cxHDz9Ce6uOnExR0FGS-a-QGfwSp9KMkHdAFYRQzU3Q0se7wCXv0lAxB_Us7zkX-C2bnx3z-OFTD1ZnqcbyI0DNUP7x4sGH3DhpG4rIdHDHUIzSG7hjdB44k3sK58vZ6NmyDr746j0A0h4w0gejrd1ZDRkzGiC3IyRaKdfgGTHiKIkpHzlMaOvq4vs04mvlYl77yIyH3H5O8w_p0j9SOOIHGhsFuPe7TA8Pg-MWdRm2F3kXa0kyJZTRxJO7GwP40CWhNQ02NS-0JCzctcG_t0GUwlUXWzB3H4ZhWz3E2q6ykXhUf4p5lPdnnBLsa26Yi5ikvOzjmYlWYiIDvC0OnMZWKM2t41-I6uoJnBC6qfz-tDtfFgJFWdwoKxiU1bUr7hsfcggGR24xUREo0DfuN1cXR7GWF7D7H8NdgZ73ViY0dtM22KbBVMs4ApLCHa-O6zmECO1fcEvVI15QoVw7FfVuYKwaHqHo5Jp4EtC2KQ76g-azRsbJfp47EzM5XmfGrNWlHwNfb9oqiTPFs6J6xvvPYH2gjrqZbHsiyxKa4Po7TLVc3yBZ9GwRrn7UHlJfwb3fhfaVlsHPLoimu_DYjHyHoerSyKqb1K0q_Hg1_Apwxe8lJAqyb0NYR_qavj63xAfCDd3VMi7LlX-Op962dKSOceej8GDI82_H-s5Eia_BcAt7tIMYp7jY9VVMHmzsJL2twcF5b_EZaJ3xOchi3V0LLH-6R8TH_ROfRniIpohCxp7CnicyCaCTfwONhH6N5Nwkd6CgJ3YPI-Rz6ugqPh0XhWQd-GVnCV4FUa3dMHOhNWyuqic4F3qqd7r4SYC_3zFEQgK-bz9qnJefoYFoZPYD591dSaf02fbgw2xz4x44MKD6u_q1Sd4gi6vb52EUxGGZLuaxtG2e4IUg-Qz9mOOgQlXVhzy7MLMpbImyoBptz7WwiZCRGrynUNGlmbRVmTwWIX1Sbrx67jjCjaoPc5FJZYKIThNp6Q0g-5_w7vFa-c5/https://www.amazon.in/Kidology-Children-Learning-Educational-Geometric/dp/B0CV7L8DXY/ref=sxbs_sbv_search_btf?aref=EV78KS3Nbx&amp;content-id=amzn1.sym.2a10787e-cd6a-4538-8307-70bc4d12c644%3Aamzn1.sym.2a10787e-cd6a-4538-8307-70bc4d12c644&amp;cv_ct_cx=8906065168933&amp;keywords=8906065168933&amp;pd_rd_i=B0CV7L8DXY&amp;pd_rd_r=92febb51-bcae-4824-b6bb-18ab0613a666&amp;pd_rd_w=Kauud&amp;pd_rd_wg=pvvcQ&amp;pf_rd_p=2a10787e-cd6a-4538-8307-70bc4d12c644&amp;pf_rd_r=CWCRWDQDE8CDXF03EAF5&amp;qid=1787218516&amp;sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&amp;sr=1-1-f1821008-9dea-4812-b2b6-4a6e4a4f2d55"", ""https://aax-eu-zaz.amazon.in/x/c/JK5zcFmKjhP19xQRotOI32AAAAGgHoZZOAoAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICAHU7mU/clv1c_ek-wBPXSFcbarkmeeIdxX9r7Zr2HJIi5SZsEqnp2_dID-Z3c0_t7plRWI8WQX0bvfaqKYnNmiDgdKJGqJ-jqLNksFYa8iHAfZy9j-s-C1I4-kj2n_pFR-Oj0_9lEBzByf00fIsHSlkkRySgFw058H8TFtH28lFPaAqjY31erRowXVfPNFjo-Yc0cI8ZDOmTawie993dtaw94dSabNUT4_nEUSkrfVB7iFmg2Pbwf-Coqldi9ui_wtMxlnseV1hjHwwpwDKucF-Nbh66mKWhVdsHlUpbHJLBRPA80oyI-r9sfEdmDGQXCCHSXOKhgukiQBJs6HFOKLXfplS6JPadd3HixsDabX8Lcj_2gMKMjJIOGYL6F8wjfXFaO9zmQPHEloKvPCUtfaMH17JlBOG7HcrFyXEReYns_oENBI_o1i2lcz1FxT_kQpkxoq8ymWX50_hkhsz4PekGreRx7l7EjqHM30XW3H5ywWedzjB9NiSVf1a5yHGE0el7nB-PWhcRwRFZJ0sYlDqVDFAFQrtGrmOKcmTSwlwQLJs7nYYwOGxUwX2R_-W4jwcBADmy7ddyUO-qjbrPRJh0iBtmgD5tE9NQmWYHRix_OAA1Vm62ELRHfd_YpCuNwG11uNLzYgqoht-GgJbAdys8DCO0VfeHvBNvbrzAw16anuRSOYEwO2DN6gYtQy6dVZ1QIS-8q1OnTcMIE22Y4XyT1i19RUzjVy7cxHDz9Ce6uOnExR0FGS-a-QGfwSp9KMkHdAFYRQzU3Q0se7wCXv0lAxB_Us7zkX-C2bnx3z-OFTD1ZnqcbyI0DNUP7x4sGH3DhpG4rIdHDHUIzSG7hjdB44k3sK58vZ6NmyDr746j0A0h4w0gejrd1ZDRkzGiC3IyRaKdfgGTHiKIkpHzlMaOvq4vs04mvlYl77yIyH3H5O8w_p0j9SOOIHGhsFuPe7TA8Pg-MWdRm2F3kXa0kyJZTRxJO7GwP40CWhNQ02NS-0JCzctcG_t0GUwlUXWzB3H4ZhWz3E2q6ykXhUf4p5lPdnnBLsa26Yi5ikvOzjmYlWYiIDvC0OnMZWKM2t41-I6uoJnBC6qfz-tDtfFgJFWdwoKxiU1bUr7hsfcggGR24xUREo0DfuN1cXR7GWF7D7H8NdgZ73ViY0dtM22KbBVMs4ApLCHa-O6zmECO1fcEvVI15QoVw7FfVuYKwaHqHo5Jp4EtC2KQ76g-azRsbJfp47EzM5XmfGrNWlHwNfb9oqiTPFs6J6xvvPYH2gjrqZbHsiyxKa4Po7TLVc3yBZ9GwRrn7UHlJfwb3fhfaVlsHPLoimu_DYjHyHoerSyKqb1K0q_Hg1_Apwxe8lJAqyb0NYR_qavj63xAfCDd3VMi7LlX-Op962dKSOceej8GDI82_H-s5Eia_BcAt7tIMYp7jY9VVMHmzsJL2twcF5b_EZaJ3xOchi3V0LLH-6R8TH_ROfRniIpohCxp7CnicyCaCTfwONhH6N5Nwkd6CgJ3YPI-Rz6ugqPh0XhWQd-GVnCV4FUa3dMHOhNWyuqic4F3qqd7r4SYC_3zFEQgK-bz9qnJefoYFoZPYD591dSaf02fbgw2xz4x44MKD6u_q1Sd4gi6vb52EUxGGZLuaxtG2e4IUg-Qz9mOOgQlXVhzy7MLMpbImyoBptz7WwiZCRGrynUNGlmbRVmTwWIX1Sbrx67jjCjaoPc5FJZYKIThNp6Q0g-5_w7vFa-c5/https://www.amazon.in/Kidology-Children-Learning-Educational-Geometric/dp/B0CV7L8DXY/ref=sxbs_sbv_search_btf?aref=EV78KS3Nbx&amp;content-id=amzn1.sym.2a10787e-cd6a-4538-8307-70bc4d12c644%3Aamzn1.sym.2a10787e-cd6a-4538-8307-70bc4d12c644&amp;cv_ct_cx=8906065168933&amp;keywords=8906065168933&amp;pd_rd_i=B0CV7L8DXY&amp;pd_rd_r=92febb51-bcae-4824-b6bb-18ab0613a666&amp;pd_rd_w=Kauud&amp;pd_rd_wg=pvvcQ&amp;pf_rd_p=2a10787e-cd6a-4538-8307-70bc4d12c644&amp;pf_rd_r=CWCRWDQDE8CDXF03EAF5&amp;qid=1787218516&amp;sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&amp;sr=1-1-f1821008-9dea-4812-b2b6-4a6e4a4f2d55#customerReviews"", ""https://www.amazon.in/s?k=8906065168933#skippedLink"", ""https://www.amazon.in/s?k=8906065168933#s-refinements &gt; div.a-section &gt; div:first-child"", ""https://www.amazon.in/s?k=8906065168933""]",3
+8904084900381,EAN13,India,"[""searxng:8904084900381"", ""https://www.amazon.in/s?k=8904084900381#skippedLink"", ""https://www.amazon.in/s?k=8904084900381#s-refinements &gt; div.a-section &gt; div:first-child"", ""https://www.amazon.in/s?k=8904084900381"", ""https://www.amazon.in/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fs%2F%3F_encoding%3DUTF8%26k%3D8904084900381%26ref_%3Dnav_ya_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=inflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"", ""https://aax-eu-zaz.amazon.in/x/c/JOYmY_glJ_8wXN3FdeSxg-EAAAGgHobGxQoAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICDSXioX/clv1c_ek-ABHfSFcbarUmeeIdxX5r7Zr2HJNCHSTk5j0OoLqaS9hXy8moBD1dWYi-YZb1NQ2437y6YFEXaNuZ-Fx46m9fvEN1ntXogT717CK3_ukpW-7m7ywpui6P_6kl1p2Unz5a3cslfc5fyI7AgVQiMzfu7INOophXomNj71TPSjCYcX2wzBlmTe1jOjGBi24t5Xdejr4Fp3IHI2vKBsSCAM1vfTMl_QgsjBQZb5YsvVoOvaLebK8x8d3ichf6uALpCuhtmuAwqQ1ZeItHlXrQw_tJmHKt-MAFy5nrqxhdqUqxzn3XuHAbq5rn6ZrMjbX551nqkRClx-gn6ta2JqSxMLnz3SeI15IConxapjhi0lODmyLGCPYYQk0RO3Kl0A6dz3BnvcjCrRB8GA4qrGs_an1zyX-7_dMjnELhbY5OUWA-5YCCkV7p5warGNprRK5p3YomJs-zOh7UkqiS_eifr2Mcw04u5fnIw3-kQI7nEEySOwvYi4ftW_FZ1YycScNoUKKB46_R5hGERsxL2a7hQLEQTrOnfhmzdpnuF-YWgZL0qCvoOzvX25xvMMsrAbICBPanGX8M5r7X9vOV67zeYRz8lBkCUXTSzGE9N-STbIogB5J0dDNJvkLLmvCnoCtHrzKAc4tISaOYyo0AuUrjAFRmmNDnek92XynnyOosKMSaOEImWN1GEEmzjbfjOOgFz-p-PipzN1M6X8TeBunTDP0K-OqB-9yfZO9ph5BQfBh7VpF_jj76fhNcvh4kNCWFe__Xv3AaJafodjucsqfqsxeBAjVB6y5Al1q5U68IkHr5UdwKbn5DmxMQLHozHEwZtiq897wedf5IXi3RZI-NDjzQrLwAo2yxG36RXl60QQTlkoP36LFLWGIFOf36mKF2VmJsuYB0iKmif5029cQZ7eslXFJz3HUe_m7BWUBd2fLT-2iM9eFSlF_IpiYEjUKh43yaz-proH2QGWE5PGpibyFm_jgQItBD35IHSuGMhL-uAFvNsZmk_mQgxBKvITp4-Ojic_NEzeB5Q4k0A5c8Q2TwJAT9sjWe2oEkJ0gIgyMXJr9eR-O4MG17xkpdmnDqSqCafrkJ8y8mpg6jWB2DbwBBpj9M6LD87B0j_wKvsPVRdMAkgb7ny8RpKjZ2FgvAC8TlYrK9u1pyHrb6SQBmXDAzv9oIx1pVhlHbrIVxy5kqqYrmW1-u5EGYf5YSfWPaYzh5zxx63TKIa9TaguCFiXxobrRDJWRHuyyd8dZEuTudezC267521a4ufcFZyi7wvrjUhFeotcVWFQ7qLogSk8YcCtkLZKHRrVbaOVd1auUIXg5UWj-xuS3zWywngbEArJm-8o-fLM0HOjwqzvDhJEcBCRH6U9q2ohpDwfbAvGh64MghmedEdidNpt_fR8GEHvpXe1u9c0p70CKZCLP1xxjOc8V70jnkLnFYM3co8MelrySPIP8CbS_MdwEvWHTKGvpQg1MQpim4N8uw5BmWykH-G4pEznHocIctwcZIBDzUztch08edXTb9wXMsfUobtPPJ9S_f2wXa-lcwU-sjnguxFWUscnxB4HLug13K9tqAlMBNS_tYorz6Ix0N_AiLAq1PtYT1Fo4gQwe33_6Fleqa2Gvnymla3dTByAeEy30KXlcvaB2uMFqCMiYPxzA02bVekSnBRpDxwXCAQ6Bl3bpt8b2x6C32w1X2w/https://www.amazon.in/stores/page/F0ECC3D1-7D75-4CC2-877A-C950E25BCF8E/?_encoding=UTF8&amp;store_ref=SB_A06605842919ZT9XM252C-A0853261HI4PA7TIAVKM&amp;pd_rd_plhdr=t&amp;aaxitk=3d278dc1cff5f0a0bfd9a0603ddc03f1&amp;hsa_cr_id=3991102000802&amp;lp_asins=8126558695&amp;lp_query=8904084900381&amp;lp_slot=desktop-hsa-3psl&amp;aref=m01DfL1gpz&amp;ref_=sbx_be_s_3psl_mbd_mb0_bkgd&amp;pd_rd_w=7C83y&amp;content-id=amzn1.sym.302b41b4-ce85-4496-a41e-0894a8c89391%3Aamzn1.sym.302b41b4-ce85-4496-a41e-0894a8c89391&amp;pf_rd_p=302b41b4-ce85-4496-a41e-0894a8c89391&amp;pf_rd_r=HV6X6VCXDVE2V95BVN15&amp;pd_rd_wg=2zO6o&amp;pd_rd_r=dd1c52c4-991c-4fd2-a9bd-b93967efd6eb""]",1
+5400113764366,EAN13,Belgium / Luxembourg,"[""searxng:5400113764366""]",1
+8800279452522,EAN13,South Korea,"[""searxng:8800279452522""]",1
+8808024030759,EAN13,South Korea,"[""searxng:8808024030759""]",1
+8809171363493,EAN13,South Korea,"[""searxng:8809171363493""]",1
+810517000864,UPC_A,United States / Canada,"[""searxng:0810517000864""]",1
+6957743322163,EAN13,China,"[""searxng:6957743322163""]",3
+4942355285595,EAN13,Japan,"[""searxng:4942355285595""]",1
+8902761210112,EAN13,India,[],1
+6975445531300,EAN13,China,[],2
+8997018160036,EAN13,Indonesia,"[""searxng:8997018160036""]",2
+8992946534775,EAN13,Indonesia,[],1
+8852314579855,EAN13,Thailand,"[""searxng:8852314579855""]",1
+643435037427,UPC_A,United States / Canada,[],1
+8850653430219,EAN13,Thailand,"[""searxng:8850653430219""]",2
+4902777261683,EAN13,Japan,[],3
+9318637043842,EAN13,Australia,[],4
+6973573361943,EAN13,China,"[""searxng:6973573361943"", ""https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272953-optifine-hd-fps-boost-dynamic-lights-shaders-and"", ""https://www.reddit.com/r/CZFirearms/comments/eiayey/cz_p10c_item_s/"", ""https://www.upcindex.com/6971651926572"", ""https://www.amiami.com/detail/?gcode=FIGURE-162162-R"", ""https://www.nin-nin-game.com/en/original-character/107712-original-character-little-demon-moemoeko-17-animester-.html"", ""https://math.tools/numbers/pi/100000"", ""https://www.amiami.com/eng/detail/?gcode=FIGURE-162162"", ""https://www.carbideanddiamondtooling.com/product_index.asp?page=807""]",1
+6923775926297,EAN13,China,[],1
+3288689757386,EAN13,France,"[""searxng:3288689757386""]",1
+6920208946600,EAN13,China,"[""searxng:6920208946600""]",1
+4902980317115,EAN13,Japan,[],2
+942904317115,UPC_A,United States / Canada,"[""searxng:0942904317115""]",1
+8888030317938,EAN13,Singapore,[],2
+6222052600722,EAN13,Egypt,"[""searxng:6222052600722""]",2
+8992759170580,EAN13,Indonesia,"[""searxng:8992759170580""]",8
+8992696529311,EAN13,Indonesia,[],2
+8998866632249,EAN13,Indonesia,"[""searxng:8998866632249""]",3
+6281004281921,EAN13,Saudi Arabia,[],1
+9350634003030,EAN13,Australia,"[""searxng:9350634003030""]",1
+9350634002446,EAN13,Australia,"[""searxng:9350634002446""]",1
+9556072030182,EAN13,Malaysia,"[""searxng:9556072030182""]",3
+4909466019778,EAN13,Japan,[],3
+6287004640553,EAN13,Saudi Arabia,"[""searxng:6287004640553""]",3
+200059308083,UPC_A,United States / Canada,"[""searxng:0200059308083""]",1
+903346756603,UPC_A,United States / Canada,[],1
+6224007719640,EAN13,Egypt,"[""searxng:6224007719640""]",1
+222610033982,UPC_A,United States / Canada,[],1
+4903137050220,EAN13,Japan,"[""searxng:4903137050220""]",1
+4971896555560,EAN13,Japan,"[""searxng:4971896555560""]",1
+7896065810592,EAN13,Brazil,[],2
+1914345810592,EAN13,,"[""searxng:1914345810592""]",1
+2673790003346,EAN13,,"[""searxng:2673790003346""]",1
+044111650846,UPC_A,United States / Canada,"[""searxng:0044111650846""]",1
+840093102331,UPC_A,United States / Canada,[],3
+4600495576422,EAN13,Russia,"[""searxng:4600495576422""]",2
+8801204206395,EAN13,South Korea,[],2
+8801073111332,EAN13,South Korea,"[""searxng:8801073111332""]",1
+9555168200225,EAN13,Malaysia,[],1
+4056489804819,EAN13,Germany,"[""searxng:4056489804819""]",4
+025440003091,UPC_A,United States / Canada,"[""searxng:0025440003091""]",1
+2053795100538,EAN13,,"[""searxng:2053795100538""]",2
+2053804100535,EAN13,,[],2
+4514410170216,EAN13,Japan,"[""searxng:4514410170216""]",4
+9432424470274,EAN13,New Zealand,"[""https://www.google.com/search?q=9432424470274""]",1
+2131751006107,EAN13,,[],1
+6132552090117,EAN13,Algeria,"[""searxng:6132552090117""]",1
+0205834908908,EAN13,United States / Canada,[],2
+226781607690,UPC_A,United States / Canada,"[""searxng:0226781607690""]",1
+261638513137,UPC_A,United States / Canada,"[""searxng:0261638513137""]",1
+4067517006815,EAN13,Germany,[],9
+8480017285140,EAN13,Spain,[],4
+490007091390,UPC_A,United States / Canada,"[""searxng:0490007091390""]",1
+876941001198,UPC_A,United States / Canada,"[""searxng:0876941001198""]",2
+0627735288055,EAN13,United States / Canada,[],1
+0621115288024,EAN13,United States / Canada,[],1
+4600721029302,EAN13,Russia,"[""searxng:4600721029302""]",1
+070729017771,UPC_A,United States / Canada,"[""searxng:0070729017771""]",1
+8961014034981,EAN13,Pakistan,[],3
+8411402291026,EAN13,Spain,[],2
+6134337001127,EAN13,Algeria,"[""searxng:6134337001127""]",2
+6922939231628,EAN13,China,"[""searxng:6922939231628""]",3
+4335619508996,EAN13,Germany,"[""searxng:4335619508996""]",2
+900939031628,UPC_A,United States / Canada,"[""searxng:0900939031628""]",1
+11683506,EAN8,United States / Canada,[],1
+8996001526439,EAN13,Indonesia,"[""searxng:8996001526439""]",5
+8009710109005,EAN13,Italy,"[""https://www.amazon.it/s?k=8009710109005#skippedLink"", ""https://www.amazon.it/s?k=8009710109005#s-refinements &gt; div.a-section &gt; div:first-child"", ""https://www.amazon.it/s?k=8009710109005"", ""https://www.amazon.it/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.it%2Fs%2F%3F_encoding%3DUTF8%26k%3D8009710109005%26ref_%3Dnav_ya_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=itflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"", ""https://aax-eu-zaz.amazon.it/x/c/JEAoc_VoCRXFxqwSxm3Lg5YAAAGgHoxUDwoAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICAZg2Bd/clv1c_ek-wBXfWFbbS5jqjPUbk6kWBzEwXf91wOGqHaHLMz5-rzJbUEOV1zurYuGl-LozbxsnF2aWPBsn_TgBI17epv9_bNLe9r9G6ALpxMyVZq7z6GzAoGIQ10xyBZf13xqKQlk-LTulUOfCxAjkVqc5iVEMjUH2cnEH6EsRzwy6o1JZOWOgUFbo1F-hPZU8X-TIv0a_NIXhQIwvAtaR-es7K48zWPfc19Gaevt81UfP_k6XRcFiaKn9wtoV7ojbqOd7n1_iDAEyrGsEigikwh6FbrtLr7WHFMN0Kd5q5VSEgD40kTm7zZGa3mx5CTtEK47dkMllClvuqvSviWz1cDLqyAUqDazqib8oX3VagI6tzZyB-Mr7c-42A-3NO5N1FxgLvF-eBLPP-92ZyNfX6zYjZ-MUE9rVHJxdXwaNXycrZrf9Fidboeb8Uk81oyH9gdaPTTrBqkHFke3IUUnzRplotj3ypMRJFerkG2TW6hcWunmJeFoHsUl2munbtBJLXhzmxLj-yv9N-bCFNJayCMqyyOwQfbJ-Vf_PHRquEWu2QZRgblVMNmm32zYQFs63kseXzpvQ67V5ILrY7jw2YFQ8tjjLsKG5S1yTQXhlfp-eph8arHCH7CWFGVBypHBa2ZWpepn81TbJT7H1WuZQBTeE28kS5CMKpietG6JRtUwOJlO3q32J8KFOKtkGUWFRrKKJXep7tGhfflG8VHNzQKiKXODhpK_3b2FIN1eWHcsB4iJt5aXdGpb9hoJnljrnbUILMkkqA4s5t9bxs5VXnmJKlGGQOoklHHdT-KUgOda3ikZ-ZI7BZHMZ8GCGQMQGL-K5qcYwcXK51K8_mfOqaVkk0HOtbPnKGaeSsInoa3P9AiPaq0ticQAB_D7j9XWL4Y30Gddb6w8SXWaLEpH_jYgzQAjpKey32CJgY7KtmwycS-UU4aC1DPP8UnCi-ORMl5Ai0LOnkWr9lhpLIb9GdE8OiuMlYXGhOM2BVU7jSOQEkZCmmbPM4m0SNYL9ebmb5skq7nJub9vRcdQsiwYYeAD4bA5RRdPtRsXGDLgRopzu20LrTI_iRESExoU4r9rbidMeGSs038s30kFJaUFESqPX6x4i9ko2CMlYYrw3dx0ENKTmPjmvaSszj1oaGIDiw-l7VlAb8NSAVnVy0xCzZNnAJLCMQUvilKTfoytA9nwUBML7eFek88ZMQ1cnp4rQmkpDlEwdFAyFNXtuZyNp_dj7157owARANkZRRRI5_T5Zpz7PYsooMqLvr4x2Fkm7HsXv_hL1NVc4x6KFeWPP-RZj5PYZaVknEXEdOly-WOCjzDJDvA9jf1VK0YWPh8cweAGFviyufAZP1OajkMXGfevL9ZMv8uEExe-mTQoOHEuIHTqwmXO87XhgEngdSWrTeHtcVAhdkRu3mIGJqIj9i5cJ0GHqOQ-hUj4FOwmrvMla_FXWVWZrjfm-frM91MlEpiSxnrKWnPT6NYmvSGUyhiisgHttH3AIyyOFLbGOfKFjGCXOPup4yN4FAAHgL3CyNJYXXneN1SgMWfH81wml56WqLmVchqhmhF9P_PqM9MndCIkE3rZmQtUHTUtTdO8GSO3e0aq5QmVuB2MmWjFINWUFEeLck8NhOPg/https://www.amazon.it/stores/page/D940EAE8-7FF0-458A-956C-195A4CA5C494/?_encoding=UTF8&amp;store_ref=SB_A07757923FEXGOIQ0QGR0-A0248020RBWSCBQ9NARZ&amp;pd_rd_plhdr=t&amp;aaxitk=01ba4332aa838f112c973859cfa68734&amp;hsa_cr_id=0&amp;lp_asins=B08VMX945Z&amp;lp_query=8009710109005&amp;lp_slot=desktop-hsa-3psl&amp;aref=cYEDWpME4z&amp;ref_=sbx_be_s_3psl_mbd_mb0_bkgd&amp;pd_rd_w=m9orK&amp;content-id=amzn1.sym.aaed2b97-3e2c-425f-9a9b-65492b381e46%3Aamzn1.sym.aaed2b97-3e2c-425f-9a9b-65492b381e46&amp;pf_rd_p=aaed2b97-3e2c-425f-9a9b-65492b381e46&amp;pf_rd_r=8QA22BPJ77SSJ8V6954K&amp;pd_rd_wg=nw9dU&amp;pd_rd_r=5310e09b-17d5-484e-bf2c-be1ce4c407d8""]",3
+000019049632,UPC_A,United States / Canada,"[""searxng:0000019049632""]",1
+000019017532,UPC_A,United States / Canada,[],1
+7610209065941,EAN13,Switzerland / Liechtenstein,[],2
+2290061300128,EAN13,,"[""searxng:2290061300128""]",1
+3914534700008,EAN13,,"[""searxng:3914534700008""]",1
+9281449597516,EAN13,,"[""searxng:9281449597516""]",1
+6281039597516,EAN13,Saudi Arabia,"[""searxng:6281039597516""]",2
+8908005035459,EAN13,India,[],6
+8002170117146,EAN13,Italy,"[""searxng:8002170117146""]",3
+8851300810064,EAN13,Thailand,[],4
+4001686023259,EAN13,Germany,"[""searxng:4001686023259""]",1
+8990102001307,EAN13,Indonesia,"[""searxng:8990102001307""]",3
+6927002805461,EAN13,China,[],1
+4001743761926,EAN13,Germany,"[""searxng:4001743761926""]",4
+4335619370494,EAN13,Germany,"[""searxng:4335619370494""]",8
+6118540423136,EAN13,Morocco,"[""searxng:6118540423136""]",1
+6008470003600,EAN13,South Africa,[],1
+248434618433,UPC_A,United States / Canada,[],1
+4070757054089,EAN13,Germany,"[""searxng:4070757054089""]",2
+4700022380963,EAN13,,"[""searxng:4700022380963""]",1
+209508078652,UPC_A,United States / Canada,"[""searxng:0209508078652""]",2
+260456105999,UPC_A,United States / Canada,"[""searxng:0260456105999""]",7
+8414807562807,EAN13,Spain,[],1
+5099823020307,EAN13,United Kingdom,"[""searxng:5099823020307""]",2
+2007301519130,EAN13,,"[""searxng:2007301519130""]",1
+8414807560926,EAN13,Spain,"[""searxng:8414807560926""]",2
+4070757212625,EAN13,Germany,"[""searxng:4070757212625""]",1
+4065002004261,EAN13,Germany,"[""searxng:4065002004261""]",6
+8886455900995,EAN13,Singapore,"[""searxng:8886455900995""]",2
+8436597671552,EAN13,Spain,[],3
+8414892333481,EAN13,Spain,[],2
+4005900294517,EAN13,Germany,"[""searxng:4005900294517""]",4
+4001242107706,EAN13,Germany,"[""searxng:4001242107706""]",3
+5900259143365,EAN13,Poland,"[""searxng:5900259143365""]",2
+5281034433384,EAN13,Lebanon,"[""searxng:5281034433384""]",2
+6951316528884,EAN13,China,"[""searxng:6951316528884""]",2
+1645446891530,EAN13,,"[""searxng:1645446891530""]",1
+2126287105011,EAN13,,"[""searxng:2126287105011""]",1
+4953823100715,EAN13,Japan,[],2
+4719861456005,EAN13,Taiwan,"[""searxng:4719861456005""]",3
+8852294107017,EAN13,Thailand,[],2
+8852528003597,EAN13,Thailand,"[""searxng:8852528003597""]",4
+6957458262402,EAN13,China,"[""searxng:6957458262402""]",2
+8802259027195,EAN13,South Korea,"[""searxng:8802259027195""]",3
+7839659500776,EAN13,,[],1
+8858956500776,EAN13,Thailand,[],2
+8691216104570,EAN13,Turkey,"[""searxng:8691216104570""]",7
+62241205,EAN8,United States / Canada,"[""searxng:0000062241205""]",1
+9557944100224,EAN13,Malaysia,"[""searxng:9557944100224""]",3
+8004735125726,EAN13,Italy,[],2
+8856082003536,EAN13,Thailand,[],1
+8004735126624,EAN13,Italy,"[""searxng:8004735126624""]",3
+8721382799215,EAN13,Netherlands,[],2
+8714627023732,EAN13,Netherlands,[],1
+8992696405486,EAN13,Indonesia,"[""searxng:8992696405486""]",1
+4902410103042,EAN13,Japan,"[""searxng:4902410103042""]",2
+8801056839017,EAN13,South Korea,[],1
+8806371300488,EAN13,South Korea,"[""searxng:8806371300488""]",1
+9788674784198,EAN13,,[],1
+8809678521310,EAN13,South Korea,[],1
+8421542604778,EAN13,Spain,"[""searxng:8421542604778""]",1
+4710171001121,EAN13,Taiwan,"[""searxng:4710171001121""]",5
+99114411,EAN8,United States / Canada,"[""searxng:0000099114411""]",1
+8801074006019,EAN13,South Korea,"[""searxng:8801074006019""]",1
+8809879700835,EAN13,South Korea,[],1
+8809355881478,EAN13,South Korea,"[""searxng:8809355881478""]",1
+4901360369317,EAN13,Japan,"[""searxng:4901360369317""]",5
+8801073145382,EAN13,South Korea,"[""searxng:8801073145382""]",1
+4908329007112,EAN13,Japan,"[""searxng:4908329007112""]",2
+4897101822824,EAN13,Hong Kong,[],1
+8001585078127,EAN13,Italy,"[""searxng:8001585078127""]",2
+5901356012509,EAN13,Poland,"[""searxng:5901356012509""]",1
+6972613920546,EAN13,China,"[""searxng:6972613920546""]",3
+7793750000255,EAN13,Argentina,[],2
+6936489101218,EAN13,China,[],2
+4901870299739,EAN13,Japan,"[""searxng:4901870299739""]",2
+6977210470616,EAN13,China,"[""searxng:6977210470616""]",1
+6947929617039,EAN13,China,"[""searxng:6947929617039""]",2
+6972914154992,EAN13,China,"[""searxng:6972914154992""]",2
+6901668934864,EAN13,China,[],4
+8809044943937,EAN13,South Korea,"[""searxng:8809044943937"", ""https://www.coupang.com/np/search?q=8809044943937"", ""https://login.coupang.com/login/login.pang?rtnUrl=https%3A%2F%2Fwww.coupang.com%2Fnp%2Fpost%2Flogin%3Fr%3Dhttp%253A%252F%252Fwww.coupang.com%252Fnp%252Fsearch%253Fq%253D8809044943937"", ""https://pages.coupang.com/p/136938"", ""https://pages.coupang.com/p/54908"", ""https://pages.coupang.com/p/63240""]",5
+2941634930364,EAN13,,"[""searxng:2941634930364""]",1
+8801007256238,EAN13,South Korea,"[""searxng:8801007256238""]",1
+3168930295969,EAN13,France,"[""searxng:3168930295969""]",1
+4056489880493,EAN13,Germany,"[""searxng:4056489880493""]",3
+4335619095663,EAN13,Germany,"[""searxng:4335619095663""]",3
+8997213550038,EAN13,Indonesia,"[""searxng:8997213550038""]",1
+6975415660412,EAN13,China,[],3
+3992213550038,EAN13,,[],1
+089686827378,UPC_A,United States / Canada,"[""searxng:0089686827378""]",1
+9556920004556,EAN13,Malaysia,"[""searxng:9556920004556""]",2
+8801117165901,EAN13,South Korea,[],1
+202013680273,UPC_A,United States / Canada,[],1
+8858684518647,EAN13,Thailand,"[""searxng:8858684518647""]",5
+8888192820208,EAN13,Singapore,"[""searxng:8888192820208""]",1
+033780902455,UPC_A,United States / Canada,"[""searxng:0033780902455""]",1
+4002319006915,EAN13,Germany,[],3
+9556041603706,EAN13,Malaysia,[],1
+6291003010583,EAN13,United Arab Emirates,"[""searxng:6291003010583""]",2
+4901530237125,EAN13,Japan,[],1
+9555247600113,EAN13,Malaysia,"[""searxng:9555247600113""]",3
+719283309709,UPC_A,United States / Canada,"[""searxng:0719283309709""]",1
+8965310055282,EAN13,Pakistan,"[""searxng:8965310055282""]",1
+3537790990022,EAN13,France,"[""searxng:3537790990022""]",1
+7314007107796,EAN13,Sweden,"[""searxng:7314007107796""]",1
+9318835009244,EAN13,Australia,[],5
+9557990990022,EAN13,Malaysia,[],2
+0101101015013,EAN13,United States / Canada,"[""searxng:0101101015013""]",1
+6972749890287,EAN13,China,"[""searxng:6972749890287""]",1
+1002365673881,EAN13,United States / Canada,"[""searxng:1002365673881""]",1
+6970909633538,EAN13,China,"[""searxng:6970909633538""]",1
+6973147564879,EAN13,China,"[""searxng:6973147564879""]",2
+6999022511530,EAN13,China,[],5
+8850124091963,EAN13,Thailand,"[""searxng:8850124091963""]",1
+8997035563513,EAN13,Indonesia,"[""searxng:8997035563513""]",2
+8993322104254,EAN13,Indonesia,"[""searxng:8993322104254""]",2
+6925489703140,EAN13,China,"[""searxng:6925489703140""]",5
+9555819905202,EAN13,Malaysia,"[""searxng:9555819905202""]",2
+313668429909,UPC_A,United States / Canada,"[""searxng:0313668429909""]",2
+6291082070010,EAN13,United Arab Emirates,"[""https://www.amazon.ae/s?k=6291082070010#skippedLink"", ""https://www.amazon.ae/s?k=6291082070010#s-refinements &gt; div.a-section &gt; div:first-child"", ""https://www.amazon.ae/s?k=6291082070010"", ""https://www.amazon.ae/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.ae%2Fs%2F%3F_encoding%3DUTF8%26k%3D6291082070010%26ref_%3Dnav_ya_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=aeflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"", ""https://www.amazon.ae/s?k=6291082070010#s-skipLinkTargetForFilterOptions""]",1
+6295156002228,EAN13,United Arab Emirates,"[""https://www.amazon.ae/Bateel-Dubai-Chocolate-120g-Set/dp/B0GZ4TBCQF/ref=sr_1_1?dib=eyJ2IjoiMSJ9.t0JUPJisbOGWTyIx4jDBsw.o-JuAsrQA9hQr21Z033GXcqk3fSxseNjHfyNeauxZkA&amp;dib_tag=se&amp;keywords=6295156002228&amp;qid=1787219151&amp;sr=8-1"", ""https://www.amazon.ae/s?k=6295156002228#skippedLink"", ""https://www.amazon.ae/s?k=6295156002228#s-refinements &gt; div.a-section &gt; div:first-child"", ""https://www.amazon.ae/s?k=6295156002228"", ""https://www.amazon.ae/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.ae%2Fs%2F%3F_encoding%3DUTF8%26k%3D6295156002228%26ref_%3Dnav_ya_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=aeflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0""]",1
+6223004224577,EAN13,Egypt,[],27
+6977774623664,EAN13,China,[],3
+9300605220423,EAN13,Australia,"[""searxng:9300605220423""]",1
+8998866606882,EAN13,Indonesia,"[""searxng:8998866606882""]",7
+9556852990491,EAN13,Malaysia,"[""searxng:9556852990491""]",2
+4262529980065,EAN13,Germany,[],1
+4710578690065,EAN13,Taiwan,[],11
+8852291610206,EAN13,Thailand,"[""searxng:8852291610206""]",3
+4028159033089,EAN13,Germany,"[""searxng:4028159033089""]",2
+6133562000592,EAN13,Algeria,[],2
+6017840247964,EAN13,South Africa,[],1
+7033550603592,EAN13,Norway,"[""searxng:7033550603592""]",3
+07115189,EAN8,United States / Canada,"[""searxng:0000007115189""]",1
+4897070681040,EAN13,Hong Kong,"[""searxng:4897070681040""]",1
+5000112686227,EAN13,United Kingdom,"[""searxng:5000112686227""]",1
+530523223407,UPC_A,United States / Canada,[],1
+8992696523876,EAN13,Indonesia,"[""searxng:8992696523876""]",1
+8029513215079,EAN13,Italy,"[""searxng:8029513215079""]",2
+8051930174554,EAN13,Italy,"[""searxng:8051930174554""]",1
+162840174454,UPC_A,United States / Canada,"[""searxng:0162840174454""]",1
+5400101103788,EAN13,Belgium / Luxembourg,"[""searxng:5400101103788""]",2
+4335619209510,EAN13,Germany,"[""searxng:4335619209510""]",2
+6215588566556,EAN13,Syria,[],4
+4003490099413,EAN13,Germany,"[""searxng:4003490099413""]",3
+7402701103388,EAN13,Guatemala,[],1
+8425545119369,EAN13,Spain,"[""searxng:8425545119369""]",2
+4335619362475,EAN13,Germany,"[""searxng:4335619362475""]",3
+645000269981,UPC_A,United States / Canada,"[""searxng:0645000269981""]",1
+6972333775983,EAN13,China,"[""searxng:6972333775983""]",1
+8431876329261,EAN13,Spain,"[""searxng:8431876329261""]",1
+6926251700466,EAN13,China,[],1
+6901333384277,EAN13,China,"[""searxng:6901333384277""]",2
+4335619445413,EAN13,Germany,"[""searxng:4335619445413""]",1
+2290301300116,EAN13,,"[""searxng:2290301300116""]",2
+5203278049534,EAN13,Greece,[],2
+4335619450127,EAN13,Germany,"[""searxng:4335619450127""]",4
+4680002315300,EAN13,Russia,"[""searxng:4680002315300""]",2
+082718719283,UPC_A,United States / Canada,"[""searxng:0082718719283""]",1
+6903220120364,EAN13,China,[],1
+6974480214124,EAN13,China,"[""searxng:6974480214124""]",1
+5200144840059,EAN13,Greece,"[""searxng:5200144840059""]",2
+5602139238023,EAN13,Portugal,"[""searxng:5602139238023""]",3
+4902720104289,EAN13,Japan,"[""searxng:4902720104289""]",2
+4070765056198,EAN13,Germany,"[""searxng:4070765056198""]",2
+4335619243262,EAN13,Germany,[],2
+8936221041800,EAN13,Vietnam,"[""searxng:8936221041800"", ""https://tiki.vn/search?q=8936221041800"", ""https://tiki.vn/thuong-hieu/vascara.html"", ""https://tiki.vn/thuong-hieu/dior.html"", ""https://tiki.vn/thuong-hieu/estee-lauder.html"", ""https://tiki.vn/thuong-hieu/th-true-milk.html""]",1
+8906036673763,EAN13,India,"[""searxng:8906036673763""]",9
+8003131001351,EAN13,Italy,"[""searxng:8003131001351""]",2
+6281017404966,EAN13,Saudi Arabia,"[""searxng:6281017404966"", ""https://www.amazon.sa/s?k=6281017404966#skippedLink"", ""https://www.amazon.sa/s?k=6281017404966#s-refinements &gt; div.a-section &gt; div:first-child"", ""https://www.amazon.sa/s?k=6281017404966"", ""https://www.amazon.sa/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.sa%2Fs%3Fk%3D6281017404966%26ref_%3Dnav_ya_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=saflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"", ""https://www.amazon.sa/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.sa%2Fs%3Fk%3D6281017404966%26ref_%3Dnav_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=saflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0""]",1
+8938506647912,EAN13,Vietnam,[],2
+5201071206017,EAN13,Greece,[],3
+8809849802736,EAN13,South Korea,"[""searxng:8809849802736""]",3
+8888202068880,EAN13,Singapore,[],2
+4833020320300,EAN13,,"[""searxng:4833020320300""]",2
+6281008070651,EAN13,Saudi Arabia,"[""searxng:6281008070651""]",1
+8712857984397,EAN13,Netherlands,"[""searxng:8712857984397""]",2
+9904235051978,EAN13,,[],1
+4901231507336,EAN13,Japan,[],1
+4901231507312,EAN13,Japan,"[""searxng:4901231507312""]",1
+8690506549121,EAN13,Turkey,"[""searxng:8690506549121""]",6
+8690504040620,EAN13,Turkey,"[""searxng:8690504040620""]",3
+8961014038385,EAN13,Pakistan,"[""searxng:8961014038385""]",4
+022400768946,UPC_A,United States / Canada,"[""searxng:0022400768946""]",1
+8999999030162,EAN13,Indonesia,"[""searxng:8999999030162""]",1
+6974903136781,EAN13,China,[],2
+8990044000079,EAN13,Indonesia,"[""searxng:8990044000079""]",4
+8851932355254,EAN13,Thailand,[],1
+6271101200147,EAN13,Kuwait,"[""searxng:6271101200147""]",2
+8017596104410,EAN13,Italy,"[""searxng:8017596104410""]",4
+8997204670646,EAN13,Indonesia,"[""searxng:8997204670646""]",1
+997904370646,UPC_A,United States / Canada,"[""searxng:0997904370646""]",1
+8858152045019,EAN13,Thailand,"[""searxng:8858152045019""]",3
+9555021700589,EAN13,Malaysia,[],2
+9555104600096,EAN13,Malaysia,[],1
+9556231880023,EAN13,Malaysia,"[""searxng:9556231880023""]",1
+8858152031227,EAN13,Thailand,[],2
+5901588402765,EAN13,Poland,"[""searxng:5901588402765""]",2
+9556231190023,EAN13,Malaysia,[],1
+6977174080029,EAN13,China,[],4
+20331412,EAN8,United States / Canada,"[""searxng:0000020331412""]",3
+6952841913435,EAN13,China,"[""searxng:6952841913435""]",6
+6287035890569,EAN13,Saudi Arabia,"[""searxng:6287035890569""]",3
+2048135890569,EAN13,,[],1
+9557822220228,EAN13,Malaysia,[],1
+4902130116131,EAN13,Japan,"[""searxng:4902130116131""]",2
+033026340607,UPC_A,United States / Canada,"[""searxng:0033026340607""]",1
+5600757200187,EAN13,Portugal,[],2
+6922222702156,EAN13,China,[],1
+6928961211546,EAN13,China,"[""searxng:6928961211546""]",1
+4056489964131,EAN13,Germany,"[""searxng:4056489964131""]",2
+6975527285541,EAN13,China,"[""searxng:6975527285541""]",11
+4903379192450,EAN13,Japan,"[""searxng:4903379192450""]",2
+4562320830911,EAN13,Japan,"[""searxng:4562320830911""]",1
+4970020120711,EAN13,Japan,[],6
+8858684520367,EAN13,Thailand,[],8
+6191428600935,EAN13,Tunisia,"[""searxng:6191428600935""]",1
+8850123005381,EAN13,Thailand,"[""searxng:8850123005381""]",2
+4970020110750,EAN13,Japan,"[""searxng:4970020110750""]",3
+6928804010381,EAN13,China,"[""searxng:6928804010381""]",1
+8994963002534,EAN13,Indonesia,"[""searxng:8994963002534""]",3
+6924862102501,EAN13,China,"[""searxng:6924862102501""]",1
+6977364040062,EAN13,China,[],1
+4000511463802,EAN13,Germany,[],1
+6932529211763,EAN13,China,"[""searxng:6932529211763""]",1
+8994963001551,EAN13,Indonesia,[],2
+6971065184452,EAN13,China,"[""searxng:6971065184452""]",1
+6935153706759,EAN13,China,"[""searxng:6935153706759""]",1
+6935153706766,EAN13,China,[],1
+4901605805396,EAN13,Japan,"[""searxng:4901605805396""]",1
+9556771012816,EAN13,Malaysia,[],8
+8721264380937,EAN13,Netherlands,"[""searxng:8721264380937""]",3
+4901820321848,EAN13,Japan,"[""searxng:4901820321848""]",1
+4700000140237,EAN13,,[],6
+4702963440027,EAN13,,[],4
+4870001573959,EAN13,Kazakhstan,"[""searxng:4870001573959""]",3
+9551002180012,EAN13,Malaysia,"[""searxng:9551002180012""]",2
+9555319110434,EAN13,Malaysia,"[""searxng:9555319110434""]",1
+5203927497631,EAN13,Greece,"[""searxng:5203927497631""]",2
+9588832109418,EAN13,Macau,[],1
+4901075011587,EAN13,Japan,[],1
+6959836926777,EAN13,China,"[""searxng:6959836926777""]",1
+6970961156150,EAN13,China,"[""searxng:6970961156150""]",3
+4714221813818,EAN13,Taiwan,"[""searxng:4714221813818""]",1
+4056489172581,EAN13,Germany,"[""searxng:4056489172581""]",1
+036416662372,UPC_A,United States / Canada,"[""searxng:0036416662372""]",1
+7335029343818,EAN13,Sweden,[],1
+4580346094346,EAN13,Japan,[],1
+4570106722749,EAN13,Japan,"[""searxng:4570106722749""]",1
+8935001726432,EAN13,Vietnam,"[""searxng:8935001726432""]",3
+6084001191428,EAN13,Bahrain,"[""searxng:6084001191428""]",2
+5425031753865,EAN13,Belgium / Luxembourg,"[""searxng:5425031753865""]",2
+8852117000761,EAN13,Thailand,"[""searxng:8852117000761""]",1
+4607183456059,EAN13,Russia,"[""searxng:4607183456059""]",2
+9557305000095,EAN13,Malaysia,[],1
+7630486404967,EAN13,Switzerland / Liechtenstein,"[""searxng:7630486404967""]",3
+6974134670894,EAN13,China,"[""searxng:6974134670894""]",1
+8993110005237,EAN13,Indonesia,"[""searxng:8993110005237""]",5
+806863014280,UPC_A,United States / Canada,"[""searxng:0806863014280""]",1
+8712857984649,EAN13,Netherlands,[],4
+6927002804594,EAN13,China,[],2
+8851004498285,EAN13,Thailand,"[""searxng:8851004498285""]",2
+6927987522865,EAN13,China,"[""searxng:6927987522865""]",1
+8993010031237,EAN13,Indonesia,"[""searxng:8993010031237""]",1
+4023600018837,EAN13,Germany,"[""searxng:4023600018837""]",3
+8853165041546,EAN13,Thailand,"[""searxng:8853165041546""]",1
+99347314,EAN8,United States / Canada,"[""searxng:0000099347314""]",1
+9414757480205,EAN13,New Zealand,[],4
+9400547023110,EAN13,New Zealand,"[""searxng:9400547023110""]",2
+9339687285471,EAN13,Australia,[],1
+2303780301472,EAN13,,"[""searxng:2303780301472""]",2
+8964004771026,EAN13,Pakistan,"[""searxng:8964004771026""]",2
+6971764154701,EAN13,China,"[""searxng:6971764154701""]",5
+55001304,EAN8,United States / Canada,"[""searxng:0000055001304""]",1
+6975971880187,EAN13,China,"[""searxng:6975971880187""]",2
+8994468690021,EAN13,Indonesia,"[""searxng:8994468690021""]",2
+7350049929798,EAN13,Sweden,"[""searxng:7350049929798""]",2
+8801062635221,EAN13,South Korea,"[""searxng:8801062635221""]",2
+4901790285096,EAN13,Japan,[],2
+4902431811315,EAN13,Japan,"[""searxng:4902431811315""]",1
+7610400111775,EAN13,Switzerland / Liechtenstein,"[""searxng:7610400111775""]",4
+8801043060882,EAN13,South Korea,"[""searxng:8801043060882""]",5
+253797518047,UPC_A,United States / Canada,"[""searxng:0253797518047""]",1
+041770084104,UPC_A,United States / Canada,"[""searxng:0041770084104""]",2
+9555540001716,EAN13,Malaysia,[],1
+8859017685746,EAN13,Thailand,[],3
+1949260766068,EAN13,,"[""searxng:1949260766068""]",1
+6253002412263,EAN13,Jordan,"[""searxng:6253002412263""]",2
+443593404907,UPC_A,United States / Canada,"[""searxng:0443593404907""]",1
+6251971078503,EAN13,Jordan,[],1
+6251977018503,EAN13,Jordan,[],1
+6223000082058,EAN13,Egypt,"[""searxng:6223000082058""]",1
+4070757056588,EAN13,Germany,"[""searxng:4070757056588""]",4
+035000995636,UPC_A,United States / Canada,"[""searxng:0035000995636""]",1
+5601009997268,EAN13,Portugal,"[""searxng:5601009997268""]",1
+8941114006606,EAN13,,"[""searxng:8941114006606""]",3
+5601312097686,EAN13,Portugal,"[""searxng:5601312097686""]",2
+9266600050697,EAN13,,"[""searxng:9266600050697""]",1
+629025410160,UPC_A,United States / Canada,"[""searxng:0629025410160""]",2
+0642461094190,EAN13,United States / Canada,[],1
+8720726586207,EAN13,Netherlands,"[""searxng:8720726586207""]",1
+0073390050474,EAN13,United States / Canada,[],4
+8420010241255,EAN13,Spain,"[""searxng:8420010241255""]",1
+612101847660,UPC_A,United States / Canada,"[""searxng:0612101847660""]",1
+8480000468925,EAN13,Spain,"[""searxng:8480000468925""]",2
+8402001033803,EAN13,Spain,"[""searxng:8402001033803""]",2
+2001437000005,EAN13,,"[""searxng:2001437000005""]",2
+404144468755,UPC_A,United States / Canada,[],1
+850893150098,UPC_A,United States / Canada,[],1
+5280147466715,EAN13,Lebanon,[],1
+6977180130015,EAN13,China,[],1
+3417770776870,EAN13,France,"[""searxng:3417770776870""]",1
+8681665068486,EAN13,Turkey,"[""searxng:8681665068486""]",1
+062488700841,UPC_A,United States / Canada,"[""searxng:0062488700841""]",1
+6420256014486,EAN13,Finland,"[""searxng:6420256014486""]",1
+4335619336254,EAN13,Germany,[],4
+5609757242159,EAN13,Portugal,[],2
+627783000265,UPC_A,United States / Canada,"[""searxng:0627783000265""]",1
+6903072440719,EAN13,China,"[""searxng:6903072440719""]",2
+7901394020564,EAN13,Brazil,"[""searxng:7901394020564""]",1
+228466077200,UPC_A,United States / Canada,"[""searxng:0228466077200""]",1
+8961100098903,EAN13,Pakistan,[],2
+8691216104457,EAN13,Turkey,[],2
+725765050571,UPC_A,United States / Canada,"[""searxng:0725765050571""]",1
+6918551813434,EAN13,China,"[""searxng:6918551813434""]",4
+8997223500023,EAN13,Indonesia,"[""searxng:8997223500023""]",2
+6296242580309,EAN13,United Arab Emirates,"[""searxng:6296242580309""]",1
+4942355250449,EAN13,Japan,"[""searxng:4942355250449""]",3
+8852761000193,EAN13,Thailand,"[""searxng:8852761000193""]",2
+4600068050793,EAN13,Russia,"[""searxng:4600068050793""]",4
+1901007805911,EAN13,,"[""searxng:1901007805911""]",1
+4870036007443,EAN13,Kazakhstan,"[""searxng:4870036007443""]",1
+8410087863238,EAN13,Spain,[],3
+4880003446700,EAN13,,"[""searxng:4880003446700""]",1
+4870227271110,EAN13,Kazakhstan,"[""searxng:4870227271110""]",1
+8936236300008,EAN13,Vietnam,"[""searxng:8936236300008""]",1
+6001224980110,EAN13,South Africa,"[""searxng:6001224980110""]",2
+8906022693041,EAN13,India,"[""searxng:8906022693041""]",3
+8684577105553,EAN13,Turkey,"[""searxng:8684577105553""]",2
+123601420067,UPC_A,United States / Canada,"[""searxng:0123601420067""]",1
+4806510789215,EAN13,Philippines,[],3
+4902820108057,EAN13,Japan,[],3
+8859255500030,EAN13,Thailand,"[""searxng:8859255500030""]",2
+4901360363971,EAN13,Japan,"[""searxng:4901360363971""]",1
+8850309228535,EAN13,Thailand,"[""searxng:8850309228535""]",7
+2000126479658,EAN13,,"[""searxng:2000126479658""]",1
+4902105295779,EAN13,Japan,"[""searxng:4902105295779""]",5
+8934803056129,EAN13,Vietnam,"[""searxng:8934803056129""]",3
+7896225743630,EAN13,Brazil,"[""searxng:7896225743630""]",6
+8999999464646,EAN13,Indonesia,"[""searxng:8999999464646""]",1
+3499490071121,EAN13,France,"[""searxng:3499490071121""]",3
+898510350193,UPC_A,United States / Canada,[],1
+1499096071121,EAN13,,"[""searxng:1499096071121""]",1
+400625268821,UPC_A,United States / Canada,"[""searxng:0400625268821""]",1
+8809803579643,EAN13,South Korea,"[""searxng:8809803579643""]",2
+686352608271,UPC_A,United States / Canada,"[""searxng:0686352608271""]",1
+8851028048800,EAN13,Thailand,[],1
+8906192700198,EAN13,India,"[""searxng:8906192700198""]",1
+024354304041,UPC_A,United States / Canada,"[""searxng:0024354304041""]",3
+8901963200877,EAN13,India,"[""searxng:8901963200877""]",3
+6974608051662,EAN13,China,[],1
+6977497560932,EAN13,China,"[""searxng:6977497560932""]",4
+4711516791875,EAN13,Taiwan,"[""searxng:4711516791875""]",2
+8809256677347,EAN13,South Korea,"[""searxng:8809256677347""]",2
+8997028680272,EAN13,Indonesia,"[""searxng:8997028680272""]",2
+4997425380274,EAN13,Japan,"[""searxng:4997425380274""]",1
+4335619245709,EAN13,Germany,"[""searxng:4335619245709""]",5
+997498660284,UPC_A,United States / Canada,"[""searxng:0997498660284""]",1
+8934609608287,EAN13,Vietnam,"[""searxng:8934609608287""]",2
+4902201184076,EAN13,Japan,[],1
+6977783942428,EAN13,China,"[""searxng:6977783942428""]",7
+5350043020622,EAN13,Malta,[],7
+4955943020263,EAN13,Japan,"[""searxng:4955943020263""]",2
+5350043000235,EAN13,Malta,"[""searxng:5350043000235""]",9
+7801004465597,EAN13,Chile,"[""searxng:7801004465597""]",1
+9554100086217,EAN13,Malaysia,"[""searxng:9554100086217""]",2
+4870244251393,EAN13,Kazakhstan,"[""searxng:4870244251393""]",5
+9556593149059,EAN13,Malaysia,"[""searxng:9556593149059""]",1
+6313342059150,EAN13,,[],1
+1884244251393,EAN13,,[],1
+2810980009027,EAN13,,"[""searxng:2810980009027""]",1
+2861453010736,EAN13,,"[""searxng:2861453010736""]",2
+34185858,EAN8,United States / Canada,"[""searxng:0000034185858""]",1
+8961003559518,EAN13,Pakistan,[],2
+7290010176243,EAN13,Israel,"[""searxng:7290010176243""]",1
+9555216590254,EAN13,Malaysia,"[""searxng:9555216590254""]",1
+4630003401601,EAN13,Russia,"[""searxng:4630003401601""]",1
+9556116110108,EAN13,Malaysia,[],1
+9555366301120,EAN13,Malaysia,"[""searxng:9555366301120""]",5
+5059630004877,EAN13,United Kingdom,"[""searxng:5059630004877""]",2
+9555589219776,EAN13,Malaysia,[],4
+9555635200161,EAN13,Malaysia,[],5
+9300601011667,EAN13,Australia,"[""searxng:9300601011667""]",1
+8936135431148,EAN13,Vietnam,[],1
+201804106459,UPC_A,United States / Canada,[],1
+4901176010519,EAN13,Japan,"[""searxng:4901176010519""]",1
+134667050600,UPC_A,United States / Canada,"[""searxng:0134667050600""]",1
+6009610642888,EAN13,South Africa,"[""searxng:6009610642888""]",4
+4206953990313,EAN13,Germany,[],1
+8990019030308,EAN13,Indonesia,"[""searxng:8990019030308""]",1
+6290360597720,EAN13,United Arab Emirates,"[""searxng:6290360597720""]",1
+4068706969959,EAN13,Germany,[],6
+8909263009053,EAN13,India,[],1
+8809184832511,EAN13,South Korea,"[""searxng:8809184832511""]",2
+8809184833495,EAN13,South Korea,"[""searxng:8809184833495""]",1
+5352205059228,EAN13,Malta,"[""searxng:5352205059228""]",2
+8851351921856,EAN13,Thailand,[],3
+811552218566,UPC_A,United States / Canada,[],1
+8857125519021,EAN13,Thailand,"[""searxng:8857125519021""]",4
+9555227500563,EAN13,Malaysia,"[""searxng:9555227500563""]",7
+8992931005099,EAN13,Indonesia,[],1
+9556189867558,EAN13,Malaysia,[],1
+4970478008036,EAN13,Japan,"[""searxng:4970478008036""]",2
+4751002608768,EAN13,,"[""searxng:4751002608768""]",1
+5926016310016,EAN13,,"[""searxng:5926016310016""]",1
+8017596144454,EAN13,Italy,"[""searxng:8017596144454""]",2
+2914720016648,EAN13,,"[""searxng:2914720016648""]",1
+6970026431734,EAN13,China,"[""searxng:6970026431734""]",1
+4942355259367,EAN13,Japan,"[""searxng:4942355259367""]",3
+9555028701411,EAN13,Malaysia,"[""searxng:9555028701411""]",3
+8809916331435,EAN13,South Korea,"[""searxng:8809916331435""]",2
+9555337500705,EAN13,Malaysia,[],2
+9556046121007,EAN13,Malaysia,[],1
+8997225843906,EAN13,Indonesia,"[""searxng:8997225843906""]",1
+4260592920339,EAN13,Germany,"[""searxng:4260592920339""]",1
+9557771214439,EAN13,Malaysia,"[""searxng:9557771214439""]",4
+4711393164274,EAN13,Taiwan,[],5
+6952841913428,EAN13,China,"[""searxng:6952841913428""]",6
+022102108040,UPC_A,United States / Canada,[],1
+8991011327830,EAN13,Indonesia,"[""searxng:8991011327830""]",1
+8997018250010,EAN13,Indonesia,"[""searxng:8997018250010""]",1
+9556995204578,EAN13,Malaysia,"[""searxng:9556995204578""]",2
+8997018250393,EAN13,Indonesia,[],1
+4870002325922,EAN13,Kazakhstan,"[""searxng:4870002325922""]",5
+8999999294038,EAN13,Indonesia,"[""searxng:8999999294038""]",1
+2303868301462,EAN13,,"[""searxng:2303868301462""]",2
+8852020211568,EAN13,Thailand,"[""searxng:8852020211568""]",1
+5902627460081,EAN13,Poland,"[""searxng:5902627460081""]",1
+5902911015010,EAN13,Poland,[],3
+9557156005225,EAN13,Malaysia,"[""searxng:9557156005225""]",1
+2541839105989,EAN13,,"[""searxng:2541839105989""]",1
+344627042549,UPC_A,United States / Canada,[],1
+8993492102388,EAN13,Indonesia,"[""searxng:8993492102388""]",1
+6934290104145,EAN13,China,"[""searxng:6934290104145""]",2
+6974187632023,EAN13,China,"[""searxng:6974187632023""]",8
+8856234777261,EAN13,Thailand,"[""searxng:8856234777261""]",1
+4903110330523,EAN13,Japan,[],2
+45624698,EAN8,United States / Canada,[],1
+8720892449184,EAN13,Netherlands,[],1
+4971777298869,EAN13,Japan,[],1
+8994456700442,EAN13,Indonesia,"[""searxng:8994456700442""]",2
+4901095000677,EAN13,Japan,"[""searxng:4901095000677""]",3
+9556231120211,EAN13,Malaysia,"[""searxng:9556231120211""]",4
+9556098823386,EAN13,Malaysia,"[""searxng:9556098823386""]",1
+6223007852135,EAN13,Egypt,[],1
+9555108400043,EAN13,Malaysia,[],1
+6287020191312,EAN13,Saudi Arabia,"[""searxng:6287020191312""]",2
+8998666001528,EAN13,Indonesia,"[""searxng:8998666001528""]",1
+2039960067035,EAN13,,"[""searxng:2039960067035""]",1
+064100159396,UPC_A,United States / Canada,"[""searxng:0064100159396""]",2
+8996001526545,EAN13,Indonesia,[],3
+8998667300491,EAN13,Indonesia,"[""searxng:8998667300491""]",1
+0254498412849,EAN13,United States / Canada,"[""searxng:0254498412849""]",3
+7897972006726,EAN13,Brazil,[],6
+20038762,EAN8,United States / Canada,"[""searxng:0000020038762""]",1
+7896003740158,EAN13,Brazil,[],4
+8422874001020,EAN13,Spain,"[""searxng:8422874001020""]",2
+4620021193121,EAN13,Russia,"[""searxng:4620021193121""]",2
+8436626669970,EAN13,Spain,[],1
+8436624250200,EAN13,Spain,[],7
+2114848300142,EAN13,,[],1
+2053609100174,EAN13,,"[""searxng:2053609100174""]",1
+2053738201469,EAN13,,"[""searxng:2053738201469""]",1
+2053341100173,EAN13,,"[""searxng:2053341100173""]",3
+2041802301467,EAN13,,"[""searxng:2041802301467""]",2
+2041909301964,EAN13,,"[""searxng:2041909301964""]",1
+8436585062034,EAN13,Spain,[],2
+2302887100179,EAN13,,[],2
+2303055301466,EAN13,,"[""searxng:2303055301466""]",2
+2303868100171,EAN13,,[],2
+6487320540470,EAN13,Finland,"[""searxng:6487320540470""]",1
+8684564024300,EAN13,Turkey,[],1
+5057967253647,EAN13,United Kingdom,"[""searxng:5057967253647""]",1
+6947336202002,EAN13,China,"[""searxng:6947336202002""]",1
+6971833952474,EAN13,China,"[""searxng:6971833952474""]",2
+5905279897939,EAN13,Poland,"[""searxng:5905279897939""]",1
+5905279893580,EAN13,Poland,"[""searxng:5905279893580""]",9
+8436548626662,EAN13,Spain,"[""searxng:8436548626662""]",1
+4870234680059,EAN13,Kazakhstan,[],2
+5004506107541,EAN13,United Kingdom,"[""searxng:5004506107541""]",1
+442661028106,UPC_A,United States / Canada,"[""searxng:0442661028106""]",1
+8480010292053,EAN13,Spain,"[""searxng:8480010292053""]",2
+42189510,EAN8,United States / Canada,"[""searxng:0000042189510""]",2
+8606108584712,EAN13,Serbia,"[""searxng:8606108584712""]",1
+3770001765044,EAN13,France,[],2
+4026700521900,EAN13,Germany,"[""searxng:4026700521900""]",1
+2041722220565,EAN13,,"[""searxng:2041722220565""]",1
+034004960022,UPC_A,United States / Canada,"[""searxng:0034004960022""]",1
+2043482301461,EAN13,,[],1
+6291003087400,EAN13,United Arab Emirates,"[""searxng:6291003087400""]",1
+2053341100166,EAN13,,"[""searxng:2053341100166""]",2
+4901840960614,EAN13,Japan,"[""searxng:4901840960614""]",1
+4903110775171,EAN13,Japan,"[""searxng:4903110775171""]",1
+7801243205473,EAN13,Chile,"[""searxng:7801243205473""]",1
+8801117299101,EAN13,South Korea,"[""searxng:8801117299101"", ""https://www.coupang.com/vp/products/8279252942?itemId=23868002372&amp;vendorItemId=92778452692&amp;q=8801117299101&amp;searchId=e6645eac1926980&amp;sourceType=search&amp;itemsCount=6&amp;searchRank=0&amp;rank=0"", ""https://www.coupang.com/vp/products/8279252942?itemId=28461188880&amp;vendorItemId=95411601493&amp;q=8801117299101&amp;searchId=e6645eac1926980&amp;sourceType=search&amp;itemsCount=6&amp;searchRank=3&amp;rank=3"", ""https://www.coupang.com/vp/products/8279252942?itemId=27033469621&amp;vendorItemId=94001991159&amp;q=8801117299101&amp;searchId=e6645eac1926980&amp;sourceType=search&amp;itemsCount=6&amp;searchRank=4&amp;rank=4"", ""https://www.coupang.com/np/search?q=8801117299101"", ""https://login.coupang.com/login/login.pang?rtnUrl=https%3A%2F%2Fwww.coupang.com%2Fnp%2Fpost%2Flogin%3Fr%3Dhttp%253A%252F%252Fwww.coupang.com%252Fnp%252Fsearch%253Fq%253D8801117299101""]",1
+8802259031659,EAN13,South Korea,[],1
+8809214401090,EAN13,South Korea,[],2
+7004859862263,EAN13,Norway,[],1
+9556474127107,EAN13,Malaysia,"[""searxng:9556474127107""]",3
+9557189176909,EAN13,Malaysia,"[""searxng:9557189176909""]",2
+648795234325,UPC_A,United States / Canada,[],1
+8941153056877,EAN13,,"[""searxng:8941153056877""]",2
+15056177,EAN8,United States / Canada,"[""searxng:0000015056177""]",1
+5414666008907,EAN13,Belgium / Luxembourg,"[""searxng:5414666008907""]",1
+7068246864841,EAN13,Norway,"[""searxng:7068246864841""]",1
+4049726098355,EAN13,Germany,[],4
+5902241749876,EAN13,Poland,"[""searxng:5902241749876""]",1
+6298044089585,EAN13,United Arab Emirates,"[""searxng:6298044089585""]",2
+5055810047368,EAN13,United Kingdom,"[""searxng:5055810047368""]",1
+6287019870013,EAN13,Saudi Arabia,"[""searxng:6287019870013""]",3
+8857128905012,EAN13,Thailand,[],3
+201419870066,UPC_A,United States / Canada,[],1
+2409448127061,EAN13,,"[""searxng:2409448127061""]",2
+3661112908058,EAN13,France,"[""searxng:3661112908058""]",1
+0011111005143,EAN13,United States / Canada,"[""searxng:0011111005143""]",6
+4891962039803,EAN13,Hong Kong,[],8
+9786230937491,EAN13,,"[""searxng:9786230937491""]",5
+6936678441699,EAN13,China,[],2
+6971457521230,EAN13,China,"[""searxng:6971457521230""]",3
+8992933259117,EAN13,Indonesia,"[""searxng:8992933259117""]",1
+8994465100066,EAN13,Indonesia,"[""searxng:8994465100066""]",1
+3992206582411,EAN13,,"[""searxng:3992206582411""]",1
+6283700175498,EAN13,Saudi Arabia,"[""searxng:6283700175498""]",5
+8719587188118,EAN13,Netherlands,"[""searxng:8719587188118""]",2
+6979251261369,EAN13,China,"[""searxng:6979251261369""]",3
+49049787,EAN8,United States / Canada,"[""searxng:0000049049787""]",1
+5285001011872,EAN13,Lebanon,[],1
+8809583811384,EAN13,South Korea,"[""searxng:8809583811384""]",3
+8809576832334,EAN13,South Korea,"[""searxng:8809576832334""]",1
+231252903133,UPC_A,United States / Canada,[],1
+5310005005579,EAN13,North Macedonia,"[""searxng:5310005005579""]",1
+8992752011408,EAN13,Indonesia,"[""searxng:8992752011408""]",1
+4562355175391,EAN13,Japan,"[""searxng:4562355175391""]",4
+9556098833477,EAN13,Malaysia,"[""searxng:9556098833477""]",3
+4870202523326,EAN13,Kazakhstan,[],4
+4607065581657,EAN13,Russia,[],3
+355059112311,UPC_A,United States / Canada,"[""searxng:0355059112311""]",1
+8994468690014,EAN13,Indonesia,[],3
+8997240890800,EAN13,Indonesia,[],1
+8994942003002,EAN13,Indonesia,"[""searxng:8994942003002""]",3
+4901360275410,EAN13,Japan,"[""searxng:4901360275410""]",4
+4987176076069,EAN13,Japan,[],1
+8994834003875,EAN13,Indonesia,"[""searxng:8994834003875""]",1
+8801045498652,EAN13,South Korea,[],2
+6063955938006,EAN13,,"[""searxng:6063955938006""]",1
+044152559368,UPC_A,United States / Canada,"[""searxng:0044152559368""]",1
+8691216107762,EAN13,Turkey,"[""searxng:8691216107762""]",1
+4951924853875,EAN13,Japan,"[""searxng:4951924853875""]",1
+8801117164904,EAN13,South Korea,"[""searxng:8801117164904""]",1
+8851004799993,EAN13,Thailand,"[""searxng:8851004799993""]",1
+8802259033004,EAN13,South Korea,[],1
+2301834301461,EAN13,,"[""searxng:2301834301461""]",1
+4902590122567,EAN13,Japan,[],1
+2042680201467,EAN13,,"[""searxng:2042680201467""]",2
+4068706282256,EAN13,Germany,"[""searxng:4068706282256""]",3
+4170916602066,EAN13,Germany,"[""searxng:4170916602066""]",1
+9999104334429,EAN13,,"[""searxng:9999104334429""]",1
+4032489130301,EAN13,Germany,"[""searxng:4032489130301""]",2
+8857121407162,EAN13,Thailand,"[""searxng:8857121407162""]",1
+8858893916975,EAN13,Thailand,"[""searxng:8858893916975""]",1
+9557189111924,EAN13,Malaysia,[],3
+9557753125166,EAN13,Malaysia,"[""searxng:9557753125166""]",1
+7088240354629,EAN13,Norway,"[""searxng:7088240354629""]",1
+7030847088780,EAN13,Norway,"[""searxng:7030847088780""]",2
+8690120163536,EAN13,Turkey,"[""searxng:8690120163536""]",6
+1200108004767,EAN13,United States / Canada,"[""searxng:1200108004767""]",3
+8710559001350,EAN13,Netherlands,"[""searxng:8710559001350""]",1
+8809697890800,EAN13,South Korea,[],1
+4066447951233,EAN13,Germany,"[""searxng:4066447951233""]",1
+4008617261421,EAN13,Germany,"[""searxng:4008617261421""]",1
+8997026730474,EAN13,Indonesia,"[""searxng:8997026730474""]",1
+8445290980380,EAN13,Spain,"[""searxng:8445290980380""]",2
+8992696407039,EAN13,Indonesia,"[""searxng:8992696407039""]",1
+4901990348973,EAN13,Japan,[],2
+4603768663126,EAN13,Russia,[],1
+8809322291408,EAN13,South Korea,"[""searxng:8809322291408""]",1
+9555939600001,EAN13,Malaysia,"[""searxng:9555939600001""]",2
+8938505214474,EAN13,Vietnam,[],1
+8858954214958,EAN13,Thailand,"[""searxng:8858954214958""]",3
+6942349764875,EAN13,China,[],2
+8852975914569,EAN13,Thailand,"[""searxng:8852975914569""]",4
+8004780546415,EAN13,Italy,"[""searxng:8004780546415""]",1
+8994109204211,EAN13,Indonesia,"[""searxng:8994109204211""]",1
+9050482431046,EAN13,Austria,"[""searxng:9050482431046""]",1
+8885013133981,EAN13,Singapore,[],1
+9930435430886,EAN13,,"[""searxng:9930435430886""]",1
+8936135433425,EAN13,Vietnam,"[""searxng:8936135433425""]",4
+4902705036499,EAN13,Japan,"[""searxng:4902705036499""]",2
+4607006677753,EAN13,Russia,"[""searxng:4607006677753""]",2
+4902705080263,EAN13,Japan,[],1
+3024055000607,EAN13,France,"[""searxng:3024055000607""]",1
+4870200148156,EAN13,Kazakhstan,[],2
+9415007038986,EAN13,New Zealand,"[""searxng:9415007038986""]",5
+4549741004282,EAN13,Japan,"[""searxng:4549741004282""]",2
+6978067030046,EAN13,China,"[""searxng:6978067030046""]",1
+9555062700913,EAN13,Malaysia,"[""searxng:9555062700913""]",4
+531022704978,UPC_A,United States / Canada,[],1
+900932661891,UPC_A,United States / Canada,[],1
+8986655506635,EAN13,,"[""searxng:8986655506635""]",6
+8992942421154,EAN13,Indonesia,"[""searxng:8992942421154""]",6
+040312017419,UPC_A,United States / Canada,"[""searxng:0040312017419""]",1
+8991389220016,EAN13,Indonesia,"[""searxng:8991389220016""]",3
+7004106966010,EAN13,Norway,[],1
+9555501201025,EAN13,Malaysia,[],1
+5900102029969,EAN13,Poland,"[""searxng:5900102029969""]",4
+4898118916056,EAN13,Hong Kong,"[""searxng:4898118916056""]",2
+032475577558,UPC_A,United States / Canada,"[""searxng:0032475577558""]",1
+8999999572730,EAN13,Indonesia,"[""searxng:8999999572730""]",2
+87248678,EAN8,United States / Canada,"[""searxng:0000087248678""]",1
+6973811481587,EAN13,China,[],5
+8809882380628,EAN13,South Korea,[],3
+8805915805212,EAN13,South Korea,"[""searxng:8805915805212""]",3
+8801117586416,EAN13,South Korea,"[""searxng:8801117586416""]",6
+8993175564380,EAN13,Indonesia,"[""searxng:8993175564380""]",1
+7640153865137,EAN13,Switzerland / Liechtenstein,"[""searxng:7640153865137""]",2
+4902777250113,EAN13,Japan,"[""searxng:4902777250113""]",2
+4901951929661,EAN13,Japan,"[""searxng:4901951929661""]",1
+8850291107498,EAN13,Thailand,"[""searxng:8850291107498""]",3
+4580346094643,EAN13,Japan,[],3
+4901005533011,EAN13,Japan,"[""searxng:4901005533011""]",1
+4901951929654,EAN13,Japan,"[""searxng:4901951929654""]",1
+9318390000205,EAN13,Australia,[],3
+49837742,EAN8,United States / Canada,[],2
+4901990361149,EAN13,Japan,"[""searxng:4901990361149""]",1
+6978651730031,EAN13,China,"[""searxng:6978651730031""]",1
+9556024001376,EAN13,Malaysia,"[""searxng:9556024001376""]",3
+2270030010333,EAN13,,[],1
+6975429617716,EAN13,China,[],2
+4068706569425,EAN13,Germany,"[""searxng:4068706569425""]",4
+2004201514050,EAN13,,"[""searxng:2004201514050""]",2
+8996001601273,EAN13,Indonesia,"[""searxng:8996001601273""]",1
+072921611030,UPC_A,United States / Canada,"[""searxng:0072921611030""]",1
+2107453012548,EAN13,,[],1
+2111827011525,EAN13,,[],2
+2106493010804,EAN13,,"[""searxng:2106493010804""]",1
+2109977006911,EAN13,,[],1
+9344851002136,EAN13,Australia,[],2
+6972653933933,EAN13,China,"[""searxng:6972653933933""]",1
+9557485000069,EAN13,Malaysia,"[""searxng:9557485000069""]",12
+8682644603285,EAN13,Turkey,[],2
+9556798312067,EAN13,Malaysia,[],3
+9555452101603,EAN13,Malaysia,"[""searxng:9555452101603""]",1
+8809615057674,EAN13,South Korea,"[""searxng:8809615057674""]",1
+9557224000114,EAN13,Malaysia,"[""searxng:9557224000114""]",2
+6137012000026,EAN13,Algeria,[],3
+6137012000002,EAN13,Algeria,"[""searxng:6137012000002""]",1
+2009103414026,EAN13,,"[""searxng:2009103414026""]",3
+2009103214022,EAN13,,"[""searxng:2009103214022""]",2
+1259026001006,EAN13,United States / Canada,"[""searxng:1259026001006""]",1
+8410525263613,EAN13,Spain,[],3
+4806534223450,EAN13,Philippines,[],2
+59482192,EAN8,United States / Canada,"[""searxng:0000059482192""]",1
+8721274646450,EAN13,Netherlands,"[""searxng:8721274646450""]",3
+8480024690944,EAN13,Spain,[],1
+8480024669094,EAN13,Spain,"[""searxng:8480024669094""]",1
+044111668872,UPC_A,United States / Canada,"[""searxng:0044111668872""]",1
+5606480100633,EAN13,Portugal,"[""searxng:5606480100633""]",3
+0850455002001,EAN13,United States / Canada,"[""searxng:0850455002001""]",1
+254734007297,UPC_A,United States / Canada,"[""searxng:0254734007297""]",1
+8693181006750,EAN13,Turkey,[],1
+221547602995,UPC_A,United States / Canada,[],1
+75752200,EAN8,United States / Canada,"[""searxng:0000075752200""]",1
+5000382126492,EAN13,United Kingdom,[],1
+5036606497109,EAN13,United Kingdom,"[""searxng:5036606497109""]",1
+5036601844106,EAN13,United Kingdom,"[""searxng:5036601844106""]",2
+8699462643317,EAN13,Turkey,"[""searxng:8699462643317""]",1
+6213291285016,EAN13,Syria,"[""searxng:6213291285016""]",3
+4007523692558,EAN13,Germany,"[""searxng:4007523692558""]",1
+5604051011364,EAN13,Portugal,[],3
+8007006615001,EAN13,Italy,"[""searxng:8007006615001""]",4
+6927759743009,EAN13,China,[],2
+8723468726344,EAN13,Netherlands,"[""searxng:8723468726344""]",1
+230224003215,UPC_A,United States / Canada,"[""searxng:0230224003215""]",2
+403024003215,UPC_A,United States / Canada,[],1
+3822073113381,EAN13,,"[""searxng:3822073113381""]",1
+8720877255786,EAN13,Netherlands,"[""searxng:8720877255786""]",8
+1046084812442,EAN13,United States / Canada,"[""searxng:1046084812442""]",2
+5449000337832,EAN13,Belgium / Luxembourg,"[""searxng:5449000337832""]",2
+20070564,EAN8,United States / Canada,"[""searxng:0000020070564""]",1
+4032549054363,EAN13,Germany,"[""searxng:4032549054363""]",1
+8850773570741,EAN13,Thailand,"[""searxng:8850773570741""]",1
+744097300840,UPC_A,United States / Canada,"[""searxng:0744097300840""]",1
+8858684517312,EAN13,Thailand,[],7
+764451330160,UPC_A,United States / Canada,"[""searxng:0764451330160""]",3
+3830084190611,EAN13,,"[""searxng:3830084190611""]",3
+6973481600004,EAN13,China,[],3
+4070757119788,EAN13,Germany,[],3
+4903110097297,EAN13,Japan,"[""searxng:4903110097297""]",1
+7350000551365,EAN13,Sweden,"[""searxng:7350000551365""]",2
+8992982700103,EAN13,Indonesia,"[""searxng:8992982700103""]",3
+6925696400382,EAN13,China,"[""searxng:6925696400382""]",1
+2809850012052,EAN13,,"[""searxng:2809850012052""]",3
+1557060321662,EAN13,,"[""searxng:1557060321662""]",1
+4792192509619,EAN13,,"[""searxng:4792192509619""]",1
+6973870139795,EAN13,China,"[""searxng:6973870139795""]",2
+2632790003954,EAN13,,[],2
+9557123093514,EAN13,Malaysia,"[""searxng:9557123093514""]",2
+316999999035,UPC_A,United States / Canada,"[""searxng:0316999999035""]",1
+6979490940582,EAN13,China,[],1
+6970072840146,EAN13,China,[],4
+954672840146,UPC_A,United States / Canada,"[""searxng:0954672840146""]",1
+8992752000051,EAN13,Indonesia,[],2
+8992741905220,EAN13,Indonesia,"[""searxng:8992741905220""]",2
+8999908984005,EAN13,Indonesia,"[""searxng:8999908984005""]",2
+6921168597796,EAN13,China,"[""searxng:6921168597796""]",2
+9555824100135,EAN13,Malaysia,"[""searxng:9555824100135""]",1
+8851351386778,EAN13,Thailand,"[""searxng:8851351386778""]",4
+4611867024656,EAN13,Russia,"[""searxng:4611867024656""]",1
+4335619255715,EAN13,Germany,[],2
+8852966004606,EAN13,Thailand,[],3
+6925861571459,EAN13,China,"[""searxng:6925861571459""]",1
+6975211781083,EAN13,China,"[""searxng:6975211781083""]",1
+6970605360004,EAN13,China,"[""searxng:6970605360004""]",1
+6971649788267,EAN13,China,"[""searxng:6971649788267""]",1
+6926265302397,EAN13,China,"[""searxng:6926265302397""]",2
+8801104215053,EAN13,South Korea,"[""searxng:8801104215053""]",1
+8934603300323,EAN13,Vietnam,"[""searxng:8934603300323""]",1
+8859898700316,EAN13,Thailand,"[""searxng:8859898700316""]",4
+8850718223381,EAN13,Thailand,[],1
+3014260803926,EAN13,France,"[""searxng:3014260803926""]",1
+264557920628,UPC_A,United States / Canada,[],1
+8999999597467,EAN13,Indonesia,"[""searxng:8999999597467""]",1
+8993055000502,EAN13,Indonesia,"[""searxng:8993055000502""]",1
+8998667300262,EAN13,Indonesia,"[""searxng:8998667300262""]",1
+9550050020332,EAN13,Malaysia,"[""searxng:9550050020332""]",1
+042190716743,UPC_A,United States / Canada,"[""searxng:0042190716743""]",1
+8941161147512,EAN13,,[],3
+9900761147512,EAN13,,[],1
+8994096226418,EAN13,Indonesia,"[""searxng:8994096226418""]",7
+3848062015344,EAN13,,"[""searxng:3848062015344""]",2
+830127014051,UPC_A,United States / Canada,"[""searxng:0830127014051""]",1
+4335619259669,EAN13,Germany,"[""searxng:4335619259669""]",1
+8859811500665,EAN13,Thailand,"[""searxng:8859811500665""]",1
+8858867830085,EAN13,Thailand,"[""searxng:8858867830085""]",2
+6920208909322,EAN13,China,[],1
+8000533078912,EAN13,Italy,"[""searxng:8000533078912""]",2
+7290012228018,EAN13,Israel,"[""searxng:7290012228018""]",2
+6938558123541,EAN13,China,"[""searxng:6938558123541""]",3
+0062990141118,EAN13,United States / Canada,"[""searxng:0062990141118""]",1
+8901071708807,EAN13,India,[],4
+5060593381578,EAN13,United Kingdom,[],4
+8682815032524,EAN13,Turkey,"[""searxng:8682815032524""]",2
+6978933180592,EAN13,China,"[""searxng:6978933180592""]",1
+4902777272047,EAN13,Japan,"[""searxng:4902777272047""]",1
+6074000199389,EAN13,,"[""searxng:6074000199389""]",2
+023400199389,UPC_A,United States / Canada,"[""searxng:0023400199389""]",1
+4978441340589,EAN13,Japan,[],1
+560440551420,UPC_A,United States / Canada,"[""searxng:0560440551420""]",1
+4886065127038,EAN13,,"[""searxng:4886065127038""]",1
+4902410491347,EAN13,Japan,"[""searxng:4902410491347""]",4
+2245445881458,EAN13,,"[""searxng:2245445881458""]",1
+4870202523845,EAN13,Kazakhstan,"[""searxng:4870202523845""]",2
+8934760213399,EAN13,Vietnam,"[""searxng:8934760213399""]",5
+8934760210695,EAN13,Vietnam,"[""searxng:8934760210695""]",1
+8850635043475,EAN13,Thailand,[],1
+8850291113345,EAN13,Thailand,[],5
+6151100058140,EAN13,,"[""searxng:6151100058140""]",6
+4902170584259,EAN13,Japan,"[""searxng:4902170584259""]",2
+6751100058142,EAN13,,"[""searxng:6751100058142""]",1
+4870001421809,EAN13,Kazakhstan,[],1
+4902288711714,EAN13,Japan,[],1
+6970195072516,EAN13,China,"[""searxng:6970195072516""]",1
+5063717230684,EAN13,United Kingdom,"[""searxng:5063717230684""]",2
+6971258747013,EAN13,China,"[""searxng:6971258747013""]",3
+6933211449266,EAN13,China,"[""searxng:6933211449266""]",1
+4610101145362,EAN13,Russia,[],2
+044059558709,UPC_A,United States / Canada,[],1
+6918768000283,EAN13,China,"[""searxng:6918768000283""]",1
+6974371492075,EAN13,China,"[""searxng:6974371492075""]",5
+9551027661497,EAN13,Malaysia,[],2
+9551028190033,EAN13,Malaysia,[],1
+6975144784199,EAN13,China,"[""searxng:6975144784199""]",4
+9786234381139,EAN13,,"[""searxng:9786234381139""]",1
+8888196172648,EAN13,Singapore,"[""searxng:8888196172648""]",3
+8850718816064,EAN13,Thailand,[],3
+8999999039615,EAN13,Indonesia,"[""searxng:8999999039615""]",7
+9281441887226,EAN13,,"[""searxng:9281441887226""]",1
+8857130409027,EAN13,Thailand,[],2
+6923555289352,EAN13,China,"[""searxng:6923555289352""]",1
+9557606108285,EAN13,Malaysia,"[""searxng:9557606108285""]",1
+8851683006375,EAN13,Thailand,"[""searxng:8851683006375""]",2
+4603870000505,EAN13,Russia,[],1
+4623720660024,EAN13,Russia,[],1
+8809653560662,EAN13,South Korea,"[""searxng:8809653560662""]",5
+0281439009769,EAN13,United States / Canada,"[""searxng:0281439009769""]",1
+4801010122326,EAN13,Philippines,[],1
+0281441007074,EAN13,United States / Canada,[],3
+916600400723,UPC_A,United States / Canada,"[""searxng:0916600400723""]",1
+8901030907876,EAN13,India,[],1
+788364006004,UPC_A,United States / Canada,[],1
+8801073212077,EAN13,South Korea,"[""searxng:8801073212077""]",1
+6281096001247,EAN13,Saudi Arabia,"[""searxng:6281096001247""]",1
+570117803011,UPC_A,United States / Canada,"[""searxng:0570117803011""]",1
+6972227283266,EAN13,China,[],1
+4998530602893,EAN13,Japan,[],1
+4902555279626,EAN13,Japan,[],2
+8015565074511,EAN13,Italy,"[""searxng:8015565074511""]",1
+6936561802149,EAN13,China,"[""searxng:6936561802149""]",2
+884912401427,UPC_A,United States / Canada,"[""searxng:0884912401427""]",1
+840215401885,UPC_A,United States / Canada,"[""searxng:0840215401885""]",2
+2111283000026,EAN13,,[],2
+8801767338649,EAN13,South Korea,"[""searxng:8801767338649""]",2
+745604461320,UPC_A,United States / Canada,"[""searxng:0745604461320""]",7
+628504756065,UPC_A,United States / Canada,"[""searxng:0628504756065""]",1
+047100000004,UPC_A,United States / Canada,"[""searxng:0047100000004""]",2
+059763000000,UPC_A,United States / Canada,[],5
+039442020376,UPC_A,United States / Canada,[],2
+039442020369,UPC_A,United States / Canada,[],1
+499007143757,UPC_A,United States / Canada,[],1
+2043498200536,EAN13,,"[""searxng:2043498200536""]",1
+7750489783804,EAN13,Peru,"[""searxng:7750489783804""]",1
+8552372405034,EAN13,,"[""searxng:8552372405034""]",1
+7751737002555,EAN13,Peru,"[""searxng:7751737002555""]",4
+4337233549218,EAN13,Germany,[],2
+2175816004790,EAN13,,[],2
+2175823004790,EAN13,,"[""searxng:2175823004790""]",1
+4833002941745,EAN13,,"[""searxng:4833002941745""]",2
+6972885413944,EAN13,China,"[""searxng:6972885413944""]",1
+036564004390,UPC_A,United States / Canada,"[""searxng:0036564004390""]",1
+6920251429303,EAN13,China,"[""searxng:6920251429303""]",3
+4059729395184,EAN13,Germany,"[""searxng:4059729395184""]",1
+3517140000205,EAN13,France,[],1
+514500000205,UPC_A,United States / Canada,[],1
+6074000069071,EAN13,,"[""searxng:6074000069071""]",2
+059749986878,UPC_A,United States / Canada,"[""searxng:0059749986878""]",8
+8431562183023,EAN13,Spain,[],2
+8785293632023,EAN13,Netherlands,"[""searxng:8785293632023""]",3
+6901715291223,EAN13,China,"[""searxng:6901715291223""]",1
+6920316600081,EAN13,China,"[""searxng:6920316600081""]",1
+5060057801826,EAN13,United Kingdom,[],1
+6924187839250,EAN13,China,"[""searxng:6924187839250""]",1
+48110761,EAN8,United States / Canada,"[""searxng:0000048110761""]",1
+6970716698010,EAN13,China,[],1
+6971840715826,EAN13,China,[],2
+6973029307808,EAN13,China,"[""searxng:6973029307808""]",1
+6952581467670,EAN13,China,"[""searxng:6952581467670""]",1
+6925303762056,EAN13,China,"[""searxng:6925303762056""]",2
+6937821510705,EAN13,China,"[""searxng:6937821510705""]",3
+042000946704,UPC_A,United States / Canada,"[""searxng:0042000946704""]",1
+19365763,EAN8,United States / Canada,"[""searxng:0000019365763""]",1
+4904391611974,EAN13,Japan,[],1
+5900384161197,EAN13,Poland,[],8
+6935590402894,EAN13,China,"[""searxng:6935590402894""]",1
+14783876,EAN8,United States / Canada,"[""searxng:0000014783876""]",1
+5711176387363,EAN13,Denmark,[],1
+8964001247142,EAN13,Pakistan,"[""searxng:8964001247142""]",1
+8410525260124,EAN13,Spain,"[""searxng:8410525260124""]",2
+721999020434,UPC_A,United States / Canada,[],1
+5000096024671,EAN13,United Kingdom,"[""searxng:5000096024671""]",1
+23015722,EAN8,United States / Canada,"[""searxng:0000023015722""]",3
+03015322,EAN8,United States / Canada,"[""searxng:0000003015322""]",1
+2995749000009,EAN13,,[],2
+4057278021844,EAN13,Germany,[],3
+6223010042356,EAN13,Egypt,"[""searxng:6223010042356""]",1
+3273070042318,EAN13,France,"[""searxng:3273070042318""]",1
+6223010042318,EAN13,Egypt,"[""searxng:6223010042318""]",1
+8801117693909,EAN13,South Korea,"[""searxng:8801117693909""]",3
+9120086399759,EAN13,Austria,[],3
+3024170022447,EAN13,France,"[""searxng:3024170022447""]",1
+4260196280730,EAN13,Germany,"[""searxng:4260196280730""]",1
+059600038593,UPC_A,United States / Canada,"[""searxng:0059600038593""]",1
+42189428,EAN8,United States / Canada,"[""searxng:0000042189428""]",1
+4607024902561,EAN13,Russia,[],3
+4953187973000,EAN13,Japan,[],1
+8901741001900,EAN13,India,[],4
+4335619355637,EAN13,Germany,"[""searxng:4335619355637""]",2
+8852966004163,EAN13,Thailand,[],2
+8850653196702,EAN13,Thailand,[],2
+2644738005906,EAN13,,"[""searxng:2644738005906""]",1
+6975701130759,EAN13,China,"[""searxng:6975701130759""]",1
+851487021145,UPC_A,United States / Canada,"[""searxng:0851487021145""]",1
+3387179064574,EAN13,France,[],1
+6937962148904,EAN13,China,[],2
+4701016611278,EAN13,,"[""searxng:4701016611278""]",1
+0194346404629,EAN13,United States / Canada,"[""searxng:0194346404629""]",1
+8994462433532,EAN13,Indonesia,"[""searxng:8994462433532""]",2
+908400795062,UPC_A,United States / Canada,[],1
+8908020795062,EAN13,India,"[""searxng:8908020795062""]",1
+8856082008289,EAN13,Thailand,"[""searxng:8856082008289""]",2
+8856082005714,EAN13,Thailand,[],2
+4901005004788,EAN13,Japan,[],1
+4901330407292,EAN13,Japan,"[""searxng:4901330407292""]",1
+6901668929679,EAN13,China,"[""searxng:6901668929679""]",1
+4901940115600,EAN13,Japan,[],1
+6972038641583,EAN13,China,"[""searxng:6972038641583""]",2
+4902443565459,EAN13,Japan,"[""searxng:4902443565459""]",1
+4987244194527,EAN13,Japan,"[""searxng:4987244194527""]",1
+4987244196538,EAN13,Japan,"[""searxng:4987244196538""]",1
+4902669083676,EAN13,Japan,"[""searxng:4902669083676""]",1
+4580359470625,EAN13,Japan,"[""searxng:4580359470625""]",2
+6942349766060,EAN13,China,"[""searxng:6942349766060""]",2
+4940927700934,EAN13,Japan,"[""searxng:4940927700934""]",3
+4987036485024,EAN13,Japan,"[""searxng:4987036485024""]",2
+4901301325730,EAN13,Japan,"[""searxng:4901301325730""]",1
+4056489830382,EAN13,Germany,"[""searxng:4056489830382""]",1
+6161101668309,EAN13,Kenya,[],1
+5010364805987,EAN13,United Kingdom,[],1
+6925464081782,EAN13,China,"[""searxng:6925464081782""]",2
+4056489903246,EAN13,Germany,"[""searxng:4056489903246""]",2
+52590610,EAN8,United States / Canada,"[""searxng:0000052590610""]",1
+5022841000983,EAN13,United Kingdom,"[""searxng:5022841000983""]",3
+8941153056686,EAN13,,"[""searxng:8941153056686""]",1
+8934680014328,EAN13,Vietnam,[],1
+040455021007,UPC_A,United States / Canada,"[""searxng:0040455021007""]",1
+5501412646206,EAN13,,"[""searxng:5501412646206""]",1
+087565210105,UPC_A,United States / Canada,"[""searxng:0087565210105""]",1
+4606038096853,EAN13,Russia,"[""searxng:4606038096853""]",1
+4603825014694,EAN13,Russia,[],2
+9789674649166,EAN13,,"[""searxng:9789674649166""]",1
+8906130900062,EAN13,India,[],3
+6073001180006,EAN13,,[],1
+6566140910066,EAN13,,[],1
+9556231190016,EAN13,Malaysia,"[""searxng:9556231190016""]",6
+6971186265580,EAN13,China,"[""searxng:6971186265580""]",2
+9556025139511,EAN13,Malaysia,"[""searxng:9556025139511""]",6
+8682287365175,EAN13,Turkey,[],1
+8422414002463,EAN13,Spain,"[""searxng:8422414002463""]",1
+6132356301822,EAN13,Algeria,"[""searxng:6132356301822"", ""https://www.cboe.com/us/equities/market_statistics/retail_price_improvement/rpt_rpi_maker_opportunity_20221130.csv-dl"", ""https://www.sec.gov/Archives/edgar/data/12601/000087078602000173/0000870786-02-000173.txt"", ""https://www.fondsdereserve.fr/wp-content/uploads/2025/11/portfolio-composition-20220630.pdf"", ""https://www.pesi.com/items/getcertcreditdetail?productid=178684"", ""https://tellows.com/num/18665403229"", ""https://www.tellows.com/num/%2B13137827600"", ""https://www.tellows.com/num/%2B17627603427"", ""https://www.tellows.com/num/%2B18005879674""]",3
+6130775000012,EAN13,Algeria,[],2
+8997231030154,EAN13,Indonesia,"[""searxng:8997231030154""]",1
+8995077603952,EAN13,Indonesia,"[""searxng:8995077603952""]",2
+6970317164136,EAN13,China,"[""searxng:6970317164136"", ""https://pireca.com/telefono-movil-numero-69147/"", ""https://cs.rhodes.edu/welshc/COMP355_F17/PS1_input.txt"", ""https://quien-llamo.com/691753000"", ""https://losmejoresenlaces.com/site/moviles.php?num=91876"", ""https://quienlamo.com/693366000"", ""https://prefijostelefonicos.mas-informacion.com/telefono/informacion-del-telefono-69256/"", ""https://www.eveandersson.com/pi/digits/1000000"", ""https://tellows.com/num/18665403229""]",2
+4949582130094,EAN13,Japan,[],2
+0225407911302,EAN13,United States / Canada,[],2
+6956637707789,EAN13,China,"[""searxng:6956637707789""]",1
+4810411015298,EAN13,,"[""searxng:4810411015298""]",1
+6945713508020,EAN13,China,"[""searxng:6945713508020""]",4
+8859407680559,EAN13,Thailand,"[""searxng:8859407680559""]",1
+584934560347,UPC_A,United States / Canada,"[""searxng:0584934560347""]",1
+4901335118414,EAN13,Japan,[],2
+012142020471,UPC_A,United States / Canada,[],1
+8809109114722,EAN13,South Korea,"[""searxng:8809109114722""]",2
+4901360366033,EAN13,Japan,"[""searxng:4901360366033""]",3
+8852008510072,EAN13,Thailand,"[""searxng:8852008510072""]",2
+6948839518270,EAN13,China,"[""searxng:6948839518270""]",2
+8855199133365,EAN13,Thailand,"[""searxng:8855199133365""]",2
+6949183012995,EAN13,China,[],2
+8850267901440,EAN13,Thailand,[],1
+2109970007045,EAN13,,"[""searxng:2109970007045""]",3
+6909995112337,EAN13,China,"[""searxng:6909995112337""]",8
+4933094031819,EAN13,Japan,"[""searxng:4933094031819""]",1
+6973124348850,EAN13,China,"[""searxng:6973124348850""]",2
+4903110795742,EAN13,Japan,"[""searxng:4903110795742""]",1
+75025120,EAN8,United States / Canada,"[""searxng:0000075025120""]",2
+6937492426237,EAN13,China,[],1
+7503010473152,EAN13,Mexico,"[""searxng:7503010473152""]",4
+8059006660123,EAN13,Italy,"[""searxng:8059006660123""]",1
+2004215212058,EAN13,,[],2
+8402001055416,EAN13,Spain,"[""searxng:8402001055416""]",2
+8001440135972,EAN13,Italy,"[""searxng:8001440135972""]",2
+9557746501113,EAN13,Malaysia,"[""searxng:9557746501113""]",2
+8436611270907,EAN13,Spain,"[""searxng:8436611270907""]",1
+041000135972,UPC_A,United States / Canada,"[""searxng:0041000135972""]",1
+5310142001267,EAN13,North Macedonia,[],4
+2252701116971,EAN13,,"[""searxng:2252701116971""]",1
+5400141488517,EAN13,Belgium / Luxembourg,[],3
+3266615263422,EAN13,France,"[""searxng:3266615263422""]",1
+2684184000704,EAN13,,"[""searxng:2684184000704""]",2
+8992001015638,EAN13,Indonesia,"[""searxng:8992001015638""]",4
+5401141000648,EAN13,Belgium / Luxembourg,"[""searxng:5401141000648""]",2
+6132950585017,EAN13,Algeria,"[""searxng:6132950585017""]",2
+8699118055426,EAN13,Turkey,"[""searxng:8699118055426""]",1
+8414227057617,EAN13,Spain,[],1
+3600524099466,EAN13,France,"[""searxng:3600524099466""]",1
+4610092262246,EAN13,Russia,"[""searxng:4610092262246""]",2
+59095453,EAN8,United States / Canada,[],1
+8410022118317,EAN13,Spain,[],3
+4001686015261,EAN13,Germany,"[""searxng:4001686015261""]",3
+5601002093752,EAN13,Portugal,"[""searxng:5601002093752""]",4
+346119058809,UPC_A,United States / Canada,"[""searxng:0346119058809""]",1
+810170060366,UPC_A,United States / Canada,"[""searxng:0810170060366""]",2
+6132553070729,EAN13,Algeria,[],2
+29365678,EAN8,United States / Canada,[],2
+4061445356325,EAN13,Germany,"[""searxng:4061445356325""]",2
+6903254000045,EAN13,China,"[""searxng:6903254000045""]",4
+5449000183637,EAN13,Belgium / Luxembourg,[],4
+4056489939214,EAN13,Germany,"[""searxng:4056489939214""]",1
+4690329010277,EAN13,Russia,"[""searxng:4690329010277""]",4
+9053476008187,EAN13,Austria,[],1
+6222035257028,EAN13,Egypt,"[""searxng:6222035257028""]",1
+8858684521012,EAN13,Thailand,[],1
+6224009939367,EAN13,Egypt,"[""searxng:6224009939367""]",1
+6222001100983,EAN13,Egypt,"[""searxng:6222001100983""]",2
+9369998087273,EAN13,Australia,[],2
+030847088015,UPC_A,United States / Canada,[],1
+6978956223573,EAN13,China,"[""searxng:6978956223573""]",2
+510610000760,UPC_A,United States / Canada,"[""searxng:0510610000760""]",1
+4335619200159,EAN13,Germany,[],1
+6582140000880,EAN13,,"[""searxng:6582140000880""]",1
+8410087862606,EAN13,Spain,"[""searxng:8410087862606""]",2
+4311501757727,EAN13,Germany,"[""searxng:4311501757727""]",1
+8034120400022,EAN13,Italy,"[""searxng:8034120400022""]",2
+4820224580227,EAN13,Uzbekistan,[],1
+6921555537510,EAN13,China,[],1
+355628176942,UPC_A,United States / Canada,"[""searxng:0355628176942""]",1
+4969244502359,EAN13,Japan,"[""searxng:4969244502359""]",1
+8909106071766,EAN13,India,"[""searxng:8909106071766""]",4
+5290367000972,EAN13,Cyprus,"[""searxng:5290367000972""]",1
+8994963002701,EAN13,Indonesia,[],1
+6224010074149,EAN13,Egypt,"[""searxng:6224010074149""]",1
+8852008511550,EAN13,Thailand,"[""searxng:8852008511550""]",3
+7610026045249,EAN13,Switzerland / Liechtenstein,"[""searxng:7610026045249""]",3
+4979317929884,EAN13,Japan,"[""searxng:4979317929884""]",2
+4550668648817,EAN13,Japan,[],5
+8007914010059,EAN13,Italy,"[""searxng:8007914010059""]",2
+4902775070546,EAN13,Japan,"[""searxng:4902775070546""]",2
+4607001771517,EAN13,Russia,[],5
+9786023706112,EAN13,,"[""searxng:9786023706112""]",1
+7710375502599,EAN13,Colombia,"[""searxng:7710375502599""]",1
+6931702302106,EAN13,China,"[""searxng:6931702302106""]",2
+8690840164646,EAN13,Turkey,"[""searxng:8690840164646""]",2
+6979109840845,EAN13,China,"[""searxng:6979109840845""]",1
+4902170046559,EAN13,Japan,"[""searxng:4902170046559""]",1
+6921594620068,EAN13,China,"[""searxng:6921594620068""]",1
+4902181099834,EAN13,Japan,"[""searxng:4902181099834""]",1
+4901340094840,EAN13,Japan,"[""searxng:4901340094840""]",1
+4902074018836,EAN13,Japan,"[""searxng:4902074018836""]",2
+4977821324843,EAN13,Japan,"[""searxng:4977821324843""]",1
+8999908347909,EAN13,Indonesia,[],1
+4065059025905,EAN13,Germany,[],1
+4070308067025,EAN13,Germany,"[""searxng:4070308067025"", ""https://go-upc.com/barcode-lookup"", ""https://www.4tracking.net/en/"", ""https://www.barcodelookup.com/"", ""https://www.trackingmore.com/track"", ""https://17track.me/"", ""https://parcelsapp.com/"", ""https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=4070"", ""https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=rtx+4070""]",1
+2006000141864,EAN13,,[],1
+6979158510058,EAN13,China,"[""searxng:6979158510058""]",3
+4607022548037,EAN13,Russia,"[""searxng:4607022548037"", ""https://www.piday.org/million/"", ""https://www.ptacsolutions.com/product_index.asp"", ""https://shop.americandigitals.com/product_index.asp?page=471"", ""https://math.answers.com/calculus/What_are_the_first_60_digits_of_pi"", ""https://www.carbideanddiamondtooling.com/product_index.asp?page=1336"", ""https://www.autotoolworld.com/product_index.asp?page=213"", ""https://math.answers.com/math-and-arithmetic/What_are_the_numbers_for_pie"", ""https://www.jonesfarmsupply.com/product_index.asp?page=333""]",3
+5059697267383,EAN13,United Kingdom,"[""searxng:5059697267383""]",2
+09149243,EAN8,United States / Canada,[],1
+4055509055040,EAN13,Germany,"[""searxng:4055509055040""]",1
+8006150002057,EAN13,Italy,[],2
+6926793061360,EAN13,China,"[""searxng:6926793061360""]",1
+6194002400211,EAN13,Tunisia,"[""searxng:6194002400211""]",2
+4607167190399,EAN13,Russia,[],4
+8801073110182,EAN13,South Korea,"[""searxng:8801073110182""]",2
+8710472002076,EAN13,Netherlands,[],3
+2600031000000,EAN13,,[],7
+4534315072194,EAN13,Japan,"[""searxng:4534315072194""]",4
+4311501143995,EAN13,Germany,"[""searxng:4311501143995""]",6
+4978664533027,EAN13,Japan,[],1
+8024370140564,EAN13,Italy,[],2
+8057204091589,EAN13,Italy,"[""searxng:8057204091589""]",2
+6975326789400,EAN13,China,"[""searxng:6975326789400""]",1
+6977304933478,EAN13,China,"[""searxng:6977304933478""]",4
+8801117641603,EAN13,South Korea,"[""searxng:8801117641603""]",1
+8801111951876,EAN13,South Korea,"[""searxng:8801111951876""]",1
+8809288636077,EAN13,South Korea,[],3
+6084011530040,EAN13,Bahrain,"[""searxng:6084011530040""]",1
+8809685984153,EAN13,South Korea,[],1
+3427800170004,EAN13,France,"[""searxng:3427800170004""]",1
+4304672322863,EAN13,Germany,"[""searxng:4304672322863""]",1
+9921592560165,EAN13,,"[""searxng:9921592560165""]",1
+4006000083315,EAN13,Germany,"[""searxng:4006000083315""]",1
+4003840001714,EAN13,Germany,"[""searxng:4003840001714""]",2
+4014153126582,EAN13,Germany,"[""searxng:4014153126582""]",1
+3555622312118,EAN13,France,"[""searxng:3555622312118""]",1
+2041713012995,EAN13,,"[""searxng:2041713012995""]",2
+8009470020367,EAN13,Italy,[],2
+6975922590202,EAN13,China,"[""searxng:6975922590202""]",3
+4942355144250,EAN13,Japan,"[""searxng:4942355144250""]",1
+4942355880448,EAN13,Japan,"[""searxng:4942355880448""]",1
+9555022312118,EAN13,Malaysia,[],2
+8024370142162,EAN13,Italy,"[""searxng:8024370142162""]",1
+694543090446,UPC_A,United States / Canada,"[""searxng:0694543090446""]",1
+8961014008432,EAN13,Pakistan,[],1
+4902102160957,EAN13,Japan,[],1
+4955129031304,EAN13,Japan,[],1
+4760157150732,EAN13,,"[""searxng:4760157150732""]",1
+6942349736629,EAN13,China,"[""searxng:6942349736629""]",1
+4902175470991,EAN13,Japan,"[""searxng:4902175470991""]",2
+4335619411098,EAN13,Germany,[],1
+4335619380738,EAN13,Germany,[],2
+4897144701643,EAN13,Hong Kong,"[""searxng:4897144701643""]",2
+841165120864,UPC_A,United States / Canada,"[""searxng:0841165120864""]",2
+22631794,EAN8,United States / Canada,[],1
+0223169516285,EAN13,United States / Canada,[],1
+0224336013408,EAN13,United States / Canada,"[""searxng:0224336013408""]",1
+4961414104288,EAN13,Japan,[],1
+8941100351925,EAN13,,[],7
+831730002589,UPC_A,United States / Canada,"[""searxng:0831730002589""]",1
+2810000021107,EAN13,,"[""searxng:2810000021107""]",1
+2810000031106,EAN13,,"[""searxng:2810000031106""]",2
+49811742,EAN8,United States / Canada,[],2
+8801382146056,EAN13,South Korea,"[""searxng:8801382146056""]",2
+4903110793052,EAN13,Japan,"[""searxng:4903110793052""]",2
+6924743938403,EAN13,China,"[""searxng:6924743938403""]",6
+6941764426290,EAN13,China,[],1
+5056357914168,EAN13,United Kingdom,"[""searxng:5056357914168""]",3
+4570060210719,EAN13,Japan,"[""searxng:4570060210719""]",2
+4891028726364,EAN13,Hong Kong,"[""searxng:4891028726364""]",1
+4898118968536,EAN13,Hong Kong,"[""searxng:4898118968536""]",4
+8888047889442,EAN13,Singapore,[],2
+8997210180092,EAN13,Indonesia,"[""searxng:8997210180092""]",4
+14073106,EAN8,United States / Canada,"[""searxng:0000014073106""]",1
+3992210180092,EAN13,,"[""searxng:3992210180092""]",1
+6936756294995,EAN13,China,"[""searxng:6936756294995""]",2
+7803473006080,EAN13,Chile,"[""searxng:7803473006080""]",2
+8961014266047,EAN13,Pakistan,"[""https://www.google.com/search?q=8961014266047""]",8
+4909466027612,EAN13,Japan,"[""searxng:4909466027612""]",1
+6951451810028,EAN13,China,"[""searxng:6951451810028""]",3
+6942349737435,EAN13,China,[],2
+4820003615164,EAN13,Uzbekistan,[],1
+7610097180757,EAN13,Switzerland / Liechtenstein,"[""searxng:7610097180757""]",2
+8698013235582,EAN13,Turkey,"[""searxng:8698013235582""]",2
+6137012000019,EAN13,Algeria,"[""searxng:6137012000019""]",2
+3141380352635,EAN13,France,"[""searxng:3141380352635""]",1
+4823097819678,EAN13,Uzbekistan,"[""searxng:4823097819678""]",1
+4670011490389,EAN13,Russia,"[""searxng:4670011490389""]",1
+6132002600293,EAN13,Algeria,"[""searxng:6132002600293""]",2
+8594042912978,EAN13,Czech Republic,"[""searxng:8594042912978""]",2
+9611745011926,EAN13,,"[""searxng:9611745011926""]",1
+4335619096837,EAN13,Germany,"[""searxng:4335619096837""]",2
+8435678760505,EAN13,Spain,[],3
+6215585552217,EAN13,Syria,[],3
+5056215601230,EAN13,United Kingdom,[],2
+6925425480012,EAN13,China,"[""searxng:6925425480012""]",1
+6973497207242,EAN13,China,"[""searxng:6973497207242""]",2
+6942836704773,EAN13,China,"[""searxng:6942836704773""]",1
+6972976000992,EAN13,China,"[""searxng:6972976000992""]",1
+8936024244750,EAN13,Vietnam,"[""searxng:8936024244750""]",1
+4335619219120,EAN13,Germany,[],6
+5352201083074,EAN13,Malta,[],2
+4335619154254,EAN13,Germany,"[""searxng:4335619154254""]",1
+4100060041466,EAN13,Germany,"[""searxng:4100060041466""]",3
+0628235198073,EAN13,United States / Canada,"[""searxng:0628235198073""]",3
+726529997163,UPC_A,United States / Canada,[],2
+6945250760929,EAN13,China,"[""searxng:6945250760929""]",1
+8936014317969,EAN13,Vietnam,[],1
+8421569050756,EAN13,Spain,[],1
+48111522,EAN8,United States / Canada,[],2
+464521971933,UPC_A,United States / Canada,"[""searxng:0464521971933""]",1
+8901719917080,EAN13,India,"[""searxng:8901719917080""]",1
+4404977900008,EAN13,Germany,"[""searxng:4404977900008""]",1
+9900208772000,EAN13,,[],2
+4335619026421,EAN13,Germany,"[""searxng:4335619026421""]",5
+6134233000095,EAN13,Algeria,"[""searxng:6134233000095""]",3
+8850425012797,EAN13,Thailand,"[""searxng:8850425012797""]",1
+8851515603703,EAN13,Thailand,"[""searxng:8851515603703""]",1
+8680199552218,EAN13,Turkey,[],3
+8680199554816,EAN13,Turkey,"[""searxng:8680199554816""]",1
+5391544560422,EAN13,Ireland,"[""searxng:5391544560422""]",3
+8850425012582,EAN13,Thailand,[],4
+6030040688047,EAN13,Ghana,"[""searxng:6030040688047""]",1
+6920832082064,EAN13,China,"[""searxng:6920832082064""]",1
+6920907825565,EAN13,China,"[""searxng:6920907825565""]",6
+12587292,EAN8,United States / Canada,"[""searxng:0000012587292""]",1
+6972432061253,EAN13,China,[],1
+69031649,EAN8,United States / Canada,[],1
+6911352075742,EAN13,China,"[""searxng:6911352075742""]",1
+6924743929302,EAN13,China,"[""searxng:6924743929302""]",1
+6952389218382,EAN13,China,"[""searxng:6952389218382""]",1
+6901180972016,EAN13,China,[],1
+6921555539620,EAN13,China,[],1
+3770021349514,EAN13,France,"[""searxng:3770021349514""]",2
+0975403001926,EAN13,United States / Canada,"[""searxng:0975403001926""]",1
+8809350881657,EAN13,South Korea,"[""searxng:8809350881657""]",1
+8700216550734,EAN13,Netherlands,"[""searxng:8700216550734""]",6
+314491318514,UPC_A,United States / Canada,"[""searxng:0314491318514""]",1
+4260732891581,EAN13,Germany,[],1
+4260629231568,EAN13,Germany,[],1
+9556166130101,EAN13,Malaysia,"[""searxng:9556166130101""]",2
+8906133401306,EAN13,India,"[""searxng:8906133401306""]",3
+8999908960801,EAN13,Indonesia,"[""searxng:8999908960801""]",1
+9556256011013,EAN13,Malaysia,"[""searxng:9556256011013""]",5
+9556023331627,EAN13,Malaysia,"[""searxng:9556023331627""]",4
+840205729968,UPC_A,United States / Canada,[],2
+301132024774,UPC_A,United States / Canada,"[""searxng:0301132024774""]",2
+6973309112597,EAN13,China,"[""searxng:6973309112597""]",4
+4690388122577,EAN13,Russia,"[""searxng:4690388122577""]",2
+9556113908241,EAN13,Malaysia,"[""searxng:9556113908241""]",1
+4335619127999,EAN13,Germany,[],1
+6934502304387,EAN13,China,"[""searxng:6934502304387""]",3
+6999145558535,EAN13,China,"[""searxng:6999145558535""]",5
+9786020456713,EAN13,,"[""searxng:9786020456713""]",1
+4993407700696,EAN13,Japan,"[""searxng:4993407700696""]",1
+6902083894269,EAN13,China,"[""searxng:6902083894269"", ""https://hiyou.co/products/wahaha-nutri-express-hawthorn-500ml"", ""https://detail.182182.com/channels/3865797"", ""https://www.cwasales.com/product/19653973/40364"", ""https://marshables.com/"", ""https://meian.com.mx/"", ""https://www.fcc.gov/file/22057/download"", ""https://cse.msu.edu/~pramanik/teaching/courses/cse480/14s/projects/p1/data/1048576b.txt"", ""https://www2.census.gov/programs-surveys/popest/tables/2010-2018/state/asrh/sc-est2018-agesex-civ.csv""]",1
+9829012051685,EAN13,,"[""searxng:9829012051685""]",2
+8994448832274,EAN13,Indonesia,[],2
+3497911010162,EAN13,France,[],1
+5400210205083,EAN13,Belgium / Luxembourg,[],2
+3556751011705,EAN13,France,"[""searxng:3556751011705""]",1
+6971870598246,EAN13,China,"[""searxng:6971870598246""]",1
+9555037900355,EAN13,Malaysia,"[""searxng:9555037900355""]",2
+4900056082820,EAN13,Japan,"[""searxng:4900056082820""]",1
+6972957051777,EAN13,China,"[""searxng:6972957051777""]",1
+4335619079830,EAN13,Germany,"[""searxng:4335619079830""]",2
+8850291205293,EAN13,Thailand,"[""searxng:8850291205293""]",2
+4901551357239,EAN13,Japan,[],2
+8018880014118,EAN13,Italy,"[""searxng:8018880014118""]",3
+8801045835211,EAN13,South Korea,"[""searxng:8801045835211""]",2
+8908015692406,EAN13,India,[],2
+4605246009327,EAN13,Russia,[],2
+4953823100630,EAN13,Japan,"[""searxng:4953823100630""]",2
+8410179011806,EAN13,Spain,"[""searxng:8410179011806""]",1
+6790048038540,EAN13,,"[""searxng:6790048038540""]",1
+560503612785,UPC_A,United States / Canada,"[""searxng:0560503612785""]",1
+8992727005340,EAN13,Indonesia,"[""searxng:8992727005340""]",1
+793611604056,UPC_A,United States / Canada,"[""searxng:0793611604056""]",1
+8998899996134,EAN13,Indonesia,[],1
+6997724005340,EAN13,China,[],1
+4068706899683,EAN13,Germany,"[""searxng:4068706899683""]",1
+6972054324927,EAN13,China,"[""searxng:6972054324927""]",1
+6970425864966,EAN13,China,"[""searxng:6970425864966""]",2
+6975207522607,EAN13,China,"[""searxng:6975207522607""]",2
+4068261032990,EAN13,Germany,"[""searxng:4068261032990""]",1
+4902705131712,EAN13,Japan,"[""searxng:4902705131712""]",4
+6942176501957,EAN13,China,"[""searxng:6942176501957""]",1
+3048585008865,EAN13,France,[],1
+6970512355360,EAN13,China,"[""searxng:6970512355360""]",1
+8000735017061,EAN13,Italy,[],5
+2108453912241,EAN13,,"[""searxng:2108453912241""]",1
+6971258745170,EAN13,China,"[""searxng:6971258745170""]",2
+997222059810,UPC_A,United States / Canada,[],1
+4901037118194,EAN13,Japan,"[""searxng:4901037118194""]",1
+8994453260307,EAN13,Indonesia,"[""searxng:8994453260307""]",2
+6925267306983,EAN13,China,"[""searxng:6925267306983""]",3
+5011309035810,EAN13,United Kingdom,"[""searxng:5011309035810""]",4
+4902777255644,EAN13,Japan,"[""searxng:4902777255644""]",1
+6925267300387,EAN13,China,"[""searxng:6925267300387""]",1
+4902777255637,EAN13,Japan,[],2
+4902777206127,EAN13,Japan,[],1
+5201360528127,EAN13,Greece,"[""searxng:5201360528127""]",1
+8934563544201,EAN13,Vietnam,"[""searxng:8934563544201""]",2
+6941192046497,EAN13,China,"[""searxng:6941192046497""]",1
+8999999007607,EAN13,Indonesia,"[""searxng:8999999007607""]",1
+4902430399432,EAN13,Japan,"[""searxng:4902430399432""]",1
+6970724821240,EAN13,China,"[""searxng:6970724821240""]",6
+9789967081345,EAN13,,"[""searxng:9789967081345""]",1
+0125002141350,EAN13,United States / Canada,"[""searxng:0125002141350""]",1
+5021889330014,EAN13,United Kingdom,[],6
+17742412,EAN8,United States / Canada,"[""searxng:0000017742412""]",1
+4903379192412,EAN13,Japan,"[""searxng:4903379192412""]",2
+8936000741358,EAN13,Vietnam,"[""searxng:8936000741358""]",5
+6930446828064,EAN13,China,[],3
+8888235996563,EAN13,Singapore,"[""searxng:8888235996563""]",1
+944046828030,UPC_A,United States / Canada,"[""searxng:0944046828030""]",1
+4605082003220,EAN13,Russia,"[""searxng:4605082003220""]",2
+49240092,EAN8,United States / Canada,"[""searxng:0000049240092""]",1
+5050375079496,EAN13,United Kingdom,"[""searxng:5050375079496""]",1
+8993189270819,EAN13,Indonesia,[],1
+6977228158087,EAN13,China,[],3
+4953823384689,EAN13,Japan,"[""searxng:4953823384689""]",5
+8938544215050,EAN13,Vietnam,[],4
+9555052712568,EAN13,Malaysia,"[""searxng:9555052712568""]",2
+8858223019529,EAN13,Thailand,"[""searxng:8858223019529""]",1
+4901777360778,EAN13,Japan,"[""searxng:4901777360778""]",1
+8859580900642,EAN13,Thailand,"[""searxng:8859580900642""]",3
+4904568121367,EAN13,Japan,"[""searxng:4904568121367""]",1
+6970042904618,EAN13,China,"[""searxng:6970042904618""]",1
+6973202701331,EAN13,China,[],1
+6950881285666,EAN13,China,"[""searxng:6950881285666""]",2
+6977365290343,EAN13,China,[],2
+6976504021374,EAN13,China,"[""searxng:6976504021374""]",3
+4903110203780,EAN13,Japan,"[""searxng:4903110203780""]",2
+5601312616139,EAN13,Portugal,"[""searxng:5601312616139""]",2
+4335619028760,EAN13,Germany,"[""searxng:4335619028760""]",3
+8888202000330,EAN13,Singapore,"[""searxng:8888202000330""]",2
+6281102780012,EAN13,Saudi Arabia,"[""searxng:6281102780012""]",1
+073218347113,UPC_A,United States / Canada,"[""searxng:0073218347113""]",1
+8568777235510,EAN13,,"[""searxng:8568777235510""]",1
+693634924417,UPC_A,United States / Canada,"[""searxng:0693634924417""]",1
+746092583235,UPC_A,United States / Canada,"[""searxng:0746092583235""]",1
+5601312187868,EAN13,Portugal,[],1
+5111147033419,EAN13,,"[""searxng:5111147033419""]",1
+4069365342305,EAN13,Germany,[],2
+6111245033419,EAN13,Morocco,"[""searxng:6111245033419""]",1
+8480010301656,EAN13,Spain,[],2
+2080452003710,EAN13,,"[""searxng:2080452003710""]",4
+5941486017326,EAN13,Romania,"[""searxng:5941486017326""]",1
+23311497,EAN8,United States / Canada,"[""searxng:0000023311497""]",2
+6194005445141,EAN13,Tunisia,"[""searxng:6194005445141""]",2
+4196016001141,EAN13,Germany,"[""searxng:4196016001141""]",1
+4752050019582,EAN13,,"[""searxng:4752050019582""]",2
+4752050031195,EAN13,,[],1
+5907707057205,EAN13,Poland,[],1
+4752050025439,EAN13,,[],1
+9050482511151,EAN13,Austria,"[""searxng:9050482511151""]",1
+6281100362319,EAN13,Saudi Arabia,"[""searxng:6281100362319""]",3
+6291106781434,EAN13,United Arab Emirates,"[""searxng:6291106781434""]",1
+4752050025484,EAN13,,"[""searxng:4752050025484""]",1
+9010437058216,EAN13,Austria,"[""searxng:9010437058216""]",2
+5998207917687,EAN13,Hungary,"[""searxng:5998207917687""]",3
+6281105500020,EAN13,Saudi Arabia,"[""searxng:6281105500020""]",2
+8110549998170,EAN13,Italy,"[""searxng:8110549998170""]",1
+6132356300726,EAN13,Algeria,"[""searxng:6132356300726""]",1
+4014153112868,EAN13,Germany,"[""searxng:4014153112868""]",2

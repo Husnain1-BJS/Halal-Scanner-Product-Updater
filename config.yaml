@@ -1,0 +1,46 @@
+# Halal Scanner enrichment pipeline — config
+
+concurrency: 8                    # concurrent Playwright pages (heavy — keep modest)
+max_concurrent_per_domain: 2      # caps in-flight requests to the SAME domain at once
+httpx_concurrency: 30             # concurrent plain httpx requests (cheap — can go high)
+page_timeout_ms: 10000            # shorter than before — fail fast, don't hang the batch
+httpx_timeout_seconds: 6
+max_retries: 2
+retry_backoff_seconds: 2
+
+rate_limit:
+  default_seconds_between_requests: 1.5
+  per_domain_overrides:
+    world.openfoodfacts.org: 0.1
+    world.openbeautyfacts.org: 0.1
+    world.openproductsfacts.org: 0.1
+    api.upcitemdb.com: 1.0        # free trial tier — keep well under their cap
+
+verification:
+  min_score_to_accept: 60         # see src/scraper/verify.py scoring
+
+circuit_breaker:
+  enabled: true
+  failure_threshold: 4            # consecutive fails/blocks before a domain is skipped
+  cooldown_seconds: 300           # domain becomes retriable again after this long (was permanent)
+
+deprioritized_domains:            # known bot walls — tried last, skipped fast on block
+  - ebay.com
+  - amazon.com
+  - amazon.co.uk
+  - amazon.de
+
+search:
+  # Self-hosted SearxNG (free, no key). If unreachable, pipeline falls back
+  # to the direct Playwright google.com search + region routing automatically.
+  searxng_url: "http://localhost:8080"
+  searxng_enabled: true
+  searxng_max_results: 8
+
+paths:
+  checkpoint_db: output/checkpoint.db
+  found_csv: output/found_products.csv
+  invalid_csv: output/invalid_barcodes.csv
+  not_found_csv: output/not_found_products.csv
+  summary_json: output/run_summary.json
+  log_file: logs/run.log

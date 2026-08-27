@@ -1,0 +1,20 @@
+# Free, self-hosted meta search engine — no API key, no rate limit from a
+# third party, returns results across many backend engines regardless of
+# page language. Start with: docker compose up -d
+#
+# Requires Docker Desktop. If you don't want to run Docker, leave this
+# stopped — the pipeline detects it's unreachable and falls back to the
+# direct Playwright google.com search automatically (config.yaml ->
+# search.searxng_enabled can also be set to false to skip the check).
+
+services:
+  searxng:
+    image: searxng/searxng:latest
+    container_name: searxng
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./searxng-config:/etc/searxng
+    environment:
+      - SEARXNG_BASE_URL=http://localhost:8080/
+    restart: unless-stopped

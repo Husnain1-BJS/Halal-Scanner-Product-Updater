@@ -1,0 +1,48 @@
+# Minimal SearxNG settings override.
+# The key line is search.formats — JSON is disabled by default in SearxNG;
+# without this, the pipeline's JSON API calls will get a 403.
+
+use_default_settings: true
+
+server:
+  secret_key: "change-this-to-any-random-string-for-your-own-instance"
+  limiter: false
+
+search:
+  formats:
+    - html
+    - json
+
+engines:
+  - name: bing
+    engine: bing
+    shortcut: bi
+    disabled: false
+
+  - name: mojeek
+    engine: mojeek
+    shortcut: mjk
+    disabled: false
+
+  - name: qwant
+    engine: qwant
+    shortcut: qw
+    disabled: false
+
+  - name: brave
+    engine: brave
+    shortcut: br
+    disabled: false
+    timeout: 5.0
+
+  - name: duckduckgo
+    engine: duckduckgo
+    shortcut: ddg
+    disabled: false
+    timeout: 5.0
+
+  - name: startpage
+    engine: startpage
+    shortcut: sp
+    disabled: false
+    timeout: 5.0
