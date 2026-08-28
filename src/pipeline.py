@@ -26,6 +26,7 @@ Key correctness fixes vs the earlier version:
 
 import httpx
 
+from .sources.barcode_db import run_barcode_db_tier
 from .classify import classify_barcode
 from .sources.open_facts import run_tier1
 from .sources.region_routing import sources_for_country, DEPRIORITIZED_DOMAINS
@@ -231,8 +232,28 @@ async def process_one_barcode(
             record, tier1_result, tier1_result.get("source_url"),
             tier1_result.get("source_name"), 100, scan_count, confidence="high",
         )
+        tier1_result = await run_tier1(http_client, barcode)
+    if tier1_result:
+        text_for_lang = " ".join(filter(None, [...]))
+        lang = detect_lang_from_text(text_for_lang) if text_for_lang else None
+        tier1_result = translate_extracted_fields(tier1_result, lang)
+        return "found", _found_row(
+            record, tier1_result, tier1_result.get("source_url"),
+            tier1_result.get("source_name"), 100, scan_count, confidence="high",
+        )
+
+    # NEW: barcode-specific databases, tried before search/scrape
+    tier1b_result = await run_barcode_db_tier(http_client, barcode, config)
+    if tier1b_result:
+        return "found", _found_row(
+            record, tier1b_result, tier1b_result.get("source_url"),
+            tier1b_result.get("source_name"), 100, scan_count, confidence="high",
+        )
 
     attempted_sources: list[str] = []
+    # ... rest of your Tier 2 code continues below unchanged
+
+    
 
     # ---- Tier 2a: SearxNG (if reachable) — tried in FULL before falling back ----
     searxng_cfg = config.get("search", {})
