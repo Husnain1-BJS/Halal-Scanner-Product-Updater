@@ -44,3 +44,12 @@ paths:
   not_found_csv: output/not_found_products.csv
   summary_json: output/run_summary.json
   log_file: logs/run.log
+
+  # Add these blocks to your existing config.yaml
+
+barcode_databases:
+  digit_eyes_app_key: ""     # free at digit-eyes.com/register
+  digit_eyes_app_id: ""
+  go_upc_api_key: ""         # free at go-upc.com/api
+
+firecrawl_api_key: ""        # free at firecrawl.dev (one-time 500-1000 credits, use sparingly)

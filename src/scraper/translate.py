@@ -1,55 +1,63 @@
 """
-Free translation via deep-translator (wraps Google Translate's free web
-endpoint — no API key, no cost, no compiled dependencies to install).
-Needs an internet connection, which the pipeline already requires anyway.
-
-Translate only the short extracted fields (name, brand, ingredients text) —
-never the whole page, it's wasted work and wasted requests.
+Priority 4 -- translation based on ACTUAL extracted text content, not the
+<html lang=""> attribute (often missing/wrong on Asian e-commerce sites --
+many pages declare lang="en" while body content is entirely non-English).
 """
 
 import re
+from deep_translator import GoogleTranslator
 
-_HTML_LANG_PATTERN = re.compile(r'<html[^>]+lang=["\']([a-zA-Z]{2})', re.I)
-
-
-def detect_lang_from_html(html: str) -> str | None:
-    match = _HTML_LANG_PATTERN.search(html)
-    if match:
-        return match.group(1).lower()
-    return None
+try:
+    from langdetect import detect, DetectorFactory
+    DetectorFactory.seed = 0  # deterministic results
+except ImportError:
+    detect = None
 
 
 def detect_lang_from_text(text: str) -> str | None:
+    """Detect language from the ACTUAL content, not an HTML attribute."""
+    if not text or len(text.strip()) < 10 or detect is None:
+        return None
     try:
-        from langdetect import detect
         return detect(text)
     except Exception:
         return None
 
 
-def translate_to_en(text: str, from_code: str) -> str:
-    if not text or from_code in ("en", None):
+def detect_lang_from_html(html: str) -> str | None:
+    """Kept for backward compatibility -- prefer detect_lang_from_text when
+    you have real extracted content available; this is a weaker fallback."""
+    match = re.search(r'<html[^>]+lang=["\']([a-zA-Z\-]{2,5})', html, re.I)
+    return match.group(1)[:2].lower() if match else None
+
+
+def translate_text(text: str, source_lang: str | None) -> str:
+    if not text or not source_lang or source_lang == "en":
         return text
     try:
-        from deep_translator import GoogleTranslator
-        # deep-translator wants ISO codes; 'auto' is a safe fallback if the
-        # detected code isn't one it recognises.
-        try:
-            return GoogleTranslator(source=from_code, target="en").translate(text)
-        except Exception:
-            return GoogleTranslator(source="auto", target="en").translate(text)
+        return GoogleTranslator(source=source_lang, target="en").translate(text)
     except Exception:
-        # Any failure (network blip, unsupported text, library issue) —
-        # fail soft, return the original text rather than crashing the run.
-        return text
+        return text  # fail soft -- never crash the pipeline over translation
 
 
-def translate_extracted_fields(fields: dict, lang: str | None) -> dict:
+def translate_extracted_fields(fields: dict, lang: str | None = None) -> dict:
+    """
+    Detects language from the actual field content (product_name +
+    ingredients combined) if not already provided, then translates every
+    text field consistently. This catches cases where the page's <html
+    lang> tag lied but the real content is non-English.
+    """
+    keys = ["product_name", "brand", "description", "ingredients_text", "ingredients"]
+    combined = " ".join(str(fields.get(k, "") or "") for k in keys)
+
+    if lang is None:
+        lang = detect_lang_from_text(combined)
     if not lang or lang == "en":
         return fields
-    translatable_keys = ["product_name", "brand", "description", "ingredients_text", "ingredients"]
+
     out = dict(fields)
-    for key in translatable_keys:
+    for key in keys:
         if out.get(key):
-            out[key] = translate_to_en(out[key], lang)
+            out[key] = translate_text(out[key], lang)
+    out["_detected_language"] = lang
     return out
